@@ -35,7 +35,7 @@ def auto_response_classifier(df_unlabeled, df_labeled):
     df_final = pd.DataFrame(pd.concat([df_unlabeled, df_labeled], axis = 0))
     df_final = df_final.iloc[:, 3:]
 
-    df_final.to_csv(r'C:\Users\mawal\OneDrive - Binghamton University\Desktop\Desktop_Folders\Upwork\NLP\df_final.csv', index=False)
+    return df_final
 
 def preprocess_text(df_final):
     
@@ -110,7 +110,7 @@ def preprocess_text(df_final):
             df_final.loc[[i], ['slant']] = 'Non-Partisan'
             df_final.loc[[i],['author']] = 'Other'            
 
-    df_final.to_csv(r'C:\Users\mawal\OneDrive - Binghamton University\Desktop\Desktop_Folders\Upwork\NLP\df_final.csv', index=False)
+    return df_final
 
 def pre_analysis(df_final):
     
@@ -141,7 +141,7 @@ def pre_analysis(df_final):
 
     df_final['response_checks'] = df_final['content'].str.contains(full_regex, case = False, regex = True).astype(int)
           
-    df_final.to_csv(r'C:\Users\mawal\OneDrive - Binghamton University\Desktop\Desktop_Folders\Upwork\NLP\df_final.csv', index=False)
+    return df_final
 
 def analysis(df_final):
     
