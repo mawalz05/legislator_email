@@ -369,7 +369,7 @@ def analysis(df_final):
     to_csv_timestamp = datetime.today().strftime('%Y%m%d_%H%M%S')
     
     # Create a Pandas Excel writer using XlsxWriter as the engine.
-    writer = pd.ExcelWriter(cwd + '\\' + to_csv_timestamp + "_analysis.xlsx", engine='xlsxwriter')
+    writer = pd.ExcelWriter(cwd + '\\' + to_csv_timestamp + "_analysis_response.xlsx", engine='xlsxwriter')
 
     # Write each dataframe to a different worksheet.
     topics.to_excel(writer, sheet_name='topics')
@@ -441,7 +441,7 @@ def comp_tests(df, group1, group2):
     to_csv_timestamp = datetime.today().strftime('%Y%m%d_%H%M%S')
     
     # Create a Pandas Excel writer using XlsxWriter as the engine.
-    writer = pd.ExcelWriter(cwd + '\\' + to_csv_timestamp + "ttest.xlsx", engine='xlsxwriter')
+    writer = pd.ExcelWriter(cwd + '\\' + to_csv_timestamp + "_ttest_response.xlsx", engine='xlsxwriter')
 
     stats.to_excel(writer, sheet_name='ttest')
     writer.save()
@@ -580,13 +580,15 @@ def merged_analysis(df):
     
     topic_authors_slants_party['response_prop'] = topic_authors_slants_party['response']/topic_authors_slants_party['count']
     
+    import os
+    cwd = os.getcwd()    
     from datetime import datetime
     
     # Obtain timestamp in a readable format
     to_csv_timestamp = datetime.today().strftime('%Y%m%d_%H%M%S')
     
     # Create a Pandas Excel writer using XlsxWriter as the engine.
-    writer = pd.ExcelWriter("C:\\Users\\mawal\\OneDrive - Binghamton University\\Desktop\\Desktop_Folders\\Upwork\\NLP\\Analysis\\Analysis - Full Data\\" + to_csv_timestamp + "_analysis.xlsx", engine='xlsxwriter')
+    writer = pd.ExcelWriter(cwd + '\\' + to_csv_timestamp + "_analysis_all.xlsx", engine='xlsxwriter')
 
     # Write each dataframe to a different worksheet.
     topics.to_excel(writer, sheet_name='topics')
@@ -607,7 +609,7 @@ def merged_analysis(df):
     # Close the Pandas Excel writer and output the Excel file.
     writer.save()
     
-    df.to_csv(r'C:\Users\mawal\OneDrive - Binghamton University\Desktop\Desktop_Folders\Upwork\NLP\df_final_all.csv', index = False)  
+    return authors 
 
 
 def comp_tests_merge(df, group1, group2):
@@ -636,15 +638,16 @@ def comp_tests_merge(df, group1, group2):
     s_list = [[phat, se, z, upper, lower]]
     
     stats = pd.DataFrame(s_list, columns = ['phat', 'se', 'z', 'upper','lower'])
-    
+ 
+    import os
+    cwd = os.getcwd()    
     from datetime import datetime
     
     # Obtain timestamp in a readable format
     to_csv_timestamp = datetime.today().strftime('%Y%m%d_%H%M%S')
     
     # Create a Pandas Excel writer using XlsxWriter as the engine.
-    writer = pd.ExcelWriter("C:\\Users\\mawal\\OneDrive - Binghamton University\\Desktop\\Desktop_Folders\\Upwork\\NLP\\Analysis\\Analysis - Full Data\\ttest\\" 
-                            + to_csv_timestamp + "ttest.xlsx", engine='xlsxwriter')
+    writer = pd.ExcelWriter(cwd + '\\' + to_csv_timestamp + "_ttest_all.xlsx", engine='xlsxwriter')
 
     stats.to_excel(writer, sheet_name='ttest')
     writer.save()    
@@ -708,7 +711,14 @@ def logit_output(df):
     logit_model = sm.Logit(y, X)
     result = logit_model.fit()
     print(result.summary())
+    
+    import os
+    cwd = os.getcwd()    
+    from datetime import datetime
+    
+    # Obtain timestamp in a readable format
+    to_text_timestamp = datetime.today().strftime('%Y%m%d_%H%M%S')    
 
-    with open(r'C:\Users\mawal\OneDrive - Binghamton University\Desktop\Desktop_Folders\Upwork\NLP\Regression_Output.txt', 'w' , encoding='utf-8') as text_file:
+    with open(cwd + '\\' + to_text_timestamp + '_logit_regression.txt', 'w' , encoding='utf-8') as text_file:
         text_file.write(result.summary().as_text())
         text_file.close()
