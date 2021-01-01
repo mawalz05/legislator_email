@@ -1,0 +1,7189 @@
+legislator_id,legislativebody,party
+0,Alabama House,R
+1,Alabama House,R
+2,Alabama House,R
+3,Alabama House,R
+4,Alabama House,R
+5,Alabama House,R
+6,Alabama House,R
+7,Alabama House,R
+8,Alabama House,R
+9,Alabama House,R
+10,Alabama House,R
+11,Alabama House,R
+12,Alabama House,R
+13,Alabama House,R
+14,Alabama House,R
+15,Alabama House,R
+16,Alabama House,R
+17,Alabama House,R
+18,Alabama House,D
+19,Alabama House,R
+20,Alabama House,R
+21,Alabama House,R
+22,Alabama House,R
+23,Alabama House,R
+24,Alabama House,R
+25,Alabama House,R
+26,Alabama House,R
+27,Alabama House,R
+28,Alabama House,R
+29,Alabama House,R
+30,Alabama House,R
+31,Alabama House,D
+32,Alabama House,R
+33,Alabama House,R
+34,Alabama House,R
+35,Alabama House,R
+36,Alabama House,R
+37,Alabama House,R
+38,Alabama House,R
+39,Alabama House,R
+40,Alabama House,R
+41,Alabama House,R
+42,Alabama House,R
+43,Alabama House,R
+44,Alabama House,R
+45,Alabama House,R
+46,Alabama House,R
+47,Alabama House,R
+48,Alabama House,R
+49,Alabama House,D
+50,Alabama House,D
+51,Alabama House,D
+52,Alabama House,D
+53,Alabama House,D
+54,Alabama House,D
+55,Alabama House,D
+56,Alabama House,D
+57,Alabama House,D
+58,Alabama House,R
+59,Alabama House,R
+60,Alabama House,R
+61,Alabama House,R
+62,Alabama House,R
+63,Alabama House,R
+64,Alabama House,D
+65,Alabama House,D
+66,Alabama House,D
+67,Alabama House,D
+68,Alabama House,D
+69,Alabama House,D
+70,Alabama House,R
+71,Alabama House,R
+72,Alabama House,R
+73,Alabama House,D
+74,Alabama House,D
+75,Alabama House,D
+76,Alabama House,R
+77,Alabama House,R
+78,Alabama House,R
+79,Alabama House,D
+80,Alabama House,D
+81,Alabama House,D
+82,Alabama House,D
+83,Alabama House,R
+84,Alabama House,R
+85,Alabama House,R
+86,Alabama House,R
+87,Alabama House,R
+88,Alabama House,R
+89,Alabama House,R
+90,Alabama House,R
+91,Alabama House,R
+92,Alabama House,R
+93,Alabama House,R
+94,Alabama House,D
+95,Alabama House,D
+96,Alabama House,D
+97,Alabama House,R
+98,Alabama House,R
+99,Alabama House,R
+100,Alabama House,D
+101,Alabama House,R
+102,Alabama House,R
+103,Alabama Senate,R
+104,Alabama Senate,R
+105,Alabama Senate,R
+106,Alabama Senate,R
+107,Alabama Senate,R
+108,Alabama Senate,R
+109,Alabama Senate,R
+110,Alabama Senate,R
+111,Alabama Senate,R
+112,Alabama Senate,R
+113,Alabama Senate,R
+114,Alabama Senate,R
+115,Alabama Senate,R
+116,Alabama Senate,R
+117,Alabama Senate,R
+118,Alabama Senate,R
+119,Alabama Senate,R
+120,Alabama Senate,D
+121,Alabama Senate,D
+122,Alabama Senate,D
+123,Alabama Senate,R
+124,Alabama Senate,R
+125,Alabama Senate,D
+126,Alabama Senate,D
+127,Alabama Senate,R
+128,Alabama Senate,D
+129,Alabama Senate,R
+130,Alabama Senate,D
+131,Alabama Senate,R
+132,Alabama Senate,R
+133,Alabama Senate,R
+134,Alabama Senate,R
+135,Alabama Senate,D
+136,Alabama Senate,R
+137,Alabama Senate,R
+138,Alaska House,R
+139,Alaska House,D
+140,Alaska House,D
+141,Alaska House,R
+142,Alaska House,I
+143,Alaska House,D
+144,Alaska House,D
+145,Alaska House,R
+146,Alaska House,D
+147,Alaska House,D
+148,Alaska House,R
+149,Alaska House,R
+150,Alaska House,R
+151,Alaska House,D
+152,Alaska House,R
+153,Alaska House,R
+154,Alaska House,D
+155,Alaska House,R
+156,Alaska House,R
+157,Alaska House,U
+158,Alaska House,R
+159,Alaska House,R
+160,Alaska House,R
+161,Alaska House,R
+162,Alaska House,R
+163,Alaska House,R
+164,Alaska House,R
+165,Alaska House,D
+166,Alaska House,D
+167,Alaska House,R
+168,Alaska House,R
+169,Alaska House,R
+170,Alaska House,D
+171,Alaska House,R
+172,Alaska House,R
+173,Alaska House,D
+174,Alaska House,R
+175,Alaska House,D
+176,Alaska House,D
+177,Alaska Senate,D
+178,Alaska Senate,R
+179,Alaska Senate,R
+180,Alaska Senate,R
+181,Alaska Senate,R
+182,Alaska Senate,R
+183,Alaska Senate,R
+184,Alaska Senate,D
+185,Alaska Senate,D
+186,Alaska Senate,D
+187,Alaska Senate,R
+188,Alaska Senate,R
+189,Alaska Senate,R
+190,Alaska Senate,R
+191,Alaska Senate,R
+192,Alaska Senate,R
+193,Alaska Senate,D
+194,Alaska Senate,R
+195,Alaska Senate,D
+196,Alaska Senate,D
+197,Arizona House,R
+198,Arizona House,D
+199,Arizona House,R
+200,Arizona House,R
+201,Arizona House,R
+202,Arizona House,D
+203,Arizona House,D
+204,Arizona House,R
+205,Arizona House,R
+206,Arizona House,D
+207,Arizona House,R
+208,Arizona House,D
+209,Arizona House,R
+210,Arizona House,D
+211,Arizona House,R
+212,Arizona House,R
+213,Arizona House,D
+214,Arizona House,R
+215,Arizona House,D
+216,Arizona House,D
+217,Arizona House,D
+218,Arizona House,D
+219,Arizona House,R
+220,Arizona House,R
+221,Arizona House,D
+222,Arizona House,D
+223,Arizona House,R
+224,Arizona House,R
+225,Arizona House,D
+226,Arizona House,D
+227,Arizona House,D
+228,Arizona House,R
+229,Arizona House,R
+230,Arizona House,R
+231,Arizona House,D
+232,Arizona House,D
+233,Arizona House,D
+234,Arizona House,R
+235,Arizona House,R
+236,Arizona House,D
+237,Arizona House,R
+238,Arizona House,D
+239,Arizona House,R
+240,Arizona House,R
+241,Arizona House,D
+242,Arizona House,R
+243,Arizona House,R
+244,Arizona House,D
+245,Arizona House,D
+246,Arizona House,D
+247,Arizona House,R
+248,Arizona House,D
+249,Arizona House,D
+250,Arizona House,D
+251,Arizona House,R
+252,Arizona House,R
+253,Arizona House,R
+254,Arizona House,D
+255,Arizona House,R
+256,Arizona House,R
+257,Arizona Senate,R
+258,Arizona Senate,D
+259,Arizona Senate,R
+260,Arizona Senate,D
+261,Arizona Senate,R
+262,Arizona Senate,D
+263,Arizona Senate,R
+264,Arizona Senate,R
+265,Arizona Senate,D
+266,Arizona Senate,D
+267,Arizona Senate,R
+268,Arizona Senate,R
+269,Arizona Senate,R
+270,Arizona Senate,D
+271,Arizona Senate,R
+272,Arizona Senate,R
+273,Arizona Senate,R
+274,Arizona Senate,R
+275,Arizona Senate,R
+276,Arizona Senate,D
+277,Arizona Senate,R
+278,Arizona Senate,D
+279,Arizona Senate,D
+280,Arizona Senate,R
+281,Arizona Senate,D
+282,Arizona Senate,R
+283,Arizona Senate,D
+284,Arizona Senate,D
+285,Arizona Senate,D
+286,Arizona Senate,R
+287,Arkansas House,R
+288,Arkansas House,D
+289,Arkansas House,R
+290,Arkansas House,R
+291,Arkansas House,R
+292,Arkansas House,R
+293,Arkansas House,R
+294,Arkansas House,R
+295,Arkansas House,R
+296,Arkansas House,R
+297,Arkansas House,R
+298,Arkansas House,R
+299,Arkansas House,R
+300,Arkansas House,R
+301,Arkansas House,R
+302,Arkansas House,R
+303,Arkansas House,R
+304,Arkansas House,R
+305,Arkansas House,D
+306,Arkansas House,R
+307,Arkansas House,D
+308,Arkansas House,R
+309,Arkansas House,D
+310,Arkansas House,D
+311,Arkansas House,D
+312,Arkansas House,D
+313,Arkansas House,R
+314,Arkansas House,R
+315,Arkansas House,R
+316,Arkansas House,D
+317,Arkansas House,D
+318,Arkansas House,R
+319,Arkansas House,R
+320,Arkansas House,R
+321,Arkansas House,R
+322,Arkansas House,R
+323,Arkansas House,R
+324,Arkansas House,D
+325,Arkansas House,R
+326,Arkansas House,R
+327,Arkansas House,D
+328,Arkansas House,R
+329,Arkansas House,R
+330,Arkansas House,R
+331,Arkansas House,R
+332,Arkansas House,R
+333,Arkansas House,R
+334,Arkansas House,R
+335,Arkansas House,R
+336,Arkansas House,R
+337,Arkansas House,R
+338,Arkansas House,R
+339,Arkansas House,R
+340,Arkansas House,D
+341,Arkansas House,R
+342,Arkansas House,R
+343,Arkansas House,R
+344,Arkansas House,R
+345,Arkansas House,R
+346,Arkansas House,R
+347,Arkansas House,D
+348,Arkansas House,R
+349,Arkansas House,R
+350,Arkansas House,R
+351,Arkansas House,D
+352,Arkansas House,R
+353,Arkansas House,R
+354,Arkansas House,R
+355,Arkansas House,R
+356,Arkansas House,R
+357,Arkansas House,D
+358,Arkansas House,R
+359,Arkansas House,R
+360,Arkansas House,R
+361,Arkansas House,D
+362,Arkansas House,R
+363,Arkansas House,R
+364,Arkansas House,D
+365,Arkansas House,D
+366,Arkansas House,R
+367,Arkansas House,D
+368,Arkansas House,R
+369,Arkansas House,D
+370,Arkansas House,R
+371,Arkansas House,R
+372,Arkansas House,R
+373,Arkansas House,R
+374,Arkansas House,R
+375,Arkansas House,R
+376,Arkansas House,R
+377,Arkansas House,R
+378,Arkansas House,R
+379,Arkansas House,R
+380,Arkansas House,D
+381,Arkansas House,R
+382,Arkansas House,R
+383,Arkansas House,R
+384,Arkansas House,D
+385,Arkansas House,D
+386,Arkansas Senate,R
+387,Arkansas Senate,R
+388,Arkansas Senate,R
+389,Arkansas Senate,D
+390,Arkansas Senate,R
+391,Arkansas Senate,R
+392,Arkansas Senate,R
+393,Arkansas Senate,R
+394,Arkansas Senate,R
+395,Arkansas Senate,D
+396,Arkansas Senate,R
+397,Arkansas Senate,D
+398,Arkansas Senate,R
+399,Arkansas Senate,R
+400,Arkansas Senate,R
+401,Arkansas Senate,R
+402,Arkansas Senate,R
+403,Arkansas Senate,R
+404,Arkansas Senate,R
+405,Arkansas Senate,R
+406,Arkansas Senate,R
+407,Arkansas Senate,R
+408,Arkansas Senate,R
+409,Arkansas Senate,D
+410,Arkansas Senate,D
+411,Arkansas Senate,D
+412,Arkansas Senate,R
+413,Arkansas Senate,R
+414,Arkansas Senate,R
+415,Arkansas Senate,D
+416,Arkansas Senate,D
+417,Arkansas Senate,D
+418,Arkansas Senate,R
+419,Arkansas Senate,R
+420,Arkansas Senate,R
+421,California House,D
+422,California House,D
+423,California House,D
+424,California House,D
+425,California House,R
+426,California House,D
+427,California House,D
+428,California House,D
+429,California House,R
+430,California House,D
+431,California House,D
+432,California House,D
+433,California House,D
+434,California House,D
+435,California House,R
+436,California House,D
+437,California House,R
+438,California House,D
+439,California House,D
+440,California House,D
+441,California House,R
+442,California House,R
+443,California House,D
+444,California House,R
+445,California House,D
+446,California House,R
+447,California House,R
+448,California House,D
+449,California House,D
+450,California House,D
+451,California House,R
+452,California House,D
+453,California House,D
+454,California House,D
+455,California House,D
+456,California House,D
+457,California House,D
+458,California House,D
+459,California House,D
+460,California House,D
+461,California House,D
+462,California House,D
+463,California House,D
+464,California House,R
+465,California House,R
+466,California House,D
+467,California House,D
+468,California House,D
+469,California House,D
+470,California House,R
+471,California House,I
+472,California House,D
+473,California House,D
+474,California House,D
+475,California House,D
+476,California House,D
+477,California House,R
+478,California House,D
+479,California House,R
+480,California House,D
+481,California House,D
+482,California House,D
+483,California House,D
+484,California House,D
+485,California House,D
+486,California House,D
+487,California House,D
+488,California House,D
+489,California House,D
+490,California House,D
+491,California House,D
+492,California House,D
+493,California House,D
+494,California House,D
+495,California House,R
+496,California House,R
+497,California House,D
+498,California House,D
+499,California House,D
+500,California Senate,D
+501,California Senate,D
+502,California Senate,D
+503,California Senate,R
+504,California Senate,D
+505,California Senate,R
+506,California Senate,D
+507,California Senate,D
+508,California Senate,R
+509,California Senate,R
+510,California Senate,D
+511,California Senate,D
+512,California Senate,D
+513,California Senate,D
+514,California Senate,D
+515,California Senate,R
+516,California Senate,D
+517,California Senate,D
+518,California Senate,D
+519,California Senate,D
+520,California Senate,D
+521,California Senate,R
+522,California Senate,D
+523,California Senate,D
+524,California Senate,R
+525,California Senate,D
+526,California Senate,D
+527,California Senate,R
+528,California Senate,R
+529,California Senate,R
+530,California Senate,D
+531,California Senate,D
+532,California Senate,D
+533,California Senate,D
+534,California Senate,D
+535,California Senate,D
+536,California Senate,D
+537,California Senate,D
+538,California Senate,D
+539,California Senate,R
+540,Colorado House,D
+541,Colorado House,R
+542,Colorado House,D
+543,Colorado House,R
+544,Colorado House,D
+545,Colorado House,D
+546,Colorado House,R
+547,Colorado House,R
+548,Colorado House,D
+549,Colorado House,D
+550,Colorado House,D
+551,Colorado House,R
+552,Colorado House,R
+553,Colorado House,R
+554,Colorado House,D
+555,Colorado House,D
+556,Colorado House,D
+557,Colorado House,D
+558,Colorado House,D
+559,Colorado House,D
+560,Colorado House,D
+561,Colorado House,R
+562,Colorado House,D
+563,Colorado House,D
+564,Colorado House,D
+565,Colorado House,R
+566,Colorado House,D
+567,Colorado House,R
+568,Colorado House,D
+569,Colorado House,D
+570,Colorado House,D
+571,Colorado House,D
+572,Colorado House,D
+573,Colorado House,R
+574,Colorado House,R
+575,Colorado House,R
+576,Colorado House,D
+577,Colorado House,D
+578,Colorado House,R
+579,Colorado House,D
+580,Colorado House,D
+581,Colorado House,D
+582,Colorado House,D
+583,Colorado House,R
+584,Colorado House,R
+585,Colorado House,R
+586,Colorado House,R
+587,Colorado House,D
+588,Colorado House,R
+589,Colorado House,R
+590,Colorado House,D
+591,Colorado House,D
+592,Colorado House,D
+593,Colorado House,R
+594,Colorado House,D
+595,Colorado House,D
+596,Colorado House,D
+597,Colorado House,D
+598,Colorado House,D
+599,Colorado House,R
+600,Colorado House,D
+601,Colorado House,R
+602,Colorado House,R
+603,Colorado House,R
+604,Colorado House,D
+605,Colorado House,D
+606,Colorado Senate,D
+607,Colorado Senate,R
+608,Colorado Senate,R
+609,Colorado Senate,D
+610,Colorado Senate,R
+611,Colorado Senate,D
+612,Colorado Senate,D
+613,Colorado Senate,D
+614,Colorado Senate,D
+615,Colorado Senate,D
+616,Colorado Senate,D
+617,Colorado Senate,R
+618,Colorado Senate,D
+619,Colorado Senate,D
+620,Colorado Senate,D
+621,Colorado Senate,R
+622,Colorado Senate,R
+623,Colorado Senate,R
+624,Colorado Senate,D
+625,Colorado Senate,R
+626,Colorado Senate,R
+627,Colorado Senate,D
+628,Colorado Senate,D
+629,Colorado Senate,R
+630,Colorado Senate,R
+631,Colorado Senate,D
+632,Colorado Senate,R
+633,Colorado Senate,R
+634,Colorado Senate,R
+635,Colorado Senate,D
+636,Colorado Senate,R
+637,Colorado Senate,D
+638,Colorado Senate,D
+639,Colorado Senate,D
+640,Colorado Senate,R
+641,Colorado Senate,D
+642,Connecticut House,D
+643,Connecticut House,R
+644,Connecticut House,D
+645,Connecticut House,D
+646,Connecticut House,D
+647,Connecticut House,D
+648,Connecticut House,D
+649,Connecticut House,R
+650,Connecticut House,D
+651,Connecticut House,D
+652,Connecticut House,R
+653,Connecticut House,D
+654,Connecticut House,R
+655,Connecticut House,D
+656,Connecticut House,D
+657,Connecticut House,R
+658,Connecticut House,D
+659,Connecticut House,D
+660,Connecticut House,R
+661,Connecticut House,R
+662,Connecticut House,R
+663,Connecticut House,R
+664,Connecticut House,R
+665,Connecticut House,D
+666,Connecticut House,D
+667,Connecticut House,D
+668,Connecticut House,D
+669,Connecticut House,R
+670,Connecticut House,D
+671,Connecticut House,D
+672,Connecticut House,R
+673,Connecticut House,D
+674,Connecticut House,R
+675,Connecticut House,R
+676,Connecticut House,D
+677,Connecticut House,R
+678,Connecticut House,D
+679,Connecticut House,R
+680,Connecticut House,D
+681,Connecticut House,D
+682,Connecticut House,D
+683,Connecticut House,R
+684,Connecticut House,D
+685,Connecticut House,D
+686,Connecticut House,R
+687,Connecticut House,D
+688,Connecticut House,R
+689,Connecticut House,R
+690,Connecticut House,R
+691,Connecticut House,D
+692,Connecticut House,R
+693,Connecticut House,R
+694,Connecticut House,R
+695,Connecticut House,D
+696,Connecticut House,D
+697,Connecticut House,D
+698,Connecticut House,D
+699,Connecticut House,D
+700,Connecticut House,D
+701,Connecticut House,R
+702,Connecticut House,D
+703,Connecticut House,D
+704,Connecticut House,D
+705,Connecticut House,R
+706,Connecticut House,R
+707,Connecticut House,D
+708,Connecticut House,D
+709,Connecticut House,R
+710,Connecticut House,R
+711,Connecticut House,D
+712,Connecticut House,R
+713,Connecticut House,D
+714,Connecticut House,D
+715,Connecticut House,D
+716,Connecticut House,R
+717,Connecticut House,R
+718,Connecticut House,R
+719,Connecticut House,R
+720,Connecticut House,R
+721,Connecticut House,R
+722,Connecticut House,R
+723,Connecticut House,D
+724,Connecticut House,D
+725,Connecticut House,D
+726,Connecticut House,D
+727,Connecticut House,R
+728,Connecticut House,R
+729,Connecticut House,D
+730,Connecticut House,R
+731,Connecticut House,D
+732,Connecticut House,R
+733,Connecticut House,D
+734,Connecticut House,D
+735,Connecticut House,D
+736,Connecticut House,D
+737,Connecticut House,D
+738,Connecticut House,D
+739,Connecticut House,D
+740,Connecticut House,R
+741,Connecticut House,R
+742,Connecticut House,D
+743,Connecticut House,D
+744,Connecticut House,R
+745,Connecticut House,R
+746,Connecticut House,D
+747,Connecticut House,R
+748,Connecticut House,D
+749,Connecticut House,R
+750,Connecticut House,R
+751,Connecticut House,D
+752,Connecticut House,R
+753,Connecticut House,D
+754,Connecticut House,D
+755,Connecticut House,D
+756,Connecticut House,D
+757,Connecticut House,D
+758,Connecticut House,D
+759,Connecticut House,D
+760,Connecticut House,D
+761,Connecticut House,R
+762,Connecticut House,D
+763,Connecticut House,D
+764,Connecticut House,D
+765,Connecticut House,D
+766,Connecticut House,D
+767,Connecticut House,R
+768,Connecticut House,D
+769,Connecticut House,D
+770,Connecticut House,D
+771,Connecticut House,R
+772,Connecticut House,R
+773,Connecticut House,D
+774,Connecticut House,D
+775,Connecticut House,D
+776,Connecticut House,D
+777,Connecticut House,D
+778,Connecticut House,R
+779,Connecticut House,D
+780,Connecticut House,D
+781,Connecticut House,D
+782,Connecticut House,D
+783,Connecticut House,R
+784,Connecticut House,D
+785,Connecticut House,D
+786,Connecticut House,R
+787,Connecticut House,R
+788,Connecticut House,D
+789,Connecticut House,R
+790,Connecticut House,D
+791,Connecticut House,R
+792,Connecticut House,R
+793,Connecticut Senate,D
+794,Connecticut Senate,R
+795,Connecticut Senate,R
+796,Connecticut Senate,D
+797,Connecticut Senate,D
+798,Connecticut Senate,R
+799,Connecticut Senate,D
+800,Connecticut Senate,D
+801,Connecticut Senate,D
+802,Connecticut Senate,R
+803,Connecticut Senate,D
+804,Connecticut Senate,D
+805,Connecticut Senate,R
+806,Connecticut Senate,D
+807,Connecticut Senate,D
+808,Connecticut Senate,R
+809,Connecticut Senate,D
+810,Connecticut Senate,R
+811,Connecticut Senate,R
+812,Connecticut Senate,D
+813,Connecticut Senate,D
+814,Connecticut Senate,D
+815,Connecticut Senate,R
+816,Connecticut Senate,D
+817,Connecticut Senate,D
+818,Connecticut Senate,R
+819,Connecticut Senate,D
+820,Connecticut Senate,R
+821,Connecticut Senate,D
+822,Connecticut Senate,D
+823,Connecticut Senate,D
+824,Connecticut Senate,R
+825,Connecticut Senate,D
+826,Connecticut Senate,R
+827,Connecticut Senate,D
+828,Connecticut Senate,R
+829,Delaware Assembly,D
+830,Delaware Assembly,D
+831,Delaware Assembly,D
+832,Delaware Assembly,D
+833,Delaware Assembly,D
+834,Delaware Assembly,D
+835,Delaware Assembly,D
+836,Delaware Assembly,D
+837,Delaware Assembly,R
+838,Delaware Assembly,D
+839,Delaware Assembly,R
+840,Delaware Assembly,D
+841,Delaware Assembly,D
+842,Delaware Assembly,D
+843,Delaware Assembly,D
+844,Delaware Assembly,D
+845,Delaware Assembly,D
+846,Delaware Assembly,D
+847,Delaware Assembly,D
+848,Delaware Assembly,R
+849,Delaware Assembly,R
+850,Delaware Assembly,R
+851,Delaware Assembly,D
+852,Delaware Assembly,D
+853,Delaware Assembly,D
+854,Delaware Assembly,D
+855,Delaware Assembly,D
+856,Delaware Assembly,D
+857,Delaware Assembly,D
+858,Delaware Assembly,R
+859,Delaware Assembly,D
+860,Delaware Assembly,D
+861,Delaware Assembly,R
+862,Delaware Assembly,R
+863,Delaware Assembly,R
+864,Delaware Assembly,R
+865,Delaware Assembly,R
+866,Delaware Assembly,R
+867,Delaware Assembly,R
+868,Delaware Assembly,R
+869,Delaware Assembly,R
+870,Delaware Senate,D
+871,Delaware Senate,D
+872,Delaware Senate,D
+873,Delaware Senate,D
+874,Delaware Senate,R
+875,Delaware Senate,R
+876,Delaware Senate,R
+877,Delaware Senate,D
+878,Delaware Senate,D
+879,Delaware Senate,D
+880,Delaware Senate,D
+881,Delaware Senate,D
+882,Delaware Senate,D
+883,Delaware Senate,D
+884,Delaware Senate,R
+885,Delaware Senate,R
+886,Delaware Senate,D
+887,Delaware Senate,R
+888,Delaware Senate,R
+889,Delaware Senate,R
+890,Delaware Senate,R
+891,Florida House,D
+892,Florida House,R
+893,Florida House,R
+894,Florida House,R
+895,Florida House,D
+896,Florida House,D
+897,Florida House,R
+898,Florida House,R
+899,Florida House,R
+900,Florida House,R
+901,Florida House,R
+902,Florida House,D
+903,Florida House,R
+904,Florida House,R
+905,Florida House,R
+906,Florida House,D
+907,Florida House,R
+908,Florida House,R
+909,Florida House,D
+910,Florida House,R
+911,Florida House,D
+912,Florida House,R
+913,Florida House,D
+914,Florida House,D
+915,Florida House,D
+916,Florida House,R
+917,Florida House,R
+918,Florida House,R
+919,Florida House,D
+920,Florida House,D
+921,Florida House,R
+922,Florida House,D
+923,Florida House,R
+924,Florida House,D
+925,Florida House,D
+926,Florida House,R
+927,Florida House,R
+928,Florida House,R
+929,Florida House,R
+930,Florida House,R
+931,Florida House,D
+932,Florida House,D
+933,Florida House,D
+934,Florida House,D
+935,Florida House,R
+936,Florida House,R
+937,Florida House,R
+938,Florida House,R
+939,Florida House,D
+940,Florida House,R
+941,Florida House,D
+942,Florida House,D
+943,Florida House,R
+944,Florida House,D
+945,Florida House,R
+946,Florida House,D
+947,Florida House,D
+948,Florida House,D
+949,Florida House,D
+950,Florida House,D
+951,Florida House,R
+952,Florida House,R
+953,Florida House,R
+954,Florida House,R
+955,Florida House,R
+956,Florida House,R
+957,Florida House,R
+958,Florida House,R
+959,Florida House,R
+960,Florida House,R
+961,Florida House,D
+962,Florida House,D
+963,Florida House,D
+964,Florida House,D
+965,Florida House,R
+966,Florida House,D
+967,Florida House,R
+968,Florida House,R
+969,Florida House,R
+970,Florida House,R
+971,Florida House,R
+972,Florida House,R
+973,Florida House,D
+974,Florida House,D
+975,Florida House,R
+976,Florida House,D
+977,Florida House,R
+978,Florida House,R
+979,Florida House,R
+980,Florida House,R
+981,Florida House,R
+982,Florida House,R
+983,Florida House,R
+984,Florida House,R
+985,Florida House,R
+986,Florida House,R
+987,Florida House,R
+988,Florida House,D
+989,Florida House,R
+990,Florida House,D
+991,Florida House,D
+992,Florida House,R
+993,Florida House,R
+994,Florida House,D
+995,Florida House,R
+996,Florida House,R
+997,Florida House,R
+998,Florida House,D
+999,Florida House,R
+1000,Florida House,R
+1001,Florida House,R
+1002,Florida House,D
+1003,Florida House,D
+1004,Florida House,D
+1005,Florida House,D
+1006,Florida House,D
+1007,Florida House,D
+1008,Florida House,R
+1009,Florida House,R
+1010,Florida House,R
+1011,Florida Senate,R
+1012,Florida Senate,R
+1013,Florida Senate,R
+1014,Florida Senate,R
+1015,Florida Senate,D
+1016,Florida Senate,D
+1017,Florida Senate,D
+1018,Florida Senate,R
+1019,Florida Senate,R
+1020,Florida Senate,D
+1021,Florida Senate,R
+1022,Florida Senate,D
+1023,Florida Senate,R
+1024,Florida Senate,D
+1025,Florida Senate,R
+1026,Florida Senate,R
+1027,Florida Senate,R
+1028,Florida Senate,D
+1029,Florida Senate,R
+1030,Florida Senate,R
+1031,Florida Senate,R
+1032,Florida Senate,R
+1033,Florida Senate,R
+1034,Florida Senate,R
+1035,Florida Senate,D
+1036,Florida Senate,R
+1037,Florida Senate,R
+1038,Florida Senate,D
+1039,Florida Senate,D
+1040,Florida Senate,D
+1041,Florida Senate,D
+1042,Florida Senate,D
+1043,Florida Senate,R
+1044,Florida Senate,R
+1045,Florida Senate,R
+1046,Florida Senate,D
+1047,Florida Senate,D
+1048,Florida Senate,D
+1049,Florida Senate,D
+1050,Florida Senate,R
+1051,Georgia House,D
+1052,Georgia House,R
+1053,Georgia House,R
+1054,Georgia House,D
+1055,Georgia House,R
+1056,Georgia House,D
+1057,Georgia House,D
+1058,Georgia House,R
+1059,Georgia House,D
+1060,Georgia House,D
+1061,Georgia House,R
+1062,Georgia House,R
+1063,Georgia House,R
+1064,Georgia House,D
+1065,Georgia House,R
+1066,Georgia House,D
+1067,Georgia House,R
+1068,Georgia House,D
+1069,Georgia House,R
+1070,Georgia House,R
+1071,Georgia House,D
+1072,Georgia House,D
+1073,Georgia House,D
+1074,Georgia House,D
+1075,Georgia House,R
+1076,Georgia House,R
+1077,Georgia House,R
+1078,Georgia House,R
+1079,Georgia House,R
+1080,Georgia House,D
+1081,Georgia House,R
+1082,Georgia House,R
+1083,Georgia House,R
+1084,Georgia House,D
+1085,Georgia House,R
+1086,Georgia House,R
+1087,Georgia House,R
+1088,Georgia House,D
+1089,Georgia House,R
+1090,Georgia House,R
+1091,Georgia House,D
+1092,Georgia House,D
+1093,Georgia House,R
+1094,Georgia House,D
+1095,Georgia House,D
+1096,Georgia House,D
+1097,Georgia House,R
+1098,Georgia House,D
+1099,Georgia House,D
+1100,Georgia House,R
+1101,Georgia House,R
+1102,Georgia House,R
+1103,Georgia House,D
+1104,Georgia House,D
+1105,Georgia House,R
+1106,Georgia House,R
+1107,Georgia House,D
+1108,Georgia House,R
+1109,Georgia House,D
+1110,Georgia House,D
+1111,Georgia House,R
+1112,Georgia House,R
+1113,Georgia House,D
+1114,Georgia House,R
+1115,Georgia House,D
+1116,Georgia House,R
+1117,Georgia House,R
+1118,Georgia House,R
+1119,Georgia House,D
+1120,Georgia House,R
+1121,Georgia House,R
+1122,Georgia House,R
+1123,Georgia House,D
+1124,Georgia House,R
+1125,Georgia House,R
+1126,Georgia House,R
+1127,Georgia House,R
+1128,Georgia House,R
+1129,Georgia House,R
+1130,Georgia House,R
+1131,Georgia House,R
+1132,Georgia House,R
+1133,Georgia House,R
+1134,Georgia House,R
+1135,Georgia House,R
+1136,Georgia House,D
+1137,Georgia House,D
+1138,Georgia House,R
+1139,Georgia House,D
+1140,Georgia House,R
+1141,Georgia House,R
+1142,Georgia House,R
+1143,Georgia House,R
+1144,Georgia House,R
+1145,Georgia House,D
+1146,Georgia House,D
+1147,Georgia House,R
+1148,Georgia House,R
+1149,Georgia House,D
+1150,Georgia House,D
+1151,Georgia House,R
+1152,Georgia House,R
+1153,Georgia House,R
+1154,Georgia House,D
+1155,Georgia House,R
+1156,Georgia House,R
+1157,Georgia House,D
+1158,Georgia House,D
+1159,Georgia House,D
+1160,Georgia House,R
+1161,Georgia House,R
+1162,Georgia House,R
+1163,Georgia House,R
+1164,Georgia House,R
+1165,Georgia House,R
+1166,Georgia House,D
+1167,Georgia House,R
+1168,Georgia House,R
+1169,Georgia House,D
+1170,Georgia House,D
+1171,Georgia House,D
+1172,Georgia House,D
+1173,Georgia House,R
+1174,Georgia House,D
+1175,Georgia House,D
+1176,Georgia House,R
+1177,Georgia House,R
+1178,Georgia House,D
+1179,Georgia House,D
+1180,Georgia House,D
+1181,Georgia House,D
+1182,Georgia House,D
+1183,Georgia House,R
+1184,Georgia House,D
+1185,Georgia House,R
+1186,Georgia House,R
+1187,Georgia House,D
+1188,Georgia House,D
+1189,Georgia House,R
+1190,Georgia House,R
+1191,Georgia House,R
+1192,Georgia House,R
+1193,Georgia House,D
+1194,Georgia House,D
+1195,Georgia House,R
+1196,Georgia House,D
+1197,Georgia House,R
+1198,Georgia House,D
+1199,Georgia House,R
+1200,Georgia House,D
+1201,Georgia House,D
+1202,Georgia House,R
+1203,Georgia House,R
+1204,Georgia House,D
+1205,Georgia House,D
+1206,Georgia House,D
+1207,Georgia House,R
+1208,Georgia House,D
+1209,Georgia House,R
+1210,Georgia House,R
+1211,Georgia House,R
+1212,Georgia House,R
+1213,Georgia House,D
+1214,Georgia House,R
+1215,Georgia House,R
+1216,Georgia House,R
+1217,Georgia House,R
+1218,Georgia House,R
+1219,Georgia House,R
+1220,Georgia House,R
+1221,Georgia House,R
+1222,Georgia House,R
+1223,Georgia House,D
+1224,Georgia House,R
+1225,Georgia House,D
+1226,Georgia House,D
+1227,Georgia House,D
+1228,Georgia House,R
+1229,Georgia House,D
+1230,Georgia House,D
+1231,Georgia Senate,R
+1232,Georgia Senate,R
+1233,Georgia Senate,D
+1234,Georgia Senate,R
+1235,Georgia Senate,R
+1236,Georgia Senate,R
+1237,Georgia Senate,R
+1238,Georgia Senate,D
+1239,Georgia Senate,R
+1240,Georgia Senate,D
+1241,Georgia Senate,R
+1242,Georgia Senate,R
+1243,Georgia Senate,R
+1244,Georgia Senate,R
+1245,Georgia Senate,R
+1246,Georgia Senate,D
+1247,Georgia Senate,R
+1248,Georgia Senate,D
+1249,Georgia Senate,R
+1250,Georgia Senate,D
+1251,Georgia Senate,R
+1252,Georgia Senate,R
+1253,Georgia Senate,D
+1254,Georgia Senate,D
+1255,Georgia Senate,R
+1256,Georgia Senate,D
+1257,Georgia Senate,D
+1258,Georgia Senate,D
+1259,Georgia Senate,D
+1260,Georgia Senate,R
+1261,Georgia Senate,R
+1262,Georgia Senate,R
+1263,Georgia Senate,R
+1264,Georgia Senate,D
+1265,Georgia Senate,R
+1266,Georgia Senate,R
+1267,Georgia Senate,R
+1268,Georgia Senate,D
+1269,Georgia Senate,D
+1270,Georgia Senate,R
+1271,Georgia Senate,D
+1272,Georgia Senate,D
+1273,Georgia Senate,R
+1274,Georgia Senate,D
+1275,Georgia Senate,D
+1276,Georgia Senate,R
+1277,Georgia Senate,R
+1278,Georgia Senate,R
+1279,Georgia Senate,D
+1280,Georgia Senate,R
+1281,Georgia Senate,R
+1282,Georgia Senate,R
+1283,Georgia Senate,R
+1284,Georgia Senate,R
+1285,Georgia Senate,R
+1286,Georgia Senate,R
+1287,Georgia Senate,D
+1288,Hawaii House,D
+1289,Hawaii House,D
+1290,Hawaii House,D
+1291,Hawaii House,D
+1292,Hawaii House,D
+1293,Hawaii House,D
+1294,Hawaii House,D
+1295,Hawaii House,D
+1296,Hawaii House,D
+1297,Hawaii House,D
+1298,Hawaii House,D
+1299,Hawaii House,D
+1300,Hawaii House,D
+1301,Hawaii House,D
+1302,Hawaii House,D
+1303,Hawaii House,D
+1304,Hawaii House,D
+1305,Hawaii House,D
+1306,Hawaii House,D
+1307,Hawaii House,D
+1308,Hawaii House,D
+1309,Hawaii House,D
+1310,Hawaii House,D
+1311,Hawaii House,D
+1312,Hawaii House,R
+1313,Hawaii House,R
+1314,Hawaii House,D
+1315,Hawaii House,D
+1316,Hawaii House,D
+1317,Hawaii House,D
+1318,Hawaii House,D
+1319,Hawaii House,D
+1320,Hawaii House,D
+1321,Hawaii House,R
+1322,Hawaii House,D
+1323,Hawaii House,D
+1324,Hawaii House,D
+1325,Hawaii House,D
+1326,Hawaii House,D
+1327,Hawaii House,D
+1328,Hawaii House,D
+1329,Hawaii House,D
+1330,Hawaii House,D
+1331,Hawaii House,R
+1332,Hawaii House,D
+1333,Hawaii House,D
+1334,Hawaii House,R
+1335,Hawaii House,D
+1336,Hawaii House,D
+1337,Hawaii House,D
+1338,Hawaii House,D
+1339,Hawaii Senate,D
+1340,Hawaii Senate,D
+1341,Hawaii Senate,D
+1342,Hawaii Senate,D
+1343,Hawaii Senate,R
+1344,Hawaii Senate,D
+1345,Hawaii Senate,D
+1346,Hawaii Senate,D
+1347,Hawaii Senate,D
+1348,Hawaii Senate,D
+1349,Hawaii Senate,D
+1350,Hawaii Senate,D
+1351,Hawaii Senate,D
+1352,Hawaii Senate,D
+1353,Hawaii Senate,D
+1354,Hawaii Senate,D
+1355,Hawaii Senate,D
+1356,Hawaii Senate,D
+1357,Hawaii Senate,D
+1358,Hawaii Senate,D
+1359,Hawaii Senate,D
+1360,Hawaii Senate,D
+1361,Hawaii Senate,D
+1362,Hawaii Senate,D
+1363,Hawaii Senate,D
+1364,Idaho House,D
+1365,Idaho House,R
+1366,Idaho House,R
+1367,Idaho House,R
+1368,Idaho House,R
+1369,Idaho House,R
+1370,Idaho House,R
+1371,Idaho House,R
+1372,Idaho House,R
+1373,Idaho House,D
+1374,Idaho House,R
+1375,Idaho House,R
+1376,Idaho House,R
+1377,Idaho House,D
+1378,Idaho House,R
+1379,Idaho House,R
+1380,Idaho House,R
+1381,Idaho House,R
+1382,Idaho House,D
+1383,Idaho House,R
+1384,Idaho House,R
+1385,Idaho House,R
+1386,Idaho House,D
+1387,Idaho House,R
+1388,Idaho House,D
+1389,Idaho House,R
+1390,Idaho House,R
+1391,Idaho House,R
+1392,Idaho House,R
+1393,Idaho House,D
+1394,Idaho House,R
+1395,Idaho House,R
+1396,Idaho House,R
+1397,Idaho House,R
+1398,Idaho House,R
+1399,Idaho House,R
+1400,Idaho House,R
+1401,Idaho House,R
+1402,Idaho House,R
+1403,Idaho House,R
+1404,Idaho House,D
+1405,Idaho House,D
+1406,Idaho House,R
+1407,Idaho House,R
+1408,Idaho House,R
+1409,Idaho House,R
+1410,Idaho House,D
+1411,Idaho House,R
+1412,Idaho House,R
+1413,Idaho House,R
+1414,Idaho House,R
+1415,Idaho House,R
+1416,Idaho House,R
+1417,Idaho House,D
+1418,Idaho House,R
+1419,Idaho House,R
+1420,Idaho House,D
+1421,Idaho House,R
+1422,Idaho House,D
+1423,Idaho House,R
+1424,Idaho House,R
+1425,Idaho House,R
+1426,Idaho House,R
+1427,Idaho House,D
+1428,Idaho House,R
+1429,Idaho House,R
+1430,Idaho House,R
+1431,Idaho House,R
+1432,Idaho House,R
+1433,Idaho House,R
+1434,Idaho Senate,R
+1435,Idaho Senate,R
+1436,Idaho Senate,R
+1437,Idaho Senate,R
+1438,Idaho Senate,R
+1439,Idaho Senate,D
+1440,Idaho Senate,D
+1441,Idaho Senate,R
+1442,Idaho Senate,R
+1443,Idaho Senate,R
+1444,Idaho Senate,R
+1445,Idaho Senate,R
+1446,Idaho Senate,R
+1447,Idaho Senate,R
+1448,Idaho Senate,R
+1449,Idaho Senate,R
+1450,Idaho Senate,R
+1451,Idaho Senate,D
+1452,Idaho Senate,R
+1453,Idaho Senate,R
+1454,Idaho Senate,R
+1455,Idaho Senate,R
+1456,Idaho Senate,R
+1457,Idaho Senate,R
+1458,Idaho Senate,D
+1459,Idaho Senate,D
+1460,Idaho Senate,R
+1461,Idaho Senate,R
+1462,Idaho Senate,R
+1463,Idaho Senate,D
+1464,Idaho Senate,R
+1465,Idaho Senate,R
+1466,Idaho Senate,D
+1467,Idaho Senate,R
+1468,Idaho Senate,R
+1469,Indiana House,D
+1470,Indiana House,D
+1471,Indiana House,D
+1472,Indiana House,R
+1473,Indiana House,R
+1474,Indiana House,D
+1475,Indiana House,D
+1476,Indiana House,D
+1477,Indiana House,D
+1478,Indiana House,D
+1479,Indiana House,R
+1480,Indiana House,D
+1481,Indiana House,R
+1482,Indiana House,D
+1483,Indiana House,D
+1484,Indiana House,R
+1485,Indiana House,R
+1486,Indiana House,R
+1487,Indiana House,D
+1488,Indiana House,R
+1489,Indiana House,R
+1490,Indiana House,R
+1491,Indiana House,R
+1492,Indiana House,R
+1493,Indiana House,R
+1494,Indiana House,D
+1495,Indiana House,D
+1496,Indiana House,R
+1497,Indiana House,R
+1498,Indiana House,R
+1499,Indiana House,R
+1500,Indiana House,R
+1501,Indiana House,R
+1502,Indiana House,D
+1503,Indiana House,D
+1504,Indiana House,D
+1505,Indiana House,R
+1506,Indiana House,R
+1507,Indiana House,R
+1508,Indiana House,R
+1509,Indiana House,R
+1510,Indiana House,R
+1511,Indiana House,D
+1512,Indiana House,R
+1513,Indiana House,R
+1514,Indiana House,R
+1515,Indiana House,R
+1516,Indiana House,R
+1517,Indiana House,R
+1518,Indiana House,R
+1519,Indiana House,R
+1520,Indiana House,R
+1521,Indiana House,R
+1522,Indiana House,R
+1523,Indiana House,R
+1524,Indiana House,R
+1525,Indiana House,R
+1526,Indiana House,R
+1527,Indiana House,R
+1528,Indiana House,R
+1529,Indiana House,D
+1530,Indiana House,R
+1531,Indiana House,R
+1532,Indiana House,R
+1533,Indiana House,R
+1534,Indiana House,D
+1535,Indiana House,R
+1536,Indiana House,R
+1537,Indiana House,R
+1538,Indiana House,R
+1539,Indiana House,D
+1540,Indiana House,R
+1541,Indiana House,R
+1542,Indiana House,R
+1543,Indiana House,R
+1544,Indiana House,R
+1545,Indiana House,D
+1546,Indiana House,R
+1547,Indiana House,R
+1548,Indiana House,D
+1549,Indiana House,R
+1550,Indiana House,R
+1551,Indiana House,R
+1552,Indiana House,R
+1553,Indiana House,R
+1554,Indiana House,D
+1555,Indiana House,D
+1556,Indiana House,R
+1557,Indiana House,R
+1558,Indiana House,R
+1559,Indiana House,R
+1560,Indiana House,D
+1561,Indiana House,R
+1562,Indiana House,D
+1563,Indiana House,D
+1564,Indiana House,D
+1565,Indiana House,D
+1566,Indiana House,D
+1567,Indiana House,D
+1568,Indiana House,D
+1569,Indiana Senate,D
+1570,Indiana Senate,D
+1571,Indiana Senate,D
+1572,Indiana Senate,D
+1573,Indiana Senate,R
+1574,Indiana Senate,R
+1575,Indiana Senate,R
+1576,Indiana Senate,R
+1577,Indiana Senate,R
+1578,Indiana Senate,D
+1579,Indiana Senate,R
+1580,Indiana Senate,R
+1581,Indiana Senate,R
+1582,Indiana Senate,R
+1583,Indiana Senate,R
+1584,Indiana Senate,R
+1585,Indiana Senate,R
+1586,Indiana Senate,R
+1587,Indiana Senate,R
+1588,Indiana Senate,R
+1589,Indiana Senate,R
+1590,Indiana Senate,R
+1591,Indiana Senate,R
+1592,Indiana Senate,R
+1593,Indiana Senate,D
+1594,Indiana Senate,R
+1595,Indiana Senate,R
+1596,Indiana Senate,R
+1597,Indiana Senate,D
+1598,Indiana Senate,R
+1599,Indiana Senate,R
+1600,Indiana Senate,R
+1601,Indiana Senate,D
+1602,Indiana Senate,D
+1603,Indiana Senate,R
+1604,Indiana Senate,R
+1605,Indiana Senate,R
+1606,Indiana Senate,R
+1607,Indiana Senate,R
+1608,Indiana Senate,D
+1609,Indiana Senate,R
+1610,Indiana Senate,R
+1611,Indiana Senate,R
+1612,Indiana Senate,R
+1613,Indiana Senate,R
+1614,Indiana Senate,R
+1615,Indiana Senate,R
+1616,Indiana Senate,R
+1617,Indiana Senate,R
+1618,Indiana Senate,R
+1619,Iowa House,D
+1620,Iowa House,D
+1621,Iowa House,R
+1622,Iowa House,R
+1623,Iowa House,D
+1624,Iowa House,D
+1625,Iowa House,R
+1626,Iowa House,R
+1627,Iowa House,R
+1628,Iowa House,R
+1629,Iowa House,D
+1630,Iowa House,R
+1631,Iowa House,D
+1632,Iowa House,R
+1633,Iowa House,D
+1634,Iowa House,D
+1635,Iowa House,R
+1636,Iowa House,R
+1637,Iowa House,D
+1638,Iowa House,D
+1639,Iowa House,R
+1640,Iowa House,D
+1641,Iowa House,R
+1642,Iowa House,D
+1643,Iowa House,D
+1644,Iowa House,R
+1645,Iowa House,R
+1646,Iowa House,R
+1647,Iowa House,R
+1648,Iowa House,R
+1649,Iowa House,D
+1650,Iowa House,R
+1651,Iowa House,R
+1652,Iowa House,R
+1653,Iowa House,R
+1654,Iowa House,R
+1655,Iowa House,D
+1656,Iowa House,R
+1657,Iowa House,D
+1658,Iowa House,R
+1659,Iowa House,D
+1660,Iowa House,D
+1661,Iowa House,R
+1662,Iowa House,R
+1663,Iowa House,D
+1664,Iowa House,D
+1665,Iowa House,R
+1666,Iowa House,R
+1667,Iowa House,R
+1668,Iowa House,D
+1669,Iowa House,D
+1670,Iowa House,D
+1671,Iowa House,D
+1672,Iowa House,R
+1673,Iowa House,D
+1674,Iowa House,R
+1675,Iowa House,R
+1676,Iowa House,D
+1677,Iowa House,D
+1678,Iowa House,R
+1679,Iowa House,D
+1680,Iowa House,D
+1681,Iowa House,R
+1682,Iowa House,D
+1683,Iowa House,R
+1684,Iowa House,R
+1685,Iowa House,R
+1686,Iowa House,R
+1687,Iowa House,D
+1688,Iowa House,D
+1689,Iowa House,D
+1690,Iowa House,R
+1691,Iowa House,D
+1692,Iowa House,R
+1693,Iowa House,D
+1694,Iowa House,D
+1695,Iowa House,R
+1696,Iowa House,R
+1697,Iowa House,R
+1698,Iowa House,R
+1699,Iowa House,D
+1700,Iowa House,D
+1701,Iowa House,R
+1702,Iowa House,D
+1703,Iowa House,D
+1704,Iowa House,D
+1705,Iowa House,D
+1706,Iowa House,R
+1707,Iowa House,R
+1708,Iowa House,R
+1709,Iowa House,D
+1710,Iowa House,R
+1711,Iowa House,D
+1712,Iowa House,D
+1713,Iowa House,R
+1714,Iowa House,D
+1715,Iowa House,R
+1716,Iowa House,D
+1717,Iowa House,R
+1718,Iowa House,R
+1719,Iowa Senate,R
+1720,Iowa Senate,D
+1721,Iowa Senate,D
+1722,Iowa Senate,D
+1723,Iowa Senate,R
+1724,Iowa Senate,R
+1725,Iowa Senate,R
+1726,Iowa Senate,D
+1727,Iowa Senate,R
+1728,Iowa Senate,R
+1729,Iowa Senate,R
+1730,Iowa Senate,R
+1731,Iowa Senate,D
+1732,Iowa Senate,R
+1733,Iowa Senate,R
+1734,Iowa Senate,R
+1735,Iowa Senate,D
+1736,Iowa Senate,R
+1737,Iowa Senate,R
+1738,Iowa Senate,D
+1739,Iowa Senate,D
+1740,Iowa Senate,R
+1741,Iowa Senate,R
+1742,Iowa Senate,D
+1743,Iowa Senate,R
+1744,Iowa Senate,R
+1745,Iowa Senate,R
+1746,Iowa Senate,D
+1747,Iowa Senate,D
+1748,Iowa Senate,R
+1749,Iowa Senate,R
+1750,Iowa Senate,D
+1751,Iowa Senate,D
+1752,Iowa Senate,D
+1753,Iowa Senate,R
+1754,Iowa Senate,R
+1755,Iowa Senate,R
+1756,Iowa Senate,R
+1757,Iowa Senate,R
+1758,Iowa Senate,R
+1759,Iowa Senate,D
+1760,Iowa Senate,R
+1761,Iowa Senate,R
+1762,Iowa Senate,D
+1763,Iowa Senate,D
+1764,Iowa Senate,D
+1765,Iowa Senate,R
+1766,Iowa Senate,R
+1767,Iowa Senate,R
+1768,Iowa Senate,R
+1769,Kansas House,R
+1770,Kansas House,R
+1771,Kansas House,D
+1772,Kansas House,R
+1773,Kansas House,R
+1774,Kansas House,R
+1775,Kansas House,R
+1776,Kansas House,R
+1777,Kansas House,R
+1778,Kansas House,D
+1779,Kansas House,R
+1780,Kansas House,R
+1781,Kansas House,R
+1782,Kansas House,R
+1783,Kansas House,R
+1784,Kansas House,D
+1785,Kansas House,R
+1786,Kansas House,D
+1787,Kansas House,D
+1788,Kansas House,R
+1789,Kansas House,D
+1790,Kansas House,D
+1791,Kansas House,D
+1792,Kansas House,D
+1793,Kansas House,D
+1794,Kansas House,R
+1795,Kansas House,R
+1796,Kansas House,R
+1797,Kansas House,D
+1798,Kansas House,D
+1799,Kansas House,D
+1800,Kansas House,D
+1801,Kansas House,D
+1802,Kansas House,D
+1803,Kansas House,D
+1804,Kansas House,D
+1805,Kansas House,D
+1806,Kansas House,R
+1807,Kansas House,R
+1808,Kansas House,R
+1809,Kansas House,D
+1810,Kansas House,R
+1811,Kansas House,R
+1812,Kansas House,D
+1813,Kansas House,D
+1814,Kansas House,D
+1815,Kansas House,R
+1816,Kansas House,D
+1817,Kansas House,R
+1818,Kansas House,R
+1819,Kansas House,R
+1820,Kansas House,R
+1821,Kansas House,D
+1822,Kansas House,R
+1823,Kansas House,D
+1824,Kansas House,D
+1825,Kansas House,D
+1826,Kansas House,D
+1827,Kansas House,R
+1828,Kansas House,R
+1829,Kansas House,R
+1830,Kansas House,R
+1831,Kansas House,R
+1832,Kansas House,R
+1833,Kansas House,R
+1834,Kansas House,D
+1835,Kansas House,R
+1836,Kansas House,R
+1837,Kansas House,R
+1838,Kansas House,R
+1839,Kansas House,R
+1840,Kansas House,D
+1841,Kansas House,R
+1842,Kansas House,R
+1843,Kansas House,R
+1844,Kansas House,R
+1845,Kansas House,R
+1846,Kansas House,R
+1847,Kansas House,R
+1848,Kansas House,R
+1849,Kansas House,R
+1850,Kansas House,R
+1851,Kansas House,D
+1852,Kansas House,D
+1853,Kansas House,R
+1854,Kansas House,D
+1855,Kansas House,R
+1856,Kansas House,D
+1857,Kansas House,D
+1858,Kansas House,R
+1859,Kansas House,R
+1860,Kansas House,D
+1861,Kansas House,R
+1862,Kansas House,R
+1863,Kansas House,D
+1864,Kansas House,D
+1865,Kansas House,R
+1866,Kansas House,R
+1867,Kansas House,R
+1868,Kansas House,R
+1869,Kansas House,R
+1870,Kansas House,D
+1871,Kansas House,D
+1872,Kansas House,R
+1873,Kansas House,R
+1874,Kansas House,R
+1875,Kansas House,R
+1876,Kansas House,R
+1877,Kansas House,R
+1878,Kansas House,R
+1879,Kansas House,R
+1880,Kansas House,R
+1881,Kansas House,R
+1882,Kansas House,R
+1883,Kansas House,R
+1884,Kansas House,R
+1885,Kansas House,R
+1886,Kansas House,R
+1887,Kansas House,R
+1888,Kansas House,R
+1889,Kansas House,R
+1890,Kansas House,R
+1891,Kansas House,R
+1892,Kansas House,R
+1893,Kansas House,R
+1894,Kansas Senate,R
+1895,Kansas Senate,D
+1896,Kansas Senate,D
+1897,Kansas Senate,D
+1898,Kansas Senate,R
+1899,Kansas Senate,D
+1900,Kansas Senate,D
+1901,Kansas Senate,R
+1902,Kansas Senate,R
+1903,Kansas Senate,R
+1904,Kansas Senate,R
+1905,Kansas Senate,R
+1906,Kansas Senate,R
+1907,Kansas Senate,R
+1908,Kansas Senate,R
+1909,Kansas Senate,R
+1910,Kansas Senate,R
+1911,Kansas Senate,D
+1912,Kansas Senate,D
+1913,Kansas Senate,R
+1914,Kansas Senate,D
+1915,Kansas Senate,D
+1916,Kansas Senate,R
+1917,Kansas Senate,R
+1918,Kansas Senate,D
+1919,Kansas Senate,R
+1920,Kansas Senate,R
+1921,Kansas Senate,R
+1922,Kansas Senate,D
+1923,Kansas Senate,R
+1924,Kansas Senate,R
+1925,Kansas Senate,R
+1926,Kansas Senate,R
+1927,Kansas Senate,R
+1928,Kansas Senate,R
+1929,Kansas Senate,R
+1930,Kansas Senate,R
+1931,Kansas Senate,R
+1932,Kansas Senate,R
+1933,Kansas Senate,R
+1934,Kentucky House,R
+1935,Kentucky House,R
+1936,Kentucky House,R
+1937,Kentucky House,R
+1938,Kentucky House,D
+1939,Kentucky House,D
+1940,Kentucky House,R
+1941,Kentucky House,D
+1942,Kentucky House,R
+1943,Kentucky House,R
+1944,Kentucky House,R
+1945,Kentucky House,D
+1946,Kentucky House,D
+1947,Kentucky House,D
+1948,Kentucky House,R
+1949,Kentucky House,D
+1950,Kentucky House,R
+1951,Kentucky House,R
+1952,Kentucky House,R
+1953,Kentucky House,R
+1954,Kentucky House,R
+1955,Kentucky House,D
+1956,Kentucky House,R
+1957,Kentucky House,R
+1958,Kentucky House,R
+1959,Kentucky House,D
+1960,Kentucky House,D
+1961,Kentucky House,R
+1962,Kentucky House,R
+1963,Kentucky House,D
+1964,Kentucky House,D
+1965,Kentucky House,R
+1966,Kentucky House,D
+1967,Kentucky House,R
+1968,Kentucky House,D
+1969,Kentucky House,R
+1970,Kentucky House,R
+1971,Kentucky House,D
+1972,Kentucky House,R
+1973,Kentucky House,D
+1974,Kentucky House,R
+1975,Kentucky House,R
+1976,Kentucky House,D
+1977,Kentucky House,R
+1978,Kentucky House,R
+1979,Kentucky House,R
+1980,Kentucky House,D
+1981,Kentucky House,R
+1982,Kentucky House,R
+1983,Kentucky House,R
+1984,Kentucky House,R
+1985,Kentucky House,D
+1986,Kentucky House,R
+1987,Kentucky House,R
+1988,Kentucky House,R
+1989,Kentucky House,R
+1990,Kentucky House,D
+1991,Kentucky House,R
+1992,Kentucky House,D
+1993,Kentucky House,R
+1994,Kentucky House,D
+1995,Kentucky House,R
+1996,Kentucky House,D
+1997,Kentucky House,R
+1998,Kentucky House,R
+1999,Kentucky House,R
+2000,Kentucky House,D
+2001,Kentucky House,R
+2002,Kentucky House,R
+2003,Kentucky House,R
+2004,Kentucky House,D
+2005,Kentucky House,D
+2006,Kentucky House,R
+2007,Kentucky House,R
+2008,Kentucky House,D
+2009,Kentucky House,R
+2010,Kentucky House,R
+2011,Kentucky House,R
+2012,Kentucky House,R
+2013,Kentucky House,D
+2014,Kentucky House,D
+2015,Kentucky House,R
+2016,Kentucky House,D
+2017,Kentucky House,D
+2018,Kentucky House,D
+2019,Kentucky House,R
+2020,Kentucky House,D
+2021,Kentucky House,D
+2022,Kentucky House,R
+2023,Kentucky House,R
+2024,Kentucky House,R
+2025,Kentucky House,R
+2026,Kentucky House,R
+2027,Kentucky House,R
+2028,Kentucky House,D
+2029,Kentucky House,D
+2030,Kentucky House,R
+2031,Kentucky House,D
+2032,Kentucky House,D
+2033,Kentucky House,R
+2034,Kentucky Senate,R
+2035,Kentucky Senate,R
+2036,Kentucky Senate,R
+2037,Kentucky Senate,R
+2038,Kentucky Senate,R
+2039,Kentucky Senate,D
+2040,Kentucky Senate,R
+2041,Kentucky Senate,D
+2042,Kentucky Senate,R
+2043,Kentucky Senate,R
+2044,Kentucky Senate,R
+2045,Kentucky Senate,D
+2046,Kentucky Senate,R
+2047,Kentucky Senate,R
+2048,Kentucky Senate,R
+2049,Kentucky Senate,R
+2050,Kentucky Senate,R
+2051,Kentucky Senate,D
+2052,Kentucky Senate,R
+2053,Kentucky Senate,R
+2054,Kentucky Senate,D
+2055,Kentucky Senate,R
+2056,Kentucky Senate,D
+2057,Kentucky Senate,R
+2058,Kentucky Senate,R
+2059,Kentucky Senate,R
+2060,Kentucky Senate,R
+2061,Kentucky Senate,R
+2062,Kentucky Senate,R
+2063,Kentucky Senate,D
+2064,Kentucky Senate,D
+2065,Kentucky Senate,D
+2066,Kentucky Senate,R
+2067,Kentucky Senate,R
+2068,Kentucky Senate,R
+2069,Kentucky Senate,R
+2070,Kentucky Senate,R
+2071,Louisiana House,I
+2072,Louisiana House,R
+2073,Louisiana House,R
+2074,Louisiana House,R
+2075,Louisiana House,R
+2076,Louisiana House,R
+2077,Louisiana House,R
+2078,Louisiana House,D
+2079,Louisiana House,D
+2080,Louisiana House,D
+2081,Louisiana House,R
+2082,Louisiana House,D
+2083,Louisiana House,R
+2084,Louisiana House,D
+2085,Louisiana House,D
+2086,Louisiana House,D
+2087,Louisiana House,D
+2088,Louisiana House,R
+2089,Louisiana House,D
+2090,Louisiana House,R
+2091,Louisiana House,R
+2092,Louisiana House,R
+2093,Louisiana House,R
+2094,Louisiana House,R
+2095,Louisiana House,D
+2096,Louisiana House,R
+2097,Louisiana House,R
+2098,Louisiana House,R
+2099,Louisiana House,R
+2100,Louisiana House,R
+2101,Louisiana House,R
+2102,Louisiana House,R
+2103,Louisiana House,R
+2104,Louisiana House,D
+2105,Louisiana House,R
+2106,Louisiana House,R
+2107,Louisiana House,R
+2108,Louisiana House,D
+2109,Louisiana House,R
+2110,Louisiana House,D
+2111,Louisiana House,R
+2112,Louisiana House,D
+2113,Louisiana House,R
+2114,Louisiana House,R
+2115,Louisiana House,R
+2116,Louisiana House,R
+2117,Louisiana House,R
+2118,Louisiana House,R
+2119,Louisiana House,D
+2120,Louisiana House,R
+2121,Louisiana House,R
+2122,Louisiana House,R
+2123,Louisiana House,D
+2124,Louisiana House,D
+2125,Louisiana House,D
+2126,Louisiana House,D
+2127,Louisiana House,R
+2128,Louisiana House,D
+2129,Louisiana House,D
+2130,Louisiana House,R
+2131,Louisiana House,D
+2132,Louisiana House,D
+2133,Louisiana House,D
+2134,Louisiana House,D
+2135,Louisiana House,R
+2136,Louisiana House,R
+2137,Louisiana House,D
+2138,Louisiana House,I
+2139,Louisiana House,R
+2140,Louisiana House,R
+2141,Louisiana House,R
+2142,Louisiana House,R
+2143,Louisiana House,R
+2144,Louisiana House,D
+2145,Louisiana House,R
+2146,Louisiana House,R
+2147,Louisiana House,D
+2148,Louisiana House,R
+2149,Louisiana House,R
+2150,Louisiana House,D
+2151,Louisiana House,R
+2152,Louisiana House,R
+2153,Louisiana House,D
+2154,Louisiana House,D
+2155,Louisiana House,R
+2156,Louisiana House,R
+2157,Louisiana House,R
+2158,Louisiana House,R
+2159,Louisiana House,R
+2160,Louisiana House,R
+2161,Louisiana House,D
+2162,Louisiana House,R
+2163,Louisiana House,R
+2164,Louisiana House,R
+2165,Louisiana House,R
+2166,Louisiana House,R
+2167,Louisiana House,D
+2168,Louisiana House,R
+2169,Louisiana House,R
+2170,Louisiana House,R
+2171,Louisiana House,D
+2172,Louisiana House,D
+2173,Louisiana House,R
+2174,Louisiana House,R
+2175,Louisiana Senate,R
+2176,Louisiana Senate,D
+2177,Louisiana Senate,D
+2178,Louisiana Senate,D
+2179,Louisiana Senate,D
+2180,Louisiana Senate,R
+2181,Louisiana Senate,D
+2182,Louisiana Senate,R
+2183,Louisiana Senate,R
+2184,Louisiana Senate,R
+2185,Louisiana Senate,R
+2186,Louisiana Senate,R
+2187,Louisiana Senate,R
+2188,Louisiana Senate,D
+2189,Louisiana Senate,D
+2190,Louisiana Senate,R
+2191,Louisiana Senate,R
+2192,Louisiana Senate,R
+2193,Louisiana Senate,D
+2194,Louisiana Senate,R
+2195,Louisiana Senate,R
+2196,Louisiana Senate,R
+2197,Louisiana Senate,R
+2198,Louisiana Senate,D
+2199,Louisiana Senate,R
+2200,Louisiana Senate,R
+2201,Louisiana Senate,R
+2202,Louisiana Senate,R
+2203,Louisiana Senate,D
+2204,Louisiana Senate,R
+2205,Louisiana Senate,R
+2206,Louisiana Senate,R
+2207,Louisiana Senate,R
+2208,Louisiana Senate,D
+2209,Louisiana Senate,R
+2210,Louisiana Senate,R
+2211,Louisiana Senate,R
+2212,Louisiana Senate,R
+2213,Louisiana Senate,D
+2214,Maine House,C 
+2215,Maine House,D 
+2216,Maine House,R 
+2217,Maine House,R 
+2218,Maine House,D 
+2219,Maine House,R 
+2220,Maine House,D 
+2221,Maine House,D 
+2222,Maine House,D 
+2223,Maine House,D 
+2224,Maine House,D 
+2225,Maine House,R 
+2226,Maine House,R 
+2227,Maine House,D 
+2228,Maine House,R 
+2229,Maine House,D 
+2230,Maine House,D 
+2231,Maine House,D 
+2232,Maine House,D 
+2233,Maine House,R 
+2234,Maine House,D 
+2235,Maine House,D 
+2236,Maine House,R 
+2237,Maine House,R 
+2238,Maine House,D 
+2239,Maine House,D 
+2240,Maine House,D 
+2241,Maine House,R 
+2242,Maine House,R 
+2243,Maine House,D 
+2244,Maine House,D 
+2245,Maine House,D 
+2246,Maine House,R 
+2247,Maine House,D 
+2248,Maine House,D 
+2249,Maine House,R 
+2250,Maine House,D 
+2251,Maine House,R 
+2252,Maine House,D 
+2253,Maine House,R 
+2254,Maine House,D 
+2255,Maine House,D 
+2256,Maine House,R 
+2257,Maine House,D 
+2258,Maine House,I 
+2259,Maine House,D 
+2260,Maine House,R 
+2261,Maine House,D 
+2262,Maine House,R 
+2263,Maine House,D 
+2264,Maine House,D 
+2265,Maine House,R 
+2266,Maine House,D 
+2267,Maine House,D 
+2268,Maine House,D 
+2269,Maine House,D 
+2270,Maine House,R 
+2271,Maine House,D 
+2272,Maine House,R 
+2273,Maine House,R 
+2274,Maine House,D 
+2275,Maine House,R 
+2276,Maine House,R 
+2277,Maine House,D 
+2278,Maine House,R 
+2279,Maine House,R 
+2280,Maine House,D 
+2281,Maine House,D 
+2282,Maine House,I 
+2283,Maine House,D 
+2284,Maine House,D 
+2285,Maine House,R 
+2286,Maine House,D 
+2287,Maine House,D 
+2288,Maine House,R 
+2289,Maine House,R 
+2290,Maine House,D 
+2291,Maine House,R 
+2292,Maine House,D 
+2293,Maine House,R 
+2294,Maine House,D 
+2295,Maine House,R 
+2296,Maine House,D 
+2297,Maine House,R 
+2298,Maine House,R 
+2299,Maine House,D 
+2300,Maine House,I 
+2301,Maine House,D 
+2302,Maine House,D 
+2303,Maine House,R 
+2304,Maine House,R 
+2305,Maine House,D 
+2306,Maine House,D 
+2307,Maine House,D 
+2308,Maine House,D 
+2309,Maine House,D 
+2310,Maine House,D 
+2311,Maine House,D 
+2312,Maine House,D 
+2313,Maine House,D 
+2314,Maine House,R 
+2315,Maine House,D 
+2316,Maine House,D 
+2317,Maine House,D 
+2318,Maine House,R 
+2319,Maine House,D 
+2320,Maine House,D 
+2321,Maine House,R 
+2322,Maine House,D 
+2323,Maine House,R 
+2324,Maine House,D 
+2325,Maine House,D 
+2326,Maine House,R 
+2327,Maine House,D 
+2328,Maine House,D 
+2329,Maine House,R 
+2330,Maine House,D 
+2331,Maine House,I 
+2332,Maine House,R 
+2333,Maine House,D 
+2334,Maine House,R 
+2335,Maine House,D 
+2336,Maine House,I 
+2337,Maine House,D 
+2338,Maine House,R 
+2339,Maine House,D 
+2340,Maine House,R 
+2341,Maine House,D 
+2342,Maine House,D 
+2343,Maine House,D 
+2344,Maine House,R 
+2345,Maine House,D 
+2346,Maine House,R 
+2347,Maine House,R 
+2348,Maine House,R 
+2349,Maine House,D 
+2350,Maine House,R 
+2351,Maine House,R 
+2352,Maine House,D 
+2353,Maine House,D 
+2354,Maine House,D 
+2355,Maine House,D 
+2356,Maine House,R 
+2357,Maine House,D 
+2358,Maine House,D 
+2359,Maine House,R 
+2360,Maine House,R 
+2361,Maine House,D 
+2362,Maine House,D 
+2363,Maine House,R 
+2364,Maine House,D 
+2365,Maine Senate,D
+2366,Maine Senate,R
+2367,Maine Senate,D
+2368,Maine Senate,D
+2369,Maine Senate,D
+2370,Maine Senate,D
+2371,Maine Senate,D
+2372,Maine Senate,D
+2373,Maine Senate,R
+2374,Maine Senate,R
+2375,Maine Senate,D
+2376,Maine Senate,D
+2377,Maine Senate,D
+2378,Maine Senate,R
+2379,Maine Senate,R
+2380,Maine Senate,R
+2381,Maine Senate,D
+2382,Maine Senate,R
+2383,Maine Senate,R
+2384,Maine Senate,D
+2385,Maine Senate,D
+2386,Maine Senate,R
+2387,Maine Senate,D
+2388,Maine Senate,D
+2389,Maine Senate,D
+2390,Maine Senate,D
+2391,Maine Senate,D
+2392,Maine Senate,R
+2393,Maine Senate,R
+2394,Maine Senate,R
+2395,Maine Senate,D
+2396,Maine Senate,D
+2397,Maine Senate,R
+2398,Maine Senate,D
+2399,Maine Senate,R
+2400,Maryland House,D
+2401,Maryland House,R
+2402,Maryland House,D
+2403,Maryland House,R
+2404,Maryland House,R
+2405,Maryland House,R
+2406,Maryland House,D
+2407,Maryland House,D
+2408,Maryland House,D
+2409,Maryland House,D
+2410,Maryland House,D
+2411,Maryland House,D
+2412,Maryland House,D
+2413,Maryland House,D
+2414,Maryland House,R
+2415,Maryland House,D
+2416,Maryland House,D
+2417,Maryland House,R
+2418,Maryland House,D
+2419,Maryland House,D
+2420,Maryland House,D
+2421,Maryland House,D
+2422,Maryland House,D
+2423,Maryland House,R
+2424,Maryland House,D
+2425,Maryland House,D
+2426,Maryland House,D
+2427,Maryland House,D
+2428,Maryland House,D
+2429,Maryland House,D
+2430,Maryland House,R
+2431,Maryland House,R
+2432,Maryland House,R
+2433,Maryland House,D
+2434,Maryland House,D
+2435,Maryland House,R
+2436,Maryland House,R
+2437,Maryland House,D
+2438,Maryland House,D
+2439,Maryland House,D
+2440,Maryland House,D
+2441,Maryland House,D
+2442,Maryland House,D
+2443,Maryland House,D
+2444,Maryland House,D
+2445,Maryland House,D
+2446,Maryland House,R
+2447,Maryland House,D
+2448,Maryland House,D
+2449,Maryland House,D
+2450,Maryland House,R
+2451,Maryland House,D
+2452,Maryland House,R
+2453,Maryland House,R
+2454,Maryland House,D
+2455,Maryland House,D
+2456,Maryland House,R
+2457,Maryland House,D
+2458,Maryland House,D
+2459,Maryland House,D
+2460,Maryland House,D
+2461,Maryland House,D
+2462,Maryland House,D
+2463,Maryland House,R
+2464,Maryland House,R
+2465,Maryland House,R
+2466,Maryland House,D
+2467,Maryland House,D
+2468,Maryland House,D
+2469,Maryland House,R
+2470,Maryland House,D
+2471,Maryland House,D
+2472,Maryland House,D
+2473,Maryland House,D
+2474,Maryland House,D
+2475,Maryland House,D
+2476,Maryland House,D
+2477,Maryland House,R
+2478,Maryland House,R
+2479,Maryland House,D
+2480,Maryland House,R
+2481,Maryland House,D
+2482,Maryland House,D
+2483,Maryland House,D
+2484,Maryland House,D
+2485,Maryland House,D
+2486,Maryland House,D
+2487,Maryland House,R
+2488,Maryland House,D
+2489,Maryland House,D
+2490,Maryland House,D
+2491,Maryland House,R
+2492,Maryland House,R
+2493,Maryland House,R
+2494,Maryland House,R
+2495,Maryland House,D
+2496,Maryland House,R
+2497,Maryland House,R
+2498,Maryland House,R
+2499,Maryland House,D
+2500,Maryland House,R
+2501,Maryland House,D
+2502,Maryland House,R
+2503,Maryland House,D
+2504,Maryland House,R
+2505,Maryland House,D
+2506,Maryland House,D
+2507,Maryland House,D
+2508,Maryland House,R
+2509,Maryland House,D
+2510,Maryland House,D
+2511,Maryland House,D
+2512,Maryland House,R
+2513,Maryland House,D
+2514,Maryland House,D
+2515,Maryland House,R
+2516,Maryland House,D
+2517,Maryland House,D
+2518,Maryland House,R
+2519,Maryland House,D
+2520,Maryland House,D
+2521,Maryland House,R
+2522,Maryland House,D
+2523,Maryland House,D
+2524,Maryland House,D
+2525,Maryland House,D
+2526,Maryland House,R
+2527,Maryland House,D
+2528,Maryland House,D
+2529,Maryland House,D
+2530,Maryland House,D
+2531,Maryland House,D
+2532,Maryland House,D
+2533,Maryland House,D
+2534,Maryland House,D
+2535,Maryland House,D
+2536,Maryland House,D
+2537,Maryland House,D
+2538,Maryland House,R
+2539,Maryland House,D
+2540,Maryland House,D
+2541,Maryland Senate,D
+2542,Maryland Senate,R
+2543,Maryland Senate,D
+2544,Maryland Senate,D
+2545,Maryland Senate,R
+2546,Maryland Senate,D
+2547,Maryland Senate,R
+2548,Maryland Senate,R
+2549,Maryland Senate,R
+2550,Maryland Senate,D
+2551,Maryland Senate,D
+2552,Maryland Senate,D
+2553,Maryland Senate,D
+2554,Maryland Senate,R
+2555,Maryland Senate,D
+2556,Maryland Senate,D
+2557,Maryland Senate,D
+2558,Maryland Senate,R
+2559,Maryland Senate,D
+2560,Maryland Senate,D
+2561,Maryland Senate,R
+2562,Maryland Senate,R
+2563,Maryland Senate,D
+2564,Maryland Senate,D
+2565,Maryland Senate,D
+2566,Maryland Senate,D
+2567,Maryland Senate,D
+2568,Maryland Senate,D
+2569,Maryland Senate,D
+2570,Maryland Senate,D
+2571,Maryland Senate,D
+2572,Maryland Senate,D
+2573,Maryland Senate,D
+2574,Maryland Senate,D
+2575,Maryland Senate,R
+2576,Maryland Senate,R
+2577,Maryland Senate,D
+2578,Maryland Senate,R
+2579,Maryland Senate,R
+2580,Maryland Senate,R
+2581,Maryland Senate,D
+2582,Maryland Senate,D
+2583,Maryland Senate,D
+2584,Maryland Senate,D
+2585,Maryland Senate,R
+2586,Maryland Senate,R
+2587,Maryland Senate,D
+2588,Massachusetts House,D
+2589,Massachusetts House,D
+2590,Massachusetts House,D
+2591,Massachusetts House,D
+2592,Massachusetts House,D
+2593,Massachusetts House,D
+2594,Massachusetts House,R
+2595,Massachusetts House,R
+2596,Massachusetts House,D
+2597,Massachusetts House,D
+2598,Massachusetts House,R
+2599,Massachusetts House,D
+2600,Massachusetts House,D
+2601,Massachusetts House,D
+2602,Massachusetts House,D
+2603,Massachusetts House,D
+2604,Massachusetts House,D
+2605,Massachusetts House,D
+2606,Massachusetts House,D
+2607,Massachusetts House,D
+2608,Massachusetts House,D
+2609,Massachusetts House,R
+2610,Massachusetts House,D
+2611,Massachusetts House,D
+2612,Massachusetts House,D
+2613,Massachusetts House,D
+2614,Massachusetts House,R
+2615,Massachusetts House,D
+2616,Massachusetts House,D
+2617,Massachusetts House,R
+2618,Massachusetts House,D
+2619,Massachusetts House,D
+2620,Massachusetts House,D
+2621,Massachusetts House,D
+2622,Massachusetts House,D
+2623,Massachusetts House,D
+2624,Massachusetts House,R
+2625,Massachusetts House,D
+2626,Massachusetts House,D
+2627,Massachusetts House,R
+2628,Massachusetts House,D
+2629,Massachusetts House,D
+2630,Massachusetts House,D
+2631,Massachusetts House,D
+2632,Massachusetts House,R
+2633,Massachusetts House,D
+2634,Massachusetts House,D
+2635,Massachusetts House,D
+2636,Massachusetts House,D
+2637,Massachusetts House,R
+2638,Massachusetts House,D
+2639,Massachusetts House,D
+2640,Massachusetts House,D
+2641,Massachusetts House,D
+2642,Massachusetts House,D
+2643,Massachusetts House,R
+2644,Massachusetts House,D
+2645,Massachusetts House,D
+2646,Massachusetts House,D
+2647,Massachusetts House,D
+2648,Massachusetts House,D
+2649,Massachusetts House,D
+2650,Massachusetts House,D
+2651,Massachusetts House,R
+2652,Massachusetts House,D
+2653,Massachusetts House,D
+2654,Massachusetts House,D
+2655,Massachusetts House,D
+2656,Massachusetts House,D
+2657,Massachusetts House,R
+2658,Massachusetts House,D
+2659,Massachusetts House,D
+2660,Massachusetts House,D
+2661,Massachusetts House,R
+2662,Massachusetts House,D
+2663,Massachusetts House,R
+2664,Massachusetts House,R
+2665,Massachusetts House,D
+2666,Massachusetts House,R
+2667,Massachusetts House,D
+2668,Massachusetts House,D
+2669,Massachusetts House,R
+2670,Massachusetts House,D
+2671,Massachusetts House,D
+2672,Massachusetts House,D
+2673,Massachusetts House,D
+2674,Massachusetts House,D
+2675,Massachusetts House,D
+2676,Massachusetts House,D
+2677,Massachusetts House,D
+2678,Massachusetts House,R
+2679,Massachusetts House,D
+2680,Massachusetts House,D
+2681,Massachusetts House,D
+2682,Massachusetts House,D
+2683,Massachusetts House,D
+2684,Massachusetts House,D
+2685,Massachusetts House,D
+2686,Massachusetts House,R
+2687,Massachusetts House,D
+2688,Massachusetts House,D
+2689,Massachusetts House,D
+2690,Massachusetts House,D
+2691,Massachusetts House,D
+2692,Massachusetts House,R
+2693,Massachusetts House,D
+2694,Massachusetts House,D
+2695,Massachusetts House,D
+2696,Massachusetts House,R
+2697,Massachusetts House,R
+2698,Massachusetts House,D
+2699,Massachusetts House,D
+2700,Massachusetts House,D
+2701,Massachusetts House,D
+2702,Massachusetts House,D
+2703,Massachusetts House,D
+2704,Massachusetts House,R
+2705,Massachusetts House,D
+2706,Massachusetts House,D
+2707,Massachusetts House,D
+2708,Massachusetts House,D
+2709,Massachusetts House,D
+2710,Massachusetts House,R
+2711,Massachusetts House,D
+2712,Massachusetts House,D
+2713,Massachusetts House,D
+2714,Massachusetts House,D
+2715,Massachusetts House,D
+2716,Massachusetts House,D
+2717,Massachusetts House,D
+2718,Massachusetts House,D
+2719,Massachusetts House,D
+2720,Massachusetts House,D
+2721,Massachusetts House,D
+2722,Massachusetts House,D
+2723,Massachusetts House,D
+2724,Massachusetts House,D
+2725,Massachusetts House,R
+2726,Massachusetts House,R
+2727,Massachusetts House,D
+2728,Massachusetts House,D
+2729,Massachusetts House,D
+2730,Massachusetts House,R
+2731,Massachusetts House,D
+2732,Massachusetts House,D
+2733,Massachusetts House,D
+2734,Massachusetts House,D
+2735,Massachusetts House,D
+2736,Massachusetts House,D
+2737,Massachusetts House,R
+2738,Massachusetts House,D
+2739,Massachusetts House,D
+2740,Massachusetts House,D
+2741,Massachusetts House,D
+2742,Massachusetts House,R
+2743,Massachusetts House,D
+2744,Massachusetts House,R
+2745,Massachusetts House,D
+2746,Massachusetts Senate,D
+2747,Massachusetts Senate,D
+2748,Massachusetts Senate,D
+2749,Massachusetts Senate,D
+2750,Massachusetts Senate,D
+2751,Massachusetts Senate,D
+2752,Massachusetts Senate,D
+2753,Massachusetts Senate,D
+2754,Massachusetts Senate,D
+2755,Massachusetts Senate,D
+2756,Massachusetts Senate,D
+2757,Massachusetts Senate,D
+2758,Massachusetts Senate,D
+2759,Massachusetts Senate,D
+2760,Massachusetts Senate,R
+2761,Massachusetts Senate,D
+2762,Massachusetts Senate,D
+2763,Massachusetts Senate,D
+2764,Massachusetts Senate,D
+2765,Massachusetts Senate,D
+2766,Massachusetts Senate,D
+2767,Massachusetts Senate,D
+2768,Massachusetts Senate,D
+2769,Massachusetts Senate,D
+2770,Massachusetts Senate,D
+2771,Massachusetts Senate,D
+2772,Massachusetts Senate,D
+2773,Massachusetts Senate,D
+2774,Massachusetts Senate,D
+2775,Massachusetts Senate,R
+2776,Massachusetts Senate,D
+2777,Massachusetts Senate,D
+2778,Massachusetts Senate,D
+2779,Massachusetts Senate,D
+2780,Massachusetts Senate,D
+2781,Massachusetts Senate,R
+2782,Massachusetts Senate,D
+2783,Massachusetts Senate,R
+2784,Massachusetts Senate,D
+2785,Massachusetts Senate,D
+2786,Michigan House,D
+2787,Michigan House,D
+2788,Michigan House,D
+2789,Michigan House,D
+2790,Michigan House,D
+2791,Michigan House,D
+2792,Michigan House,D
+2793,Michigan House,D
+2794,Michigan House,D
+2795,Michigan House,D
+2796,Michigan House,D
+2797,Michigan House,D
+2798,Michigan House,D
+2799,Michigan House,D
+2800,Michigan House,D
+2801,Michigan House,R
+2802,Michigan House,D
+2803,Michigan House,D
+2804,Michigan House,D
+2805,Michigan House,D
+2806,Michigan House,D
+2807,Michigan House,D
+2808,Michigan House,R
+2809,Michigan House,D
+2810,Michigan House,D
+2811,Michigan House,D
+2812,Michigan House,D
+2813,Michigan House,D
+2814,Michigan House,R
+2815,Michigan House,D
+2816,Michigan House,R
+2817,Michigan House,R
+2818,Michigan House,D
+2819,Michigan House,D
+2820,Michigan House,R
+2821,Michigan House,D
+2822,Michigan House,R
+2823,Michigan House,R
+2824,Michigan House,D
+2825,Michigan House,D
+2826,Michigan House,R
+2827,Michigan House,R
+2828,Michigan House,R
+2829,Michigan House,R
+2830,Michigan House,R
+2831,Michigan House,R
+2832,Michigan House,D
+2833,Michigan House,D
+2834,Michigan House,D
+2835,Michigan House,R
+2836,Michigan House,D
+2837,Michigan House,D
+2838,Michigan House,D
+2839,Michigan House,D
+2840,Michigan House,R
+2841,Michigan House,R
+2842,Michigan House,R
+2843,Michigan House,R
+2844,Michigan House,D
+2845,Michigan House,R
+2846,Michigan House,D
+2847,Michigan House,R
+2848,Michigan House,R
+2849,Michigan House,R
+2850,Michigan House,R
+2851,Michigan House,D
+2852,Michigan House,D
+2853,Michigan House,D
+2854,Michigan House,R
+2855,Michigan House,D
+2856,Michigan House,R
+2857,Michigan House,R
+2858,Michigan House,R
+2859,Michigan House,D
+2860,Michigan House,D
+2861,Michigan House,R
+2862,Michigan House,R
+2863,Michigan House,R
+2864,Michigan House,R
+2865,Michigan House,R
+2866,Michigan House,R
+2867,Michigan House,R
+2868,Michigan House,R
+2869,Michigan House,R
+2870,Michigan House,R
+2871,Michigan House,R
+2872,Michigan House,R
+2873,Michigan House,R
+2874,Michigan House,R
+2875,Michigan House,R
+2876,Michigan House,D
+2877,Michigan House,R
+2878,Michigan House,R
+2879,Michigan House,D
+2880,Michigan House,D
+2881,Michigan House,R
+2882,Michigan House,R
+2883,Michigan House,R
+2884,Michigan House,R
+2885,Michigan House,R
+2886,Michigan House,R
+2887,Michigan House,R
+2888,Michigan House,R
+2889,Michigan House,R
+2890,Michigan House,R
+2891,Michigan House,R
+2892,Michigan House,R
+2893,Michigan House,D
+2894,Michigan House,R
+2895,Michigan Senate,D
+2896,Michigan Senate,R
+2897,Michigan Senate,D
+2898,Michigan Senate,R
+2899,Michigan Senate,D
+2900,Michigan Senate,R
+2901,Michigan Senate,R
+2902,Michigan Senate,D
+2903,Michigan Senate,R
+2904,Michigan Senate,D
+2905,Michigan Senate,D
+2906,Michigan Senate,D
+2907,Michigan Senate,D
+2908,Michigan Senate,R
+2909,Michigan Senate,R
+2910,Michigan Senate,R
+2911,Michigan Senate,R
+2912,Michigan Senate,R
+2913,Michigan Senate,R
+2914,Michigan Senate,R
+2915,Michigan Senate,R
+2916,Michigan Senate,D
+2917,Michigan Senate,D
+2918,Michigan Senate,R
+2919,Michigan Senate,R
+2920,Michigan Senate,D
+2921,Michigan Senate,R
+2922,Michigan Senate,R
+2923,Michigan Senate,R
+2924,Michigan Senate,R
+2925,Michigan Senate,D
+2926,Michigan Senate,R
+2927,Michigan Senate,D
+2928,Michigan Senate,D
+2929,Michigan Senate,D
+2930,Michigan Senate,R
+2931,Michigan Senate,R
+2932,Michigan Senate,D
+2933,Minnesota House,D
+2934,Minnesota House,R
+2935,Minnesota House,R
+2936,Minnesota House,R
+2937,Minnesota House,D
+2938,Minnesota House,R
+2939,Minnesota House,R
+2940,Minnesota House,D
+2941,Minnesota House,R
+2942,Minnesota House,D
+2943,Minnesota House,D
+2944,Minnesota House,R
+2945,Minnesota House,D
+2946,Minnesota House,D
+2947,Minnesota House,D
+2948,Minnesota House,D
+2949,Minnesota House,D
+2950,Minnesota House,D
+2951,Minnesota House,D
+2952,Minnesota House,R
+2953,Minnesota House,R
+2954,Minnesota House,R
+2955,Minnesota House,D
+2956,Minnesota House,D
+2957,Minnesota House,R
+2958,Minnesota House,R
+2959,Minnesota House,R
+2960,Minnesota House,D
+2961,Minnesota House,D
+2962,Minnesota House,D
+2963,Minnesota House,R
+2964,Minnesota House,R
+2965,Minnesota House,D
+2966,Minnesota House,R
+2967,Minnesota House,D
+2968,Minnesota House,R
+2969,Minnesota House,D
+2970,Minnesota House,R
+2971,Minnesota House,R
+2972,Minnesota House,R
+2973,Minnesota House,R
+2974,Minnesota House,R
+2975,Minnesota House,D
+2976,Minnesota House,R
+2977,Minnesota House,D
+2978,Minnesota House,D
+2979,Minnesota House,D
+2980,Minnesota House,R
+2981,Minnesota House,R
+2982,Minnesota House,D
+2983,Minnesota House,R
+2984,Minnesota House,D
+2985,Minnesota House,D
+2986,Minnesota House,D
+2987,Minnesota House,D
+2988,Minnesota House,R
+2989,Minnesota House,D
+2990,Minnesota House,R
+2991,Minnesota House,R
+2992,Minnesota House,D
+2993,Minnesota House,D
+2994,Minnesota House,D
+2995,Minnesota House,R
+2996,Minnesota House,R
+2997,Minnesota House,D
+2998,Minnesota House,R
+2999,Minnesota House,D
+3000,Minnesota House,D
+3001,Minnesota House,D
+3002,Minnesota House,D
+3003,Minnesota House,D
+3004,Minnesota House,D
+3005,Minnesota House,D
+3006,Minnesota House,D
+3007,Minnesota House,R
+3008,Minnesota House,R
+3009,Minnesota House,D
+3010,Minnesota House,D
+3011,Minnesota House,D
+3012,Minnesota House,D
+3013,Minnesota House,D
+3014,Minnesota House,R
+3015,Minnesota House,R
+3016,Minnesota House,R
+3017,Minnesota House,D
+3018,Minnesota House,D
+3019,Minnesota House,D
+3020,Minnesota House,R
+3021,Minnesota House,D
+3022,Minnesota House,R
+3023,Minnesota House,D
+3024,Minnesota House,R
+3025,Minnesota House,R
+3026,Minnesota House,D
+3027,Minnesota House,R
+3028,Minnesota House,R
+3029,Minnesota House,R
+3030,Minnesota House,D
+3031,Minnesota House,R
+3032,Minnesota House,D
+3033,Minnesota House,D
+3034,Minnesota House,R
+3035,Minnesota House,R
+3036,Minnesota House,D
+3037,Minnesota House,D
+3038,Minnesota House,R
+3039,Minnesota House,D
+3040,Minnesota House,R
+3041,Minnesota House,D
+3042,Minnesota House,R
+3043,Minnesota House,R
+3044,Minnesota House,D
+3045,Minnesota House,D
+3046,Minnesota House,D
+3047,Minnesota House,R
+3048,Minnesota House,D
+3049,Minnesota House,R
+3050,Minnesota House,D
+3051,Minnesota House,D
+3052,Minnesota House,R
+3053,Minnesota House,D
+3054,Minnesota House,R
+3055,Minnesota House,R
+3056,Minnesota House,R
+3057,Minnesota House,D
+3058,Minnesota House,R
+3059,Minnesota House,D
+3060,Minnesota House,D
+3061,Minnesota House,R
+3062,Minnesota House,D
+3063,Minnesota House,D
+3064,Minnesota House,D
+3065,Minnesota House,D
+3066,Minnesota House,D
+3067,Minnesota Senate,R
+3068,Minnesota Senate,R
+3069,Minnesota Senate,R
+3070,Minnesota Senate,D
+3071,Minnesota Senate,R
+3072,Minnesota Senate,D
+3073,Minnesota Senate,D
+3074,Minnesota Senate,R
+3075,Minnesota Senate,D
+3076,Minnesota Senate,D
+3077,Minnesota Senate,D
+3078,Minnesota Senate,D
+3079,Minnesota Senate,R
+3080,Minnesota Senate,D
+3081,Minnesota Senate,R
+3082,Minnesota Senate,D
+3083,Minnesota Senate,D
+3084,Minnesota Senate,R
+3085,Minnesota Senate,D
+3086,Minnesota Senate,D
+3087,Minnesota Senate,D
+3088,Minnesota Senate,R
+3089,Minnesota Senate,R
+3090,Minnesota Senate,R
+3091,Minnesota Senate,D
+3092,Minnesota Senate,D
+3093,Minnesota Senate,D
+3094,Minnesota Senate,R
+3095,Minnesota Senate,R
+3096,Minnesota Senate,R
+3097,Minnesota Senate,D
+3098,Minnesota Senate,R
+3099,Minnesota Senate,R
+3100,Minnesota Senate,R
+3101,Minnesota Senate,D
+3102,Minnesota Senate,R
+3103,Minnesota Senate,D
+3104,Minnesota Senate,R
+3105,Minnesota Senate,D
+3106,Minnesota Senate,R
+3107,Minnesota Senate,D
+3108,Minnesota Senate,R
+3109,Minnesota Senate,D
+3110,Minnesota Senate,D
+3111,Minnesota Senate,R
+3112,Minnesota Senate,R
+3113,Minnesota Senate,R
+3114,Minnesota Senate,R
+3115,Minnesota Senate,D
+3116,Minnesota Senate,R
+3117,Minnesota Senate,D
+3118,Minnesota Senate,R
+3119,Minnesota Senate,R
+3120,Minnesota Senate,R
+3121,Minnesota Senate,D
+3122,Minnesota Senate,R
+3123,Minnesota Senate,R
+3124,Minnesota Senate,R
+3125,Minnesota Senate,D
+3126,Minnesota Senate,D
+3127,Minnesota Senate,D
+3128,Minnesota Senate,D
+3129,Minnesota Senate,R
+3130,Minnesota Senate,R
+3131,Minnesota Senate,R
+3132,Minnesota Senate,D
+3133,Minnesota Senate,D
+3134,Mississippi House,D
+3135,Mississippi House,D
+3136,Mississippi House,I
+3137,Mississippi House,R
+3138,Mississippi House,R
+3139,Mississippi House,R
+3140,Mississippi House,R
+3141,Mississippi House,D
+3142,Mississippi House,R
+3143,Mississippi House,R
+3144,Mississippi House,R
+3145,Mississippi House,D
+3146,Mississippi House,R
+3147,Mississippi House,D
+3148,Mississippi House,R
+3149,Mississippi House,R
+3150,Mississippi House,D
+3151,Mississippi House,R
+3152,Mississippi House,R
+3153,Mississippi House,D
+3154,Mississippi House,D
+3155,Mississippi House,R
+3156,Mississippi House,D
+3157,Mississippi House,R
+3158,Mississippi House,R
+3159,Mississippi House,R
+3160,Mississippi House,R
+3161,Mississippi House,R
+3162,Mississippi House,D
+3163,Mississippi House,D
+3164,Mississippi House,R
+3165,Mississippi House,R
+3166,Mississippi House,R
+3167,Mississippi House,D
+3168,Mississippi House,D
+3169,Mississippi House,R
+3170,Mississippi House,R
+3171,Mississippi House,R
+3172,Mississippi House,D
+3173,Mississippi House,R
+3174,Mississippi House,D
+3175,Mississippi House,R
+3176,Mississippi House,R
+3177,Mississippi House,R
+3178,Mississippi House,R
+3179,Mississippi House,D
+3180,Mississippi House,R
+3181,Mississippi House,D
+3182,Mississippi House,R
+3183,Mississippi House,R
+3184,Mississippi House,R
+3185,Mississippi House,R
+3186,Mississippi House,R
+3187,Mississippi House,R
+3188,Mississippi House,D
+3189,Mississippi House,D
+3190,Mississippi House,R
+3191,Mississippi House,D
+3192,Mississippi House,D
+3193,Mississippi House,D
+3194,Mississippi House,R
+3195,Mississippi House,R
+3196,Mississippi House,D
+3197,Mississippi House,R
+3198,Mississippi House,R
+3199,Mississippi House,R
+3200,Mississippi House,D
+3201,Mississippi House,R
+3202,Mississippi House,D
+3203,Mississippi House,R
+3204,Mississippi House,R
+3205,Mississippi House,R
+3206,Mississippi House,R
+3207,Mississippi House,R
+3208,Mississippi House,D
+3209,Mississippi House,R
+3210,Mississippi House,R
+3211,Mississippi House,R
+3212,Mississippi House,D
+3213,Mississippi House,D
+3214,Mississippi House,D
+3215,Mississippi House,D
+3216,Mississippi House,D
+3217,Mississippi House,R
+3218,Mississippi House,R
+3219,Mississippi House,R
+3220,Mississippi House,R
+3221,Mississippi House,R
+3222,Mississippi House,R
+3223,Mississippi House,D
+3224,Mississippi House,R
+3225,Mississippi House,D
+3226,Mississippi House,R
+3227,Mississippi House,D
+3228,Mississippi House,D
+3229,Mississippi House,R
+3230,Mississippi House,R
+3231,Mississippi House,D
+3232,Mississippi House,R
+3233,Mississippi House,R
+3234,Mississippi House,D
+3235,Mississippi House,D
+3236,Mississippi House,R
+3237,Mississippi House,D
+3238,Mississippi House,R
+3239,Mississippi House,R
+3240,Mississippi House,R
+3241,Mississippi House,D
+3242,Mississippi House,R
+3243,Mississippi House,D
+3244,Mississippi House,R
+3245,Mississippi House,D
+3246,Mississippi House,R
+3247,Mississippi House,R
+3248,Mississippi House,R
+3249,Mississippi House,R
+3250,Mississippi House,D
+3251,Mississippi House,D
+3252,Mississippi House,D
+3253,Mississippi Senate,D 
+3254,Mississippi Senate,D 
+3255,Mississippi Senate,R 
+3256,Mississippi Senate,D 
+3257,Mississippi Senate,R 
+3258,Mississippi Senate,R 
+3259,Mississippi Senate,D 
+3260,Mississippi Senate,D 
+3261,Mississippi Senate,R 
+3262,Mississippi Senate,R 
+3263,Mississippi Senate,R 
+3264,Mississippi Senate,R 
+3265,Mississippi Senate,R 
+3266,Mississippi Senate,R 
+3267,Mississippi Senate,R 
+3268,Mississippi Senate,R 
+3269,Mississippi Senate,R 
+3270,Mississippi Senate,D 
+3271,Mississippi Senate,R 
+3272,Mississippi Senate,R 
+3273,Mississippi Senate,R 
+3274,Mississippi Senate,D 
+3275,Mississippi Senate,R 
+3276,Mississippi Senate,D 
+3277,Mississippi Senate,D 
+3278,Mississippi Senate,R 
+3279,Mississippi Senate,D 
+3280,Mississippi Senate,R 
+3281,Mississippi Senate,R 
+3282,Mississippi Senate,R 
+3283,Mississippi Senate,R 
+3284,Mississippi Senate,R 
+3285,Mississippi Senate,R 
+3286,Mississippi Senate,R 
+3287,Mississippi Senate,D 
+3288,Mississippi Senate,R 
+3289,Mississippi Senate,R 
+3290,Mississippi Senate,R 
+3291,Mississippi Senate,R 
+3292,Mississippi Senate,D 
+3293,Mississippi Senate,D 
+3294,Mississippi Senate,R 
+3295,Mississippi Senate,R 
+3296,Mississippi Senate,R 
+3297,Mississippi Senate,R 
+3298,Mississippi Senate,D 
+3299,Mississippi Senate,R 
+3300,Mississippi Senate,D 
+3301,Mississippi Senate,R 
+3302,Mississippi Senate,R 
+3303,Mississippi Senate,D 
+3304,Mississippi Senate,R 
+3305,Missouri House,D
+3306,Missouri House,R
+3307,Missouri House,R
+3308,Missouri House,R
+3309,Missouri House,D
+3310,Missouri House,R
+3311,Missouri House,R
+3312,Missouri House,D
+3313,Missouri House,D
+3314,Missouri House,D
+3315,Missouri House,R
+3316,Missouri House,D
+3317,Missouri House,R
+3318,Missouri House,R
+3319,Missouri House,R
+3320,Missouri House,D
+3321,Missouri House,R
+3322,Missouri House,D
+3323,Missouri House,R
+3324,Missouri House,D
+3325,Missouri House,D
+3326,Missouri House,D
+3327,Missouri House,D
+3328,Missouri House,R
+3329,Missouri House,D
+3330,Missouri House,D
+3331,Missouri House,D
+3332,Missouri House,D
+3333,Missouri House,R
+3334,Missouri House,R
+3335,Missouri House,D
+3336,Missouri House,R
+3337,Missouri House,R
+3338,Missouri House,R
+3339,Missouri House,R
+3340,Missouri House,R
+3341,Missouri House,R
+3342,Missouri House,R
+3343,Missouri House,R
+3344,Missouri House,R
+3345,Missouri House,D
+3346,Missouri House,R
+3347,Missouri House,R
+3348,Missouri House,R
+3349,Missouri House,R
+3350,Missouri House,R
+3351,Missouri House,R
+3352,Missouri House,R
+3353,Missouri House,D
+3354,Missouri House,D
+3355,Missouri House,R
+3356,Missouri House,R
+3357,Missouri House,R
+3358,Missouri House,R
+3359,Missouri House,D
+3360,Missouri House,R
+3361,Missouri House,R
+3362,Missouri House,R
+3363,Missouri House,R
+3364,Missouri House,R
+3365,Missouri House,R
+3366,Missouri House,R
+3367,Missouri House,R
+3368,Missouri House,R
+3369,Missouri House,R
+3370,Missouri House,R
+3371,Missouri House,R
+3372,Missouri House,R
+3373,Missouri House,D
+3374,Missouri House,R
+3375,Missouri House,R
+3376,Missouri House,R
+3377,Missouri House,D
+3378,Missouri House,R
+3379,Missouri House,R
+3380,Missouri House,R
+3381,Missouri House,D
+3382,Missouri House,R
+3383,Missouri House,R
+3384,Missouri House,R
+3385,Missouri House,D
+3386,Missouri House,R
+3387,Missouri House,D
+3388,Missouri House,R
+3389,Missouri House,R
+3390,Missouri House,R
+3391,Missouri House,D
+3392,Missouri House,R
+3393,Missouri House,R
+3394,Missouri House,D
+3395,Missouri House,R
+3396,Missouri House,D
+3397,Missouri House,R
+3398,Missouri House,R
+3399,Missouri House,D
+3400,Missouri House,R
+3401,Missouri House,R
+3402,Missouri House,R
+3403,Missouri House,R
+3404,Missouri House,R
+3405,Missouri House,D
+3406,Missouri House,R
+3407,Missouri House,D
+3408,Missouri House,R
+3409,Missouri House,R
+3410,Missouri House,R
+3411,Missouri House,R
+3412,Missouri House,R
+3413,Missouri House,R
+3414,Missouri House,R
+3415,Missouri House,D
+3416,Missouri House,D
+3417,Missouri House,D
+3418,Missouri House,D
+3419,Missouri House,R
+3420,Missouri House,R
+3421,Missouri House,R
+3422,Missouri House,R
+3423,Missouri House,R
+3424,Missouri House,R
+3425,Missouri House,D
+3426,Missouri House,R
+3427,Missouri House,D
+3428,Missouri House,R
+3429,Missouri House,R
+3430,Missouri House,D
+3431,Missouri House,D
+3432,Missouri House,R
+3433,Missouri House,D
+3434,Missouri House,D
+3435,Missouri House,R
+3436,Missouri House,R
+3437,Missouri House,D
+3438,Missouri House,R
+3439,Missouri House,R
+3440,Missouri House,R
+3441,Missouri House,R
+3442,Missouri House,R
+3443,Missouri House,R
+3444,Missouri House,R
+3445,Missouri House,R
+3446,Missouri House,R
+3447,Missouri House,R
+3448,Missouri House,R
+3449,Missouri House,R
+3450,Missouri House,D
+3451,Missouri House,R
+3452,Missouri House,R
+3453,Missouri House,R
+3454,Missouri House,R
+3455,Missouri House,R
+3456,Missouri House,D
+3457,Missouri House,R
+3458,Missouri House,R
+3459,Missouri House,R
+3460,Missouri House,D
+3461,Missouri House,R
+3462,Missouri House,R
+3463,Missouri House,D
+3464,Missouri House,R
+3465,Missouri House,D
+3466,Missouri Senate,D
+3467,Missouri Senate,R
+3468,Missouri Senate,D
+3469,Missouri Senate,D
+3470,Missouri Senate,R
+3471,Missouri Senate,R
+3472,Missouri Senate,R
+3473,Missouri Senate,D
+3474,Missouri Senate,R
+3475,Missouri Senate,D
+3476,Missouri Senate,D
+3477,Missouri Senate,R
+3478,Missouri Senate,R
+3479,Missouri Senate,D
+3480,Missouri Senate,R
+3481,Missouri Senate,R
+3482,Missouri Senate,R
+3483,Missouri Senate,R
+3484,Missouri Senate,R
+3485,Missouri Senate,R
+3486,Missouri Senate,D
+3487,Missouri Senate,R
+3488,Missouri Senate,R
+3489,Missouri Senate,R
+3490,Missouri Senate,R
+3491,Missouri Senate,R
+3492,Missouri Senate,R
+3493,Missouri Senate,R
+3494,Missouri Senate,R
+3495,Missouri Senate,R
+3496,Missouri Senate,R
+3497,Montana House,R
+3498,Montana House,R
+3499,Montana House,D
+3500,Montana House,R
+3501,Montana House,R
+3502,Montana House,R
+3503,Montana House,R
+3504,Montana House,D
+3505,Montana House,D
+3506,Montana House,R
+3507,Montana House,R
+3508,Montana House,R
+3509,Montana House,R
+3510,Montana House,R
+3511,Montana House,R
+3512,Montana House,R
+3513,Montana House,D
+3514,Montana House,D
+3515,Montana House,D
+3516,Montana House,D
+3517,Montana House,R
+3518,Montana House,D
+3519,Montana House,R
+3520,Montana House,D
+3521,Montana House,D
+3522,Montana House,R
+3523,Montana House,D
+3524,Montana House,D
+3525,Montana House,R
+3526,Montana House,R
+3527,Montana House,R
+3528,Montana House,R
+3529,Montana House,R
+3530,Montana House,R
+3531,Montana House,R
+3532,Montana House,R
+3533,Montana House,R
+3534,Montana House,D
+3535,Montana House,D
+3536,Montana House,R
+3537,Montana House,R
+3538,Montana House,R
+3539,Montana House,R
+3540,Montana House,D
+3541,Montana House,D
+3542,Montana House,D
+3543,Montana House,D
+3544,Montana House,D
+3545,Montana House,R
+3546,Montana House,R
+3547,Montana House,R
+3548,Montana House,R
+3549,Montana House,R
+3550,Montana House,R
+3551,Montana House,R
+3552,Montana House,R
+3553,Montana House,R
+3554,Montana House,R
+3555,Montana House,D
+3556,Montana House,D
+3557,Montana House,D
+3558,Montana House,D
+3559,Montana House,R
+3560,Montana House,D
+3561,Montana House,D
+3562,Montana House,R
+3563,Montana House,R
+3564,Montana House,R
+3565,Montana House,R
+3566,Montana House,R
+3567,Montana House,R
+3568,Montana House,R
+3569,Montana House,D
+3570,Montana House,R
+3571,Montana House,D
+3572,Montana House,D
+3573,Montana House,D
+3574,Montana House,D
+3575,Montana House,R
+3576,Montana House,R
+3577,Montana House,D
+3578,Montana House,D
+3579,Montana House,D
+3580,Montana House,D
+3581,Montana House,R
+3582,Montana House,R
+3583,Montana House,R
+3584,Montana House,R
+3585,Montana House,D
+3586,Montana House,R
+3587,Montana House,D
+3588,Montana House,D
+3589,Montana House,R
+3590,Montana House,R
+3591,Montana House,D
+3592,Montana House,D
+3593,Montana House,D
+3594,Montana House,R
+3595,Montana House,D
+3596,Montana House,D
+3597,Montana Senate,R
+3598,Montana Senate,R
+3599,Montana Senate,R
+3600,Montana Senate,R
+3601,Montana Senate,R
+3602,Montana Senate,R
+3603,Montana Senate,R
+3604,Montana Senate,D
+3605,Montana Senate,R
+3606,Montana Senate,R
+3607,Montana Senate,D
+3608,Montana Senate,D
+3609,Montana Senate,R
+3610,Montana Senate,R
+3611,Montana Senate,R
+3612,Montana Senate,D
+3613,Montana Senate,R
+3614,Montana Senate,R
+3615,Montana Senate,R
+3616,Montana Senate,R
+3617,Montana Senate,R
+3618,Montana Senate,R
+3619,Montana Senate,R
+3620,Montana Senate,D
+3621,Montana Senate,D
+3622,Montana Senate,D
+3623,Montana Senate,R
+3624,Montana Senate,R
+3625,Montana Senate,R
+3626,Montana Senate,R
+3627,Montana Senate,D
+3628,Montana Senate,D
+3629,Montana Senate,D
+3630,Montana Senate,R
+3631,Montana Senate,R
+3632,Montana Senate,R
+3633,Montana Senate,D
+3634,Montana Senate,D
+3635,Montana Senate,D
+3636,Montana Senate,R
+3637,Montana Senate,D
+3638,Montana Senate,D
+3639,Montana Senate,R
+3640,Montana Senate,R
+3641,Montana Senate,D
+3642,Montana Senate,D
+3643,Montana Senate,R
+3644,Montana Senate,D
+3645,Montana Senate,D
+3646,Montana Senate,D
+3647,Nebraska Senate,R
+3648,Nebraska Senate,R
+3649,Nebraska Senate,D
+3650,Nebraska Senate,R
+3651,Nebraska Senate,D
+3652,Nebraska Senate,D
+3653,Nebraska Senate,D
+3654,Nebraska Senate,D
+3655,Nebraska Senate,D
+3656,Nebraska Senate,D
+3657,Nebraska Senate,I
+3658,Nebraska Senate,D
+3659,Nebraska Senate,D
+3660,Nebraska Senate,R
+3661,Nebraska Senate,D
+3662,Nebraska Senate,R
+3663,Nebraska Senate,R
+3664,Nebraska Senate,R
+3665,Nebraska Senate,R
+3666,Nebraska Senate,R
+3667,Nebraska Senate,R
+3668,Nebraska Senate,R
+3669,Nebraska Senate,R
+3670,Nebraska Senate,R
+3671,Nebraska Senate,R
+3672,Nebraska Senate,D
+3673,Nebraska Senate,D
+3674,Nebraska Senate,D
+3675,Nebraska Senate,D
+3676,Nebraska Senate,R
+3677,Nebraska Senate,D
+3678,Nebraska Senate,R
+3679,Nebraska Senate,R
+3680,Nebraska Senate,R
+3681,Nebraska Senate,D
+3682,Nebraska Senate,R
+3683,Nebraska Senate,R
+3684,Nebraska Senate,R
+3685,Nebraska Senate,R
+3686,Nebraska Senate,R
+3687,Nebraska Senate,R
+3688,Nebraska Senate,R
+3689,Nebraska Senate,R
+3690,Nebraska Senate,R
+3691,Nebraska Senate,D
+3692,Nebraska Senate,D
+3693,Nebraska Senate,R
+3694,Nebraska Senate,R
+3695,Nebraska Senate,R
+3696,Nevada Assembly,D
+3697,Nevada Assembly,D
+3698,Nevada Assembly,D
+3699,Nevada Assembly,D
+3700,Nevada Assembly,D
+3701,Nevada Assembly,D
+3702,Nevada Assembly,D
+3703,Nevada Assembly,D
+3704,Nevada Assembly,D
+3705,Nevada Assembly,D
+3706,Nevada Assembly,R
+3707,Nevada Assembly,R
+3708,Nevada Assembly,D
+3709,Nevada Assembly,D
+3710,Nevada Assembly,D
+3711,Nevada Assembly,D
+3712,Nevada Assembly,R
+3713,Nevada Assembly,R
+3714,Nevada Assembly,R
+3715,Nevada Assembly,R
+3716,Nevada Assembly,D
+3717,Nevada Assembly,R
+3718,Nevada Assembly,R
+3719,Nevada Assembly,R
+3720,Nevada Assembly,D
+3721,Nevada Assembly,D
+3722,Nevada Assembly,D
+3723,Nevada Assembly,D
+3724,Nevada Assembly,D
+3725,Nevada Assembly,D
+3726,Nevada Assembly,D
+3727,Nevada Assembly,D
+3728,Nevada Assembly,R
+3729,Nevada Assembly,D
+3730,Nevada Assembly,D
+3731,Nevada Assembly,D
+3732,Nevada Assembly,R
+3733,Nevada Assembly,R
+3734,Nevada Assembly,D
+3735,Nevada Assembly,D
+3736,Nevada Assembly,R
+3737,Nevada Assembly,D
+3738,Nevada Senate,D
+3739,Nevada Senate,D
+3740,Nevada Senate,D
+3741,Nevada Senate,D
+3742,Nevada Senate,D
+3743,Nevada Senate,R
+3744,Nevada Senate,R
+3745,Nevada Senate,R
+3746,Nevada Senate,R
+3747,Nevada Senate,D
+3748,Nevada Senate,R
+3749,Nevada Senate,D
+3750,Nevada Senate,D
+3751,Nevada Senate,R
+3752,Nevada Senate,D
+3753,Nevada Senate,D
+3754,Nevada Senate,R
+3755,Nevada Senate,R
+3756,Nevada Senate,D
+3757,Nevada Senate,D
+3758,Nevada Senate,D
+3759,New Hampshire House,R
+3760,New Hampshire House,D
+3761,New Hampshire House,D
+3762,New Hampshire House,R
+3763,New Hampshire House,I
+3764,New Hampshire House,R
+3765,New Hampshire House,D
+3766,New Hampshire House,R
+3767,New Hampshire House,R
+3768,New Hampshire House,R
+3769,New Hampshire House,D
+3770,New Hampshire House,D
+3771,New Hampshire House,D
+3772,New Hampshire House,R
+3773,New Hampshire House,R
+3774,New Hampshire House,D
+3775,New Hampshire House,D
+3776,New Hampshire House,R
+3777,New Hampshire House,R
+3778,New Hampshire House,D
+3779,New Hampshire House,R
+3780,New Hampshire House,D
+3781,New Hampshire House,R
+3782,New Hampshire House,R
+3783,New Hampshire House,R
+3784,New Hampshire House,D
+3785,New Hampshire House,D
+3786,New Hampshire House,D
+3787,New Hampshire House,D
+3788,New Hampshire House,D
+3789,New Hampshire House,R
+3790,New Hampshire House,R
+3791,New Hampshire House,D
+3792,New Hampshire House,R
+3793,New Hampshire House,D
+3794,New Hampshire House,D
+3795,New Hampshire House,D
+3796,New Hampshire House,D
+3797,New Hampshire House,D
+3798,New Hampshire House,D
+3799,New Hampshire House,R
+3800,New Hampshire House,D
+3801,New Hampshire House,D
+3802,New Hampshire House,D
+3803,New Hampshire House,D
+3804,New Hampshire House,R
+3805,New Hampshire House,D
+3806,New Hampshire House,D
+3807,New Hampshire House,D
+3808,New Hampshire House,D
+3809,New Hampshire House,R
+3810,New Hampshire House,R
+3811,New Hampshire House,D
+3812,New Hampshire House,D
+3813,New Hampshire House,D
+3814,New Hampshire House,R
+3815,New Hampshire House,D
+3816,New Hampshire House,D
+3817,New Hampshire House,D
+3818,New Hampshire House,R
+3819,New Hampshire House,D
+3820,New Hampshire House,D
+3821,New Hampshire House,D
+3822,New Hampshire House,D
+3823,New Hampshire House,R
+3824,New Hampshire House,R
+3825,New Hampshire House,D
+3826,New Hampshire House,D
+3827,New Hampshire House,R
+3828,New Hampshire House,D
+3829,New Hampshire House,R
+3830,New Hampshire House,d
+3831,New Hampshire House,D
+3832,New Hampshire House,R
+3833,New Hampshire House,R
+3834,New Hampshire House,D
+3835,New Hampshire House,D
+3836,New Hampshire House,R
+3837,New Hampshire House,D
+3838,New Hampshire House,R
+3839,New Hampshire House,D
+3840,New Hampshire House,R
+3841,New Hampshire House,R
+3842,New Hampshire House,R
+3843,New Hampshire House,D
+3844,New Hampshire House,D
+3845,New Hampshire House,D
+3846,New Hampshire House,D
+3847,New Hampshire House,D
+3848,New Hampshire House,D
+3849,New Hampshire House,D
+3850,New Hampshire House,R
+3851,New Hampshire House,D
+3852,New Hampshire House,R
+3853,New Hampshire House,D
+3854,New Hampshire House,D
+3855,New Hampshire House,D
+3856,New Hampshire House,D
+3857,New Hampshire House,R
+3858,New Hampshire House,D
+3859,New Hampshire House,D
+3860,New Hampshire House,R
+3861,New Hampshire House,D
+3862,New Hampshire House,D
+3863,New Hampshire House,R
+3864,New Hampshire House,D
+3865,New Hampshire House,D
+3866,New Hampshire House,D
+3867,New Hampshire House,R
+3868,New Hampshire House,r
+3869,New Hampshire House,D
+3870,New Hampshire House,D
+3871,New Hampshire House,D
+3872,New Hampshire House,R
+3873,New Hampshire House,R
+3874,New Hampshire House,D
+3875,New Hampshire House,D
+3876,New Hampshire House,R
+3877,New Hampshire House,R
+3878,New Hampshire House,R
+3879,New Hampshire House,D
+3880,New Hampshire House,D
+3881,New Hampshire House,D
+3882,New Hampshire House,R
+3883,New Hampshire House,D
+3884,New Hampshire House,D
+3885,New Hampshire House,D
+3886,New Hampshire House,R
+3887,New Hampshire House,R
+3888,New Hampshire House,R
+3889,New Hampshire House,D
+3890,New Hampshire House,D
+3891,New Hampshire House,R
+3892,New Hampshire House,D
+3893,New Hampshire House,D
+3894,New Hampshire House,R
+3895,New Hampshire House,R
+3896,New Hampshire House,D
+3897,New Hampshire House,R
+3898,New Hampshire House,D
+3899,New Hampshire House,R
+3900,New Hampshire House,R
+3901,New Hampshire House,R
+3902,New Hampshire House,R
+3903,New Hampshire House,D
+3904,New Hampshire House,D
+3905,New Hampshire House,D
+3906,New Hampshire House,R
+3907,New Hampshire House,R
+3908,New Hampshire House,D
+3909,New Hampshire House,D
+3910,New Hampshire House,R
+3911,New Hampshire House,R
+3912,New Hampshire House,D
+3913,New Hampshire House,D
+3914,New Hampshire House,D
+3915,New Hampshire House,R
+3916,New Hampshire House,D
+3917,New Hampshire House,R
+3918,New Hampshire House,D
+3919,New Hampshire House,D
+3920,New Hampshire House,D
+3921,New Hampshire House,R
+3922,New Hampshire House,R
+3923,New Hampshire House,R
+3924,New Hampshire House,R
+3925,New Hampshire House,R
+3926,New Hampshire House,R
+3927,New Hampshire House,R
+3928,New Hampshire House,D
+3929,New Hampshire House,R
+3930,New Hampshire House,R
+3931,New Hampshire House,D
+3932,New Hampshire House,D
+3933,New Hampshire House,D
+3934,New Hampshire House,R
+3935,New Hampshire House,R
+3936,New Hampshire House,D
+3937,New Hampshire House,D
+3938,New Hampshire House,R
+3939,New Hampshire House,D
+3940,New Hampshire House,D
+3941,New Hampshire House,D
+3942,New Hampshire House,R
+3943,New Hampshire House,D
+3944,New Hampshire House,D
+3945,New Hampshire House,R
+3946,New Hampshire House,D
+3947,New Hampshire House,R
+3948,New Hampshire House,D
+3949,New Hampshire House,D
+3950,New Hampshire House,R
+3951,New Hampshire House,D
+3952,New Hampshire House,R
+3953,New Hampshire House,R
+3954,New Hampshire House,R
+3955,New Hampshire House,D
+3956,New Hampshire House,D
+3957,New Hampshire House,R
+3958,New Hampshire House,D
+3959,New Hampshire House,R
+3960,New Hampshire House,R
+3961,New Hampshire House,D
+3962,New Hampshire House,D
+3963,New Hampshire House,R
+3964,New Hampshire House,R
+3965,New Hampshire House,D
+3966,New Hampshire House,D
+3967,New Hampshire House,D
+3968,New Hampshire House,R
+3969,New Hampshire House,D
+3970,New Hampshire House,D
+3971,New Hampshire House,R
+3972,New Hampshire House,D
+3973,New Hampshire House,R
+3974,New Hampshire House,R
+3975,New Hampshire House,D
+3976,New Hampshire House,R
+3977,New Hampshire House,d
+3978,New Hampshire House,R
+3979,New Hampshire House,D
+3980,New Hampshire House,D
+3981,New Hampshire House,R
+3982,New Hampshire House,D
+3983,New Hampshire House,D
+3984,New Hampshire House,D
+3985,New Hampshire House,R
+3986,New Hampshire House,D
+3987,New Hampshire House,R
+3988,New Hampshire House,D
+3989,New Hampshire House,D
+3990,New Hampshire House,R
+3991,New Hampshire House,D
+3992,New Hampshire House,D
+3993,New Hampshire House,R
+3994,New Hampshire House,r
+3995,New Hampshire House,R
+3996,New Hampshire House,R
+3997,New Hampshire House,D
+3998,New Hampshire House,D
+3999,New Hampshire House,R
+4000,New Hampshire House,D
+4001,New Hampshire House,R
+4002,New Hampshire House,R
+4003,New Hampshire House,D
+4004,New Hampshire House,R
+4005,New Hampshire House,D
+4006,New Hampshire House,D
+4007,New Hampshire House,D
+4008,New Hampshire House,R
+4009,New Hampshire House,D
+4010,New Hampshire House,D
+4011,New Hampshire House,D
+4012,New Hampshire House,D
+4013,New Hampshire House,D
+4014,New Hampshire House,D
+4015,New Hampshire House,D
+4016,New Hampshire House,D
+4017,New Hampshire House,R
+4018,New Hampshire House,D
+4019,New Hampshire House,D
+4020,New Hampshire House,D
+4021,New Hampshire House,D
+4022,New Hampshire House,R
+4023,New Hampshire House,r
+4024,New Hampshire House,D
+4025,New Hampshire House,D
+4026,New Hampshire House,R
+4027,New Hampshire House,R
+4028,New Hampshire House,D
+4029,New Hampshire House,R
+4030,New Hampshire House,R
+4031,New Hampshire House,D
+4032,New Hampshire House,D
+4033,New Hampshire House,R
+4034,New Hampshire House,D
+4035,New Hampshire House,R
+4036,New Hampshire House,D
+4037,New Hampshire House,R
+4038,New Hampshire House,R
+4039,New Hampshire House,D
+4040,New Hampshire House,D
+4041,New Hampshire House,R
+4042,New Hampshire House,R
+4043,New Hampshire House,R
+4044,New Hampshire House,D
+4045,New Hampshire House,D
+4046,New Hampshire House,R
+4047,New Hampshire House,D
+4048,New Hampshire House,D
+4049,New Hampshire House,D
+4050,New Hampshire House,R
+4051,New Hampshire House,D
+4052,New Hampshire House,R
+4053,New Hampshire House,R
+4054,New Hampshire House,R
+4055,New Hampshire House,D
+4056,New Hampshire House,R
+4057,New Hampshire House,R
+4058,New Hampshire House,R
+4059,New Hampshire House,R
+4060,New Hampshire House,R
+4061,New Hampshire House,D
+4062,New Hampshire House,D
+4063,New Hampshire House,D
+4064,New Hampshire House,R
+4065,New Hampshire House,R
+4066,New Hampshire House,R
+4067,New Hampshire House,D
+4068,New Hampshire House,D
+4069,New Hampshire House,D
+4070,New Hampshire House,D
+4071,New Hampshire House,D
+4072,New Hampshire House,R
+4073,New Hampshire House,R
+4074,New Hampshire House,D
+4075,New Hampshire House,R
+4076,New Hampshire House,D
+4077,New Hampshire House,D
+4078,New Hampshire House,D
+4079,New Hampshire House,R
+4080,New Hampshire House,D
+4081,New Hampshire House,D
+4082,New Hampshire House,D
+4083,New Hampshire House,D
+4084,New Hampshire House,D
+4085,New Hampshire House,D
+4086,New Hampshire House,D
+4087,New Hampshire House,d
+4088,New Hampshire House,R
+4089,New Hampshire House,D
+4090,New Hampshire House,D
+4091,New Hampshire House,d
+4092,New Hampshire House,D
+4093,New Hampshire House,R
+4094,New Hampshire House,D
+4095,New Hampshire House,D
+4096,New Hampshire House,D
+4097,New Hampshire House,D
+4098,New Hampshire House,R
+4099,New Hampshire House,D
+4100,New Hampshire House,D
+4101,New Hampshire House,d
+4102,New Hampshire House,D
+4103,New Hampshire House,D
+4104,New Hampshire House,R
+4105,New Hampshire House,R
+4106,New Hampshire House,D
+4107,New Hampshire House,D
+4108,New Hampshire House,D
+4109,New Hampshire House,R
+4110,New Hampshire House,R
+4111,New Hampshire House,D
+4112,New Hampshire House,D
+4113,New Hampshire House,D
+4114,New Hampshire House,D
+4115,New Hampshire House,D
+4116,New Hampshire House,D
+4117,New Hampshire House,R
+4118,New Hampshire House,R
+4119,New Hampshire House,d
+4120,New Hampshire House,D
+4121,New Hampshire House,D
+4122,New Hampshire House,R
+4123,New Hampshire House,R
+4124,New Hampshire House,D
+4125,New Hampshire House,D
+4126,New Hampshire House,D
+4127,New Hampshire House,D
+4128,New Hampshire House,R
+4129,New Hampshire House,D
+4130,New Hampshire House,R
+4131,New Hampshire House,D
+4132,New Hampshire House,D
+4133,New Hampshire House,R
+4134,New Hampshire House,D
+4135,New Hampshire House,D
+4136,New Hampshire House,R
+4137,New Hampshire House,D
+4138,New Hampshire House,D
+4139,New Hampshire House,D
+4140,New Hampshire House,D
+4141,New Hampshire House,R
+4142,New Hampshire House,R
+4143,New Hampshire House,R
+4144,New Hampshire House,D
+4145,New Hampshire House,D
+4146,New Hampshire House,R
+4147,New Hampshire House,D
+4148,New Hampshire House,R
+4149,New Hampshire House,d
+4150,New Hampshire House,R
+4151,New Hampshire House,d
+4152,New Hampshire House,D
+4153,New Hampshire House,R
+4154,New Hampshire House,r
+4155,New Hampshire House,D
+4156,New Hampshire House,D
+4157,New Hampshire House,D
+4158,New Hampshire House,R
+4159,New Hampshire House,D
+4160,New Hampshire House,R
+4161,New Hampshire House,D
+4162,New Hampshire House,D
+4163,New Hampshire House,R
+4164,New Hampshire House,D
+4165,New Hampshire House,D
+4166,New Hampshire House,R
+4167,New Hampshire House,D
+4168,New Hampshire House,D
+4169,New Hampshire House,D
+4170,New Hampshire House,R
+4171,New Hampshire House,R
+4172,New Hampshire House,R
+4173,New Hampshire Senate,R
+4174,New Hampshire Senate,R
+4175,New Hampshire Senate,R
+4176,New Hampshire Senate,D
+4177,New Hampshire Senate,D
+4178,New Hampshire Senate,R
+4179,New Hampshire Senate,R
+4180,New Hampshire Senate,R
+4181,New Hampshire Senate,D
+4182,New Hampshire Senate,D
+4183,New Hampshire Senate,D
+4184,New Hampshire Senate,D
+4185,New Hampshire Senate,D
+4186,New Hampshire Senate,R
+4187,New Hampshire Senate,D
+4188,New Hampshire Senate,D
+4189,New Hampshire Senate,R
+4190,New Hampshire Senate,D
+4191,New Hampshire Senate,R
+4192,New Hampshire Senate,D
+4193,New Hampshire Senate,D
+4194,New Hampshire Senate,R
+4195,New Hampshire Senate,D
+4196,New Hampshire Senate,D
+4197,New Jersey General Assembly,D
+4198,New Jersey General Assembly,R
+4199,New Jersey General Assembly,D
+4200,New Jersey General Assembly,R
+4201,New Jersey General Assembly,R
+4202,New Jersey General Assembly,D
+4203,New Jersey General Assembly,D
+4204,New Jersey General Assembly,D
+4205,New Jersey General Assembly,D
+4206,New Jersey General Assembly,R
+4207,New Jersey General Assembly,D
+4208,New Jersey General Assembly,D
+4209,New Jersey General Assembly,R
+4210,New Jersey General Assembly,D
+4211,New Jersey General Assembly,D
+4212,New Jersey General Assembly,R
+4213,New Jersey General Assembly,D
+4214,New Jersey General Assembly,D
+4215,New Jersey General Assembly,R
+4216,New Jersey General Assembly,R
+4217,New Jersey General Assembly,R
+4218,New Jersey General Assembly,R
+4219,New Jersey General Assembly,D
+4220,New Jersey General Assembly,D
+4221,New Jersey General Assembly,D
+4222,New Jersey General Assembly,D
+4223,New Jersey General Assembly,R
+4224,New Jersey General Assembly,D
+4225,New Jersey General Assembly,D
+4226,New Jersey General Assembly,D
+4227,New Jersey General Assembly,D
+4228,New Jersey General Assembly,D
+4229,New Jersey General Assembly,D
+4230,New Jersey General Assembly,D
+4231,New Jersey General Assembly,D
+4232,New Jersey General Assembly,R
+4233,New Jersey General Assembly,D
+4234,New Jersey General Assembly,R
+4235,New Jersey General Assembly,D
+4236,New Jersey General Assembly,D
+4237,New Jersey General Assembly,D
+4238,New Jersey General Assembly,R
+4239,New Jersey General Assembly,R
+4240,New Jersey General Assembly,D
+4241,New Jersey General Assembly,D
+4242,New Jersey General Assembly,D
+4243,New Jersey General Assembly,D
+4244,New Jersey General Assembly,D
+4245,New Jersey General Assembly,D
+4246,New Jersey General Assembly,D
+4247,New Jersey General Assembly,R
+4248,New Jersey General Assembly,D
+4249,New Jersey General Assembly,R
+4250,New Jersey General Assembly,R
+4251,New Jersey General Assembly,D
+4252,New Jersey General Assembly,D
+4253,New Jersey General Assembly,D
+4254,New Jersey General Assembly,D
+4255,New Jersey General Assembly,R
+4256,New Jersey General Assembly,R
+4257,New Jersey General Assembly,D
+4258,New Jersey General Assembly,R
+4259,New Jersey General Assembly,R
+4260,New Jersey General Assembly,R
+4261,New Jersey General Assembly,R
+4262,New Jersey General Assembly,D
+4263,New Jersey General Assembly,D
+4264,New Jersey General Assembly,R
+4265,New Jersey General Assembly,D
+4266,New Jersey General Assembly,D
+4267,New Jersey General Assembly,D
+4268,New Jersey General Assembly,R
+4269,New Jersey General Assembly,D
+4270,New Jersey General Assembly,D
+4271,New Jersey General Assembly,D
+4272,New Jersey General Assembly,D
+4273,New Jersey General Assembly,R
+4274,New Jersey General Assembly,D
+4275,New Jersey General Assembly,R
+4276,New Jersey General Assembly,D
+4277,New Jersey Senate,D
+4278,New Jersey Senate,R
+4279,New Jersey Senate,D
+4280,New Jersey Senate,R
+4281,New Jersey Senate,R
+4282,New Jersey Senate,R
+4283,New Jersey Senate,D
+4284,New Jersey Senate,R
+4285,New Jersey Senate,R
+4286,New Jersey Senate,D
+4287,New Jersey Senate,D
+4288,New Jersey Senate,D
+4289,New Jersey Senate,D
+4290,New Jersey Senate,R
+4291,New Jersey Senate,D
+4292,New Jersey Senate,D
+4293,New Jersey Senate,D
+4294,New Jersey Senate,R
+4295,New Jersey Senate,R
+4296,New Jersey Senate,D
+4297,New Jersey Senate,D
+4298,New Jersey Senate,R
+4299,New Jersey Senate,R
+4300,New Jersey Senate,R
+4301,New Jersey Senate,D
+4302,New Jersey Senate,D
+4303,New Jersey Senate,D
+4304,New Jersey Senate,D
+4305,New Jersey Senate,D
+4306,New Jersey Senate,D
+4307,New Jersey Senate,R
+4308,New Jersey Senate,D
+4309,New Jersey Senate,D
+4310,New Jersey Senate,D
+4311,New Jersey Senate,D
+4312,New Jersey Senate,R
+4313,New Jersey Senate,R
+4314,New Jersey Senate,D
+4315,New Jersey Senate,D
+4316,New Jersey Senate,D
+4317,New Mexico House,R
+4318,New Mexico House,R
+4319,New Mexico House,R
+4320,New Mexico House,D
+4321,New Mexico House,D
+4322,New Mexico House,D
+4323,New Mexico House,R
+4324,New Mexico House,R
+4325,New Mexico House,D
+4326,New Mexico House,D
+4327,New Mexico House,D
+4328,New Mexico House,D
+4329,New Mexico House,D
+4330,New Mexico House,D
+4331,New Mexico House,D
+4332,New Mexico House,D
+4333,New Mexico House,D
+4334,New Mexico House,D
+4335,New Mexico House,D
+4336,New Mexico House,D
+4337,New Mexico House,D
+4338,New Mexico House,R
+4339,New Mexico House,D
+4340,New Mexico House,D
+4341,New Mexico House,D
+4342,New Mexico House,D
+4343,New Mexico House,D
+4344,New Mexico House,D
+4345,New Mexico House,D
+4346,New Mexico House,D
+4347,New Mexico House,R
+4348,New Mexico House,D
+4349,New Mexico House,D
+4350,New Mexico House,D
+4351,New Mexico House,D
+4352,New Mexico House,D
+4353,New Mexico House,D
+4354,New Mexico House,R
+4355,New Mexico House,D
+4356,New Mexico House,D
+4357,New Mexico House,D
+4358,New Mexico House,D
+4359,New Mexico House,D
+4360,New Mexico House,R
+4361,New Mexico House,D
+4362,New Mexico House,D
+4363,New Mexico House,D
+4364,New Mexico House,R
+4365,New Mexico House,D
+4366,New Mexico House,R
+4367,New Mexico House,D
+4368,New Mexico House,D
+4369,New Mexico House,R
+4370,New Mexico House,R
+4371,New Mexico House,R
+4372,New Mexico House,R
+4373,New Mexico House,R
+4374,New Mexico House,R
+4375,New Mexico House,R
+4376,New Mexico House,R
+4377,New Mexico House,R
+4378,New Mexico House,R
+4379,New Mexico House,R
+4380,New Mexico House,D
+4381,New Mexico House,R
+4382,New Mexico House,R
+4383,New Mexico House,D
+4384,New Mexico House,D
+4385,New Mexico House,D
+4386,New Mexico Senate,R
+4387,New Mexico Senate,R
+4388,New Mexico Senate,R
+4389,New Mexico Senate,D
+4390,New Mexico Senate,D
+4391,New Mexico Senate,D
+4392,New Mexico Senate,R
+4393,New Mexico Senate,D
+4394,New Mexico Senate,R
+4395,New Mexico Senate,R
+4396,New Mexico Senate,R
+4397,New Mexico Senate,D
+4398,New Mexico Senate,R
+4399,New Mexico Senate,D
+4400,New Mexico Senate,D
+4401,New Mexico Senate,R
+4402,New Mexico Senate,D
+4403,New Mexico Senate,R
+4404,New Mexico Senate,D
+4405,New Mexico Senate,D
+4406,New Mexico Senate,D
+4407,New Mexico Senate,D
+4408,New Mexico Senate,R
+4409,New Mexico Senate,D
+4410,New Mexico Senate,R
+4411,New Mexico Senate,D
+4412,New Mexico Senate,D
+4413,New Mexico Senate,R
+4414,New Mexico Senate,D
+4415,New Mexico Senate,D
+4416,New Mexico Senate,D
+4417,New Mexico Senate,R
+4418,New Mexico Senate,D
+4419,New Mexico Senate,D
+4420,New Mexico Senate,D
+4421,New Mexico Senate,D
+4422,New Mexico Senate,D
+4423,New Mexico Senate,D
+4424,New Mexico Senate,D
+4425,New Mexico Senate,R
+4426,New Mexico Senate,D
+4427,New Mexico Senate,R
+4428,New York Senate,R
+4429,New York Senate,D
+4430,New York Senate,R
+4431,New York Senate,D
+4432,New York Senate,D
+4433,New York Senate,D
+4434,New York Senate,D
+4435,New York Senate,D
+4436,New York Senate,D
+4437,New York Senate,D
+4438,New York Senate,D
+4439,New York Senate,D
+4440,New York Senate,D
+4441,New York Senate,D
+4442,New York Senate,D
+4443,New York Senate,D
+4444,New York Senate,D
+4445,New York Senate,D
+4446,New York Senate,D
+4447,New York Senate,D
+4448,New York Senate,D
+4449,New York Senate,D
+4450,New York Senate,R
+4451,New York Senate,D
+4452,New York Senate,D
+4453,New York Senate,D
+4454,New York Senate,D
+4455,New York Senate,D
+4456,New York Senate,D
+4457,New York Senate,D
+4458,New York Senate,D
+4459,New York Senate,D
+4460,New York Senate,D
+4461,New York Senate,D
+4462,New York Senate,D
+4463,New York Senate,D
+4464,New York Senate,D
+4465,New York Senate,D
+4466,New York Senate,D
+4467,New York Senate,R
+4468,New York Senate,D
+4469,New York Senate,R
+4470,New York Senate,D
+4471,New York Senate,R
+4472,New York Senate,R
+4473,New York Senate,R
+4474,New York Senate,R
+4475,New York Senate,R
+4476,New York Senate,R
+4477,New York Senate,R
+4478,New York Senate,D
+4479,New York Senate,R
+4480,New York Senate,R
+4481,New York Senate,R
+4482,New York Senate,R
+4483,New York Senate,R
+4484,New York Senate,R
+4485,New York Senate,R
+4486,New York Senate,R
+4487,New York Senate,R
+4488,New York Senate,D
+4489,New York State Assembly,Ind.
+4490,New York State Assembly,R
+4491,New York State Assembly,R
+4492,New York State Assembly,D
+4493,New York State Assembly,R
+4494,New York State Assembly,D
+4495,New York State Assembly,R
+4496,New York State Assembly,R
+4497,New York State Assembly,R
+4498,New York State Assembly,D
+4499,New York State Assembly,D
+4500,New York State Assembly,D
+4501,New York State Assembly,R
+4502,New York State Assembly,R
+4503,New York State Assembly,D
+4504,New York State Assembly,R
+4505,New York State Assembly,D
+4506,New York State Assembly,R
+4507,New York State Assembly,R
+4508,New York State Assembly,D
+4509,New York State Assembly,D
+4510,New York State Assembly,D
+4511,New York State Assembly,D
+4512,New York State Assembly,D
+4513,New York State Assembly,D
+4514,New York State Assembly,D
+4515,New York State Assembly,D
+4516,New York State Assembly,D
+4517,New York State Assembly,D
+4518,New York State Assembly,D
+4519,New York State Assembly,D
+4520,New York State Assembly,D
+4521,New York State Assembly,D
+4522,New York State Assembly,D
+4523,New York State Assembly,D
+4524,New York State Assembly,D
+4525,New York State Assembly,D
+4526,New York State Assembly,D
+4527,New York State Assembly,D
+4528,New York State Assembly,D
+4529,New York State Assembly,D
+4530,New York State Assembly,D
+4531,New York State Assembly,D
+4532,New York State Assembly,D
+4533,New York State Assembly,D
+4534,New York State Assembly,D
+4535,New York State Assembly,D
+4536,New York State Assembly,D
+4537,New York State Assembly,D
+4538,New York State Assembly,D
+4539,New York State Assembly,D
+4540,New York State Assembly,D
+4541,New York State Assembly,D
+4542,New York State Assembly,D
+4543,New York State Assembly,D
+4544,New York State Assembly,D
+4545,New York State Assembly,D
+4546,New York State Assembly,D
+4547,New York State Assembly,D
+4548,New York State Assembly,R
+4549,New York State Assembly,D
+4550,New York State Assembly,R
+4551,New York State Assembly,D
+4552,New York State Assembly,D
+4553,New York State Assembly,D
+4554,New York State Assembly,D
+4555,New York State Assembly,D
+4556,New York State Assembly,D
+4557,New York State Assembly,D
+4558,New York State Assembly,D
+4559,New York State Assembly,D
+4560,New York State Assembly,D
+4561,New York State Assembly,D
+4562,New York State Assembly,D
+4563,New York State Assembly,D
+4564,New York State Assembly,D
+4565,New York State Assembly,D
+4566,New York State Assembly,D
+4567,New York State Assembly,D
+4568,New York State Assembly,D
+4569,New York State Assembly,D
+4570,New York State Assembly,D
+4571,New York State Assembly,D
+4572,New York State Assembly,D
+4573,New York State Assembly,D
+4574,New York State Assembly,D
+4575,New York State Assembly,D
+4576,New York State Assembly,D
+4577,New York State Assembly,D
+4578,New York State Assembly,D
+4579,New York State Assembly,D
+4580,New York State Assembly,R
+4581,New York State Assembly,D
+4582,New York State Assembly,D
+4583,New York State Assembly,D
+4584,New York State Assembly,R
+4585,New York State Assembly,R
+4586,New York State Assembly,D
+4587,New York State Assembly,R
+4588,New York State Assembly,R
+4589,New York State Assembly,D
+4590,New York State Assembly,D
+4591,New York State Assembly,R
+4592,New York State Assembly,D
+4593,New York State Assembly,R
+4594,New York State Assembly,D
+4595,New York State Assembly,D
+4596,New York State Assembly,D
+4597,New York State Assembly,D
+4598,New York State Assembly,R
+4599,New York State Assembly,D
+4600,New York State Assembly,R
+4601,New York State Assembly,D
+4602,New York State Assembly,R
+4603,New York State Assembly,R
+4604,New York State Assembly,R
+4605,New York State Assembly,D
+4606,New York State Assembly,R
+4607,New York State Assembly,R
+4608,New York State Assembly,R
+4609,New York State Assembly,D
+4610,New York State Assembly,R
+4611,New York State Assembly,D
+4612,New York State Assembly,R
+4613,New York State Assembly,D
+4614,New York State Assembly,D
+4615,New York State Assembly,D
+4616,New York State Assembly,R
+4617,New York State Assembly,R
+4618,New York State Assembly,R
+4619,New York State Assembly,R
+4620,New York State Assembly,R
+4621,New York State Assembly,R
+4622,New York State Assembly,D
+4623,New York State Assembly,R
+4624,New York State Assembly,D
+4625,New York State Assembly,D
+4626,New York State Assembly,D
+4627,New York State Assembly,D
+4628,New York State Assembly,R
+4629,New York State Assembly,R
+4630,New York State Assembly,D
+4631,New York State Assembly,R
+4632,New York State Assembly,R
+4633,New York State Assembly,D
+4634,New York State Assembly,R
+4635,North Carolina House,R
+4636,North Carolina House,D
+4637,North Carolina House,D
+4638,North Carolina House,D
+4639,North Carolina House,D
+4640,North Carolina House,R
+4641,North Carolina House,D
+4642,North Carolina House,R
+4643,North Carolina House,D
+4644,North Carolina House,R
+4645,North Carolina House,D
+4646,North Carolina House,D
+4647,North Carolina House,D
+4648,North Carolina House,R
+4649,North Carolina House,R
+4650,North Carolina House,R
+4651,North Carolina House,D
+4652,North Carolina House,R
+4653,North Carolina House,D
+4654,North Carolina House,R
+4655,North Carolina House,R
+4656,North Carolina House,D
+4657,North Carolina House,D
+4658,North Carolina House,R
+4659,North Carolina House,D
+4660,North Carolina House,D
+4661,North Carolina House,R
+4662,North Carolina House,R
+4663,North Carolina House,R
+4664,North Carolina House,D
+4665,North Carolina House,D
+4666,North Carolina House,R
+4667,North Carolina House,R
+4668,North Carolina House,R
+4669,North Carolina House,R
+4670,North Carolina House,D
+4671,North Carolina House,R
+4672,North Carolina House,D
+4673,North Carolina House,D
+4674,North Carolina House,D
+4675,North Carolina House,R
+4676,North Carolina House,D
+4677,North Carolina House,D
+4678,North Carolina House,D
+4679,North Carolina House,R
+4680,North Carolina House,D
+4681,North Carolina House,R
+4682,North Carolina House,R
+4683,North Carolina House,R
+4684,North Carolina House,R
+4685,North Carolina House,R
+4686,North Carolina House,D
+4687,North Carolina House,D
+4688,North Carolina House,R
+4689,North Carolina House,D
+4690,North Carolina House,D
+4691,North Carolina House,R
+4692,North Carolina House,R
+4693,North Carolina House,R
+4694,North Carolina House,D
+4695,North Carolina House,D
+4696,North Carolina House,R
+4697,North Carolina House,R
+4698,North Carolina House,D
+4699,North Carolina House,D
+4700,North Carolina House,R
+4701,North Carolina House,D
+4702,North Carolina House,R
+4703,North Carolina House,R
+4704,North Carolina House,R
+4705,North Carolina House,R
+4706,North Carolina House,R
+4707,North Carolina House,R
+4708,North Carolina House,D
+4709,North Carolina House,D
+4710,North Carolina House,D
+4711,North Carolina House,D
+4712,North Carolina House,D
+4713,North Carolina House,R
+4714,North Carolina House,R
+4715,North Carolina House,R
+4716,North Carolina House,R
+4717,North Carolina House,D
+4718,North Carolina House,D
+4719,North Carolina House,R
+4720,North Carolina House,D
+4721,North Carolina House,D
+4722,North Carolina House,R
+4723,North Carolina House,R
+4724,North Carolina House,R
+4725,North Carolina House,D
+4726,North Carolina House,D
+4727,North Carolina House,D
+4728,North Carolina House,D
+4729,North Carolina House,R
+4730,North Carolina House,R
+4731,North Carolina House,R
+4732,North Carolina House,D
+4733,North Carolina House,R
+4734,North Carolina House,R
+4735,North Carolina House,R
+4736,North Carolina House,R
+4737,North Carolina House,R
+4738,North Carolina House,R
+4739,North Carolina House,D
+4740,North Carolina House,D
+4741,North Carolina House,R
+4742,North Carolina House,R
+4743,North Carolina House,R
+4744,North Carolina House,R
+4745,North Carolina House,D
+4746,North Carolina House,R
+4747,North Carolina House,D
+4748,North Carolina House,D
+4749,North Carolina House,R
+4750,North Carolina House,R
+4751,North Carolina House,D
+4752,North Carolina House,D
+4753,North Carolina House,R
+4754,North Carolina House,R
+4755,North Carolina Senate,R
+4756,North Carolina Senate,R
+4757,North Carolina Senate,R
+4758,North Carolina Senate,R
+4759,North Carolina Senate,D
+4760,North Carolina Senate,R
+4761,North Carolina Senate,R
+4762,North Carolina Senate,R
+4763,North Carolina Senate,R
+4764,North Carolina Senate,D
+4765,North Carolina Senate,D
+4766,North Carolina Senate,R
+4767,North Carolina Senate,D
+4768,North Carolina Senate,R
+4769,North Carolina Senate,D
+4770,North Carolina Senate,R
+4771,North Carolina Senate,D
+4772,North Carolina Senate,R
+4773,North Carolina Senate,D
+4774,North Carolina Senate,R
+4775,North Carolina Senate,D
+4776,North Carolina Senate,R
+4777,North Carolina Senate,R
+4778,North Carolina Senate,R
+4779,North Carolina Senate,R
+4780,North Carolina Senate,D
+4781,North Carolina Senate,R
+4782,North Carolina Senate,R
+4783,North Carolina Senate,R
+4784,North Carolina Senate,D
+4785,North Carolina Senate,D
+4786,North Carolina Senate,R
+4787,North Carolina Senate,D
+4788,North Carolina Senate,D
+4789,North Carolina Senate,R
+4790,North Carolina Senate,D
+4791,North Carolina Senate,R
+4792,North Carolina Senate,D
+4793,North Carolina Senate,R
+4794,North Carolina Senate,D
+4795,North Carolina Senate,R
+4796,North Carolina Senate,R
+4797,North Carolina Senate,D
+4798,North Carolina Senate,D
+4799,North Carolina Senate,R
+4800,North Carolina Senate,D
+4801,North Carolina Senate,D
+4802,North Carolina Senate,R
+4803,North Carolina Senate,D
+4804,North Carolina Senate,R
+4805,North Dakota House,R
+4806,North Dakota House,R
+4807,North Dakota House,R
+4808,North Dakota House,R
+4809,North Dakota House,R
+4810,North Dakota House,R
+4811,North Dakota House,R
+4812,North Dakota House,R
+4813,North Dakota House,R
+4814,North Dakota House,R
+4815,North Dakota House,R
+4816,North Dakota House,R
+4817,North Dakota House,R
+4818,North Dakota House,R
+4819,North Dakota House,R
+4820,North Dakota House,R
+4821,North Dakota House,D
+4822,North Dakota House,D
+4823,North Dakota House,R
+4824,North Dakota House,R
+4825,North Dakota House,D
+4826,North Dakota House,D
+4827,North Dakota House,R
+4828,North Dakota House,R
+4829,North Dakota House,R
+4830,North Dakota House,R
+4831,North Dakota House,R
+4832,North Dakota House,R
+4833,North Dakota House,R
+4834,North Dakota House,R
+4835,North Dakota House,R
+4836,North Dakota House,R
+4837,North Dakota House,R
+4838,North Dakota House,R
+4839,North Dakota House,D
+4840,North Dakota House,R
+4841,North Dakota House,R
+4842,North Dakota House,R
+4843,North Dakota House,D
+4844,North Dakota House,R
+4845,North Dakota House,D
+4846,North Dakota House,D
+4847,North Dakota House,R
+4848,North Dakota House,R
+4849,North Dakota House,R
+4850,North Dakota House,R
+4851,North Dakota House,R
+4852,North Dakota House,R
+4853,North Dakota House,D
+4854,North Dakota House,R
+4855,North Dakota House,R
+4856,North Dakota House,R
+4857,North Dakota House,R
+4858,North Dakota House,D
+4859,North Dakota House,R
+4860,North Dakota House,R
+4861,North Dakota House,R
+4862,North Dakota House,R
+4863,North Dakota House,R
+4864,North Dakota House,R
+4865,North Dakota House,R
+4866,North Dakota House,R
+4867,North Dakota House,R
+4868,North Dakota House,R
+4869,North Dakota House,R
+4870,North Dakota House,R
+4871,North Dakota House,R
+4872,North Dakota House,R
+4873,North Dakota House,R
+4874,North Dakota House,R
+4875,North Dakota House,R
+4876,North Dakota House,R
+4877,North Dakota House,R
+4878,North Dakota House,R
+4879,North Dakota House,R
+4880,North Dakota House,R
+4881,North Dakota House,R
+4882,North Dakota House,R
+4883,North Dakota House,R
+4884,North Dakota House,R
+4885,North Dakota House,D
+4886,North Dakota House,R
+4887,North Dakota House,R
+4888,North Dakota House,R
+4889,North Dakota House,D
+4890,North Dakota House,D
+4891,North Dakota House,D
+4892,North Dakota House,D
+4893,North Dakota House,R
+4894,North Dakota House,R
+4895,North Dakota House,R
+4896,North Dakota House,R
+4897,North Dakota House,R
+4898,North Dakota House,R
+4899,North Dakota Senate,R
+4900,North Dakota Senate,R
+4901,North Dakota Senate,R
+4902,North Dakota Senate,R
+4903,North Dakota Senate,R
+4904,North Dakota Senate,R
+4905,North Dakota Senate,R
+4906,North Dakota Senate,R
+4907,North Dakota Senate,D
+4908,North Dakota Senate,R
+4909,North Dakota Senate,D
+4910,North Dakota Senate,D
+4911,North Dakota Senate,R
+4912,North Dakota Senate,R
+4913,North Dakota Senate,R
+4914,North Dakota Senate,R
+4915,North Dakota Senate,R
+4916,North Dakota Senate,R
+4917,North Dakota Senate,R
+4918,North Dakota Senate,R
+4919,North Dakota Senate,D
+4920,North Dakota Senate,R
+4921,North Dakota Senate,D
+4922,North Dakota Senate,D
+4923,North Dakota Senate,R
+4924,North Dakota Senate,D
+4925,North Dakota Senate,R
+4926,North Dakota Senate,R
+4927,North Dakota Senate,R
+4928,North Dakota Senate,R
+4929,North Dakota Senate,R
+4930,North Dakota Senate,R
+4931,North Dakota Senate,R
+4932,North Dakota Senate,R
+4933,North Dakota Senate,D
+4934,North Dakota Senate,R
+4935,North Dakota Senate,R
+4936,North Dakota Senate,R
+4937,North Dakota Senate,R
+4938,North Dakota Senate,R
+4939,North Dakota Senate,R
+4940,North Dakota Senate,R
+4941,North Dakota Senate,D
+4942,North Dakota Senate,D
+4943,North Dakota Senate,R
+4944,North Dakota Senate,R
+4945,North Dakota Senate,R
+4946,Ohio House,R
+4947,Ohio House,R
+4948,Ohio House,R
+4949,Ohio House,R
+4950,Ohio House,R
+4951,Ohio House,D
+4952,Ohio House,R
+4953,Ohio House,D
+4954,Ohio House,D
+4955,Ohio House,D
+4956,Ohio House,D
+4957,Ohio House,D
+4958,Ohio House,D
+4959,Ohio House,D
+4960,Ohio House,D
+4961,Ohio House,R
+4962,Ohio House,D
+4963,Ohio House,D
+4964,Ohio House,D
+4965,Ohio House,D
+4966,Ohio House,D
+4967,Ohio House,D
+4968,Ohio House,R
+4969,Ohio House,D
+4970,Ohio House,D
+4971,Ohio House,D
+4972,Ohio House,R
+4973,Ohio House,D
+4974,Ohio House,R
+4975,Ohio House,R
+4976,Ohio House,D
+4977,Ohio House,D
+4978,Ohio House,D
+4979,Ohio House,D
+4980,Ohio House,D
+4981,Ohio House,R
+4982,Ohio House,D
+4983,Ohio House,R
+4984,Ohio House,D
+4985,Ohio House,R
+4986,Ohio House,R
+4987,Ohio House,R
+4988,Ohio House,R
+4989,Ohio House,D
+4990,Ohio House,D
+4991,Ohio House,D
+4992,Ohio House,R
+4993,Ohio House,R
+4994,Ohio House,D
+4995,Ohio House,R
+4996,Ohio House,R
+4997,Ohio House,R
+4998,Ohio House,R
+4999,Ohio House,R
+5000,Ohio House,R
+5001,Ohio House,D
+5002,Ohio House,R
+5003,Ohio House,D
+5004,Ohio House,R
+5005,Ohio House,D
+5006,Ohio House,R
+5007,Ohio House,R
+5008,Ohio House,D
+5009,Ohio House,D
+5010,Ohio House,R
+5011,Ohio House,R
+5012,Ohio House,R
+5013,Ohio House,R
+5014,Ohio House,R
+5015,Ohio House,R
+5016,Ohio House,R
+5017,Ohio House,R
+5018,Ohio House,R
+5019,Ohio House,R
+5020,Ohio House,D
+5021,Ohio House,R
+5022,Ohio House,R
+5023,Ohio House,R
+5024,Ohio House,R
+5025,Ohio House,R
+5026,Ohio House,R
+5027,Ohio House,R
+5028,Ohio House,R
+5029,Ohio House,R
+5030,Ohio House,R
+5031,Ohio House,R
+5032,Ohio House,R
+5033,Ohio House,R
+5034,Ohio House,R
+5035,Ohio House,R
+5036,Ohio House,R
+5037,Ohio House,R
+5038,Ohio House,R
+5039,Ohio House,R
+5040,Ohio House,R
+5041,Ohio House,D
+5042,Ohio House,R
+5043,Ohio House,R
+5044,Ohio House,D
+5045,Ohio Senate,R
+5046,Ohio Senate,R
+5047,Ohio Senate,D
+5048,Ohio Senate,R
+5049,Ohio Senate,R
+5050,Ohio Senate,R
+5051,Ohio Senate,R
+5052,Ohio Senate,R
+5053,Ohio Senate,D
+5054,Ohio Senate,R
+5055,Ohio Senate,D
+5056,Ohio Senate,R
+5057,Ohio Senate,R
+5058,Ohio Senate,R
+5059,Ohio Senate,D
+5060,Ohio Senate,R
+5061,Ohio Senate,R
+5062,Ohio Senate,R
+5063,Ohio Senate,R
+5064,Ohio Senate,R
+5065,Ohio Senate,D
+5066,Ohio Senate,R
+5067,Ohio Senate,D
+5068,Ohio Senate,R
+5069,Ohio Senate,D
+5070,Ohio Senate,R
+5071,Ohio Senate,R
+5072,Ohio Senate,D
+5073,Ohio Senate,R
+5074,Ohio Senate,R
+5075,Ohio Senate,R
+5076,Ohio Senate,D
+5077,Ohio Senate,R
+5078,Oklahoma House,D
+5079,Oklahoma House,R
+5080,Oklahoma House,D
+5081,Oklahoma House,D
+5082,Oklahoma House,D
+5083,Oklahoma House,R
+5084,Oklahoma House,R
+5085,Oklahoma House,D
+5086,Oklahoma House,D
+5087,Oklahoma House,R
+5088,Oklahoma House,R
+5089,Oklahoma House,R
+5090,Oklahoma House,R
+5091,Oklahoma House,R
+5092,Oklahoma House,R
+5093,Oklahoma House,R
+5094,Oklahoma House,R
+5095,Oklahoma House,R
+5096,Oklahoma House,D
+5097,Oklahoma House,D
+5098,Oklahoma House,R
+5099,Oklahoma House,R
+5100,Oklahoma House,R
+5101,Oklahoma House,R
+5102,Oklahoma House,R
+5103,Oklahoma House,D
+5104,Oklahoma House,R
+5105,Oklahoma House,D
+5106,Oklahoma House,R
+5107,Oklahoma House,R
+5108,Oklahoma House,R
+5109,Oklahoma House,R
+5110,Oklahoma House,R
+5111,Oklahoma House,R
+5112,Oklahoma House,R
+5113,Oklahoma House,R
+5114,Oklahoma House,R
+5115,Oklahoma House,R
+5116,Oklahoma House,R
+5117,Oklahoma House,R
+5118,Oklahoma House,R
+5119,Oklahoma House,D
+5120,Oklahoma House,D
+5121,Oklahoma House,R
+5122,Oklahoma House,R
+5123,Oklahoma House,R
+5124,Oklahoma House,R
+5125,Oklahoma House,R
+5126,Oklahoma House,R
+5127,Oklahoma House,R
+5128,Oklahoma House,R
+5129,Oklahoma House,R
+5130,Oklahoma House,D
+5131,Oklahoma House,R
+5132,Oklahoma House,R
+5133,Oklahoma House,R
+5134,Oklahoma House,D
+5135,Oklahoma House,R
+5136,Oklahoma House,D
+5137,Oklahoma House,R
+5138,Oklahoma House,R
+5139,Oklahoma House,R
+5140,Oklahoma House,R
+5141,Oklahoma House,R
+5142,Oklahoma House,R
+5143,Oklahoma House,R
+5144,Oklahoma House,D
+5145,Oklahoma House,R
+5146,Oklahoma House,R
+5147,Oklahoma House,D
+5148,Oklahoma House,D
+5149,Oklahoma House,R
+5150,Oklahoma House,D
+5151,Oklahoma House,R
+5152,Oklahoma House,R
+5153,Oklahoma House,R
+5154,Oklahoma House,D
+5155,Oklahoma House,R
+5156,Oklahoma House,R
+5157,Oklahoma House,R
+5158,Oklahoma House,R
+5159,Oklahoma House,R
+5160,Oklahoma House,R
+5161,Oklahoma House,R
+5162,Oklahoma House,R
+5163,Oklahoma House,R
+5164,Oklahoma House,R
+5165,Oklahoma House,R
+5166,Oklahoma House,R
+5167,Oklahoma House,R
+5168,Oklahoma House,R
+5169,Oklahoma House,D
+5170,Oklahoma House,D
+5171,Oklahoma House,D
+5172,Oklahoma House,R
+5173,Oklahoma House,R
+5174,Oklahoma House,R
+5175,Oklahoma House,R
+5176,Oklahoma House,R
+5177,Oklahoma House,R
+5178,Oklahoma Senate,R
+5179,Oklahoma Senate,R
+5180,Oklahoma Senate,R
+5181,Oklahoma Senate,R
+5182,Oklahoma Senate,D
+5183,Oklahoma Senate,D
+5184,Oklahoma Senate,R
+5185,Oklahoma Senate,R
+5186,Oklahoma Senate,R
+5187,Oklahoma Senate,R
+5188,Oklahoma Senate,R
+5189,Oklahoma Senate,D
+5190,Oklahoma Senate,R
+5191,Oklahoma Senate,D
+5192,Oklahoma Senate,R
+5193,Oklahoma Senate,R
+5194,Oklahoma Senate,D
+5195,Oklahoma Senate,R
+5196,Oklahoma Senate,D
+5197,Oklahoma Senate,R
+5198,Oklahoma Senate,R
+5199,Oklahoma Senate,D
+5200,Oklahoma Senate,R
+5201,Oklahoma Senate,D
+5202,Oklahoma Senate,R
+5203,Oklahoma Senate,R
+5204,Oklahoma Senate,R
+5205,Oklahoma Senate,R
+5206,Oklahoma Senate,R
+5207,Oklahoma Senate,R
+5208,Oklahoma Senate,R
+5209,Oklahoma Senate,R
+5210,Oklahoma Senate,R
+5211,Oklahoma Senate,R
+5212,Oklahoma Senate,R
+5213,Oklahoma Senate,R
+5214,Oklahoma Senate,R
+5215,Oklahoma Senate,R
+5216,Oklahoma Senate,R
+5217,Oklahoma Senate,R
+5218,Oklahoma Senate,R
+5219,Oklahoma Senate,R
+5220,Oklahoma Senate,R
+5221,Oklahoma Senate,R
+5222,Oklahoma Senate,R
+5223,Oklahoma Senate,R
+5224,Oklahoma Senate,D
+5225,Oregon House,R
+5226,Oregon House,R
+5227,Oregon House,R
+5228,Oregon House,R
+5229,Oregon House,D
+5230,Oregon House,R
+5231,Oregon House,R
+5232,Oregon House,D
+5233,Oregon House,D
+5234,Oregon House,D
+5235,Oregon House,D
+5236,Oregon House,D
+5237,Oregon House,D
+5238,Oregon House,D
+5239,Oregon House,R
+5240,Oregon House,D
+5241,Oregon House,R
+5242,Oregon House,R
+5243,Oregon House,R
+5244,Oregon House,D
+5245,Oregon House,D
+5246,Oregon House,D
+5247,Oregon House,R
+5248,Oregon House,R
+5249,Oregon House,R
+5250,Oregon House,D
+5251,Oregon House,D
+5252,Oregon House,D
+5253,Oregon House,D
+5254,Oregon House,D
+5255,Oregon House,D
+5256,Oregon House,D
+5257,Oregon House,D
+5258,Oregon House,D
+5259,Oregon House,D
+5260,Oregon House,D
+5261,Oregon House,D
+5262,Oregon House,D
+5263,Oregon House,R
+5264,Oregon House,D
+5265,Oregon House,D
+5266,Oregon House,D
+5267,Oregon House,D
+5268,Oregon House,D
+5269,Oregon House,D
+5270,Oregon House,D
+5271,Oregon House,D
+5272,Oregon House,D
+5273,Oregon House,D
+5274,Oregon House,D
+5275,Oregon House,D
+5276,Oregon House,D
+5277,Oregon House,R
+5278,Oregon House,R
+5279,Oregon House,R
+5280,Oregon House,R
+5281,Oregon House,R
+5282,Oregon House,R
+5283,Oregon House,R
+5284,Oregon House,R
+5285,Oregon Senate,R
+5286,Oregon Senate,R
+5287,Oregon Senate,D
+5288,Oregon Senate,D
+5289,Oregon Senate,D
+5290,Oregon Senate,D
+5291,Oregon Senate,D
+5292,Oregon Senate,D
+5293,Oregon Senate,R
+5294,Oregon Senate,R
+5295,Oregon Senate,D
+5296,Oregon Senate,R
+5297,Oregon Senate,R
+5298,Oregon Senate,D
+5299,Oregon Senate,D
+5300,Oregon Senate,D
+5301,Oregon Senate,D
+5302,Oregon Senate,D
+5303,Oregon Senate,D
+5304,Oregon Senate,R
+5305,Oregon Senate,D
+5306,Oregon Senate,D
+5307,Oregon Senate,D
+5308,Oregon Senate,D
+5309,Oregon Senate,D
+5310,Oregon Senate,R
+5311,Oregon Senate,R
+5312,Oregon Senate,R
+5313,Oregon Senate,R
+5314,Oregon Senate,R
+5315,Pennsylvania House,D
+5316,Pennsylvania House,D
+5317,Pennsylvania House,D
+5318,Pennsylvania House,R
+5319,Pennsylvania House,R
+5320,Pennsylvania House,R
+5321,Pennsylvania House,D
+5322,Pennsylvania House,R
+5323,Pennsylvania House,D
+5324,Pennsylvania House,R
+5325,Pennsylvania House,R
+5326,Pennsylvania House,R
+5327,Pennsylvania House,R
+5328,Pennsylvania House,R
+5329,Pennsylvania House,R
+5330,Pennsylvania House,D
+5331,Pennsylvania House,R
+5332,Pennsylvania House,R
+5333,Pennsylvania House,D
+5334,Pennsylvania House,D
+5335,Pennsylvania House,D
+5336,Pennsylvania House,D
+5337,Pennsylvania House,D
+5338,Pennsylvania House,D
+5339,Pennsylvania House,D
+5340,Pennsylvania House,R
+5341,Pennsylvania House,D
+5342,Pennsylvania House,R
+5343,Pennsylvania House,R
+5344,Pennsylvania House,D
+5345,Pennsylvania House,D
+5346,Pennsylvania House,D
+5347,Pennsylvania House,D
+5348,Pennsylvania House,D
+5349,Pennsylvania House,D
+5350,Pennsylvania House,R
+5351,Pennsylvania House,D
+5352,Pennsylvania House,R
+5353,Pennsylvania House,R
+5354,Pennsylvania House,R
+5355,Pennsylvania House,D
+5356,Pennsylvania House,R
+5357,Pennsylvania House,R
+5358,Pennsylvania House,D
+5359,Pennsylvania House,R
+5360,Pennsylvania House,R
+5361,Pennsylvania House,R
+5362,Pennsylvania House,R
+5363,Pennsylvania House,D
+5364,Pennsylvania House,R
+5365,Pennsylvania House,R
+5366,Pennsylvania House,D
+5367,Pennsylvania House,R
+5368,Pennsylvania House,D
+5369,Pennsylvania House,R
+5370,Pennsylvania House,R
+5371,Pennsylvania House,R
+5372,Pennsylvania House,R
+5373,Pennsylvania House,R
+5374,Pennsylvania House,D
+5375,Pennsylvania House,R
+5376,Pennsylvania House,R
+5377,Pennsylvania House,R
+5378,Pennsylvania House,R
+5379,Pennsylvania House,R
+5380,Pennsylvania House,R
+5381,Pennsylvania House,R
+5382,Pennsylvania House,R
+5383,Pennsylvania House,D
+5384,Pennsylvania House,R
+5385,Pennsylvania House,D
+5386,Pennsylvania House,R
+5387,Pennsylvania House,D
+5388,Pennsylvania House,R
+5389,Pennsylvania House,R
+5390,Pennsylvania House,D
+5391,Pennsylvania House,R
+5392,Pennsylvania House,R
+5393,Pennsylvania House,R
+5394,Pennsylvania House,R
+5395,Pennsylvania House,R
+5396,Pennsylvania House,R
+5397,Pennsylvania House,R
+5398,Pennsylvania House,R
+5399,Pennsylvania House,R
+5400,Pennsylvania House,R
+5401,Pennsylvania House,R
+5402,Pennsylvania House,R
+5403,Pennsylvania House,R
+5404,Pennsylvania House,R
+5405,Pennsylvania House,R
+5406,Pennsylvania House,R
+5407,Pennsylvania House,R
+5408,Pennsylvania House,D
+5409,Pennsylvania House,D
+5410,Pennsylvania House,R
+5411,Pennsylvania House,R
+5412,Pennsylvania House,R
+5413,Pennsylvania House,R
+5414,Pennsylvania House,R
+5415,Pennsylvania House,R
+5416,Pennsylvania House,D
+5417,Pennsylvania House,R
+5418,Pennsylvania House,R
+5419,Pennsylvania House,R
+5420,Pennsylvania House,R
+5421,Pennsylvania House,R
+5422,Pennsylvania House,R
+5423,Pennsylvania House,R
+5424,Pennsylvania House,R
+5425,Pennsylvania House,D
+5426,Pennsylvania House,D
+5427,Pennsylvania House,D
+5428,Pennsylvania House,D
+5429,Pennsylvania House,R
+5430,Pennsylvania House,R
+5431,Pennsylvania House,D
+5432,Pennsylvania House,D
+5433,Pennsylvania House,R
+5434,Pennsylvania House,D
+5435,Pennsylvania House,R
+5436,Pennsylvania House,D
+5437,Pennsylvania House,R
+5438,Pennsylvania House,R
+5439,Pennsylvania House,D
+5440,Pennsylvania House,D
+5441,Pennsylvania House,R
+5442,Pennsylvania House,R
+5443,Pennsylvania House,R
+5444,Pennsylvania House,R
+5445,Pennsylvania House,D
+5446,Pennsylvania House,D
+5447,Pennsylvania House,R
+5448,Pennsylvania House,D
+5449,Pennsylvania House,D
+5450,Pennsylvania House,R
+5451,Pennsylvania House,R
+5452,Pennsylvania House,R
+5453,Pennsylvania House,D
+5454,Pennsylvania House,D
+5455,Pennsylvania House,R
+5456,Pennsylvania House,D
+5457,Pennsylvania House,R
+5458,Pennsylvania House,R
+5459,Pennsylvania House,D
+5460,Pennsylvania House,R
+5461,Pennsylvania House,D
+5462,Pennsylvania House,D
+5463,Pennsylvania House,D
+5464,Pennsylvania House,R
+5465,Pennsylvania House,R
+5466,Pennsylvania House,D
+5467,Pennsylvania House,D
+5468,Pennsylvania House,D
+5469,Pennsylvania House,D
+5470,Pennsylvania House,D
+5471,Pennsylvania House,D
+5472,Pennsylvania House,D
+5473,Pennsylvania House,R
+5474,Pennsylvania House,D
+5475,Pennsylvania House,D
+5476,Pennsylvania House,D
+5477,Pennsylvania House,D
+5478,Pennsylvania House,D
+5479,Pennsylvania House,D
+5480,Pennsylvania House,D
+5481,Pennsylvania House,R
+5482,Pennsylvania House,R
+5483,Pennsylvania House,R
+5484,Pennsylvania House,R
+5485,Pennsylvania House,D
+5486,Pennsylvania House,D
+5487,Pennsylvania House,D
+5488,Pennsylvania House,D
+5489,Pennsylvania House,R
+5490,Pennsylvania House,D
+5491,Pennsylvania House,R
+5492,Pennsylvania House,D
+5493,Pennsylvania House,D
+5494,Pennsylvania House,D
+5495,Pennsylvania House,D
+5496,Pennsylvania House,R
+5497,Pennsylvania House,D
+5498,Pennsylvania House,D
+5499,Pennsylvania House,D
+5500,Pennsylvania House,R
+5501,Pennsylvania House,D
+5502,Pennsylvania House,R
+5503,Pennsylvania House,D
+5504,Pennsylvania House,D
+5505,Pennsylvania House,D
+5506,Pennsylvania House,R
+5507,Pennsylvania House,D
+5508,Pennsylvania House,D
+5509,Pennsylvania House,R
+5510,Pennsylvania House,D
+5511,Pennsylvania House,D
+5512,Pennsylvania House,R
+5513,Pennsylvania House,D
+5514,Pennsylvania House,D
+5515,Pennsylvania House,D
+5516,Pennsylvania House,D
+5517,Pennsylvania Senate,D
+5518,Pennsylvania Senate,D
+5519,Pennsylvania Senate,D
+5520,Pennsylvania Senate,D
+5521,Pennsylvania Senate,D
+5522,Pennsylvania Senate,R
+5523,Pennsylvania Senate,D
+5524,Pennsylvania Senate,D
+5525,Pennsylvania Senate,R
+5526,Pennsylvania Senate,D
+5527,Pennsylvania Senate,D
+5528,Pennsylvania Senate,D
+5529,Pennsylvania Senate,R
+5530,Pennsylvania Senate,I
+5531,Pennsylvania Senate,R
+5532,Pennsylvania Senate,R
+5533,Pennsylvania Senate,D
+5534,Pennsylvania Senate,D
+5535,Pennsylvania Senate,D
+5536,Pennsylvania Senate,R
+5537,Pennsylvania Senate,R
+5538,Pennsylvania Senate,D
+5539,Pennsylvania Senate,R
+5540,Pennsylvania Senate,R
+5541,Pennsylvania Senate,R
+5542,Pennsylvania Senate,D
+5543,Pennsylvania Senate,R
+5544,Pennsylvania Senate,R
+5545,Pennsylvania Senate,R
+5546,Pennsylvania Senate,R
+5547,Pennsylvania Senate,R
+5548,Pennsylvania Senate,R
+5549,Pennsylvania Senate,R
+5550,Pennsylvania Senate,R
+5551,Pennsylvania Senate,R
+5552,Pennsylvania Senate,R
+5553,Pennsylvania Senate,D
+5554,Pennsylvania Senate,D
+5555,Pennsylvania Senate,R
+5556,Pennsylvania Senate,R
+5557,Pennsylvania Senate,R
+5558,Pennsylvania Senate,D
+5559,Pennsylvania Senate,D
+5560,Pennsylvania Senate,D
+5561,Pennsylvania Senate,D
+5562,Pennsylvania Senate,R
+5563,Pennsylvania Senate,R
+5564,Pennsylvania Senate,R
+5565,Pennsylvania Senate,R
+5566,Pennsylvania Senate,R
+5567,Rhode Island House,D
+5568,Rhode Island House,D
+5569,Rhode Island House,D
+5570,Rhode Island House,D
+5571,Rhode Island House,D
+5572,Rhode Island House,D
+5573,Rhode Island House,D
+5574,Rhode Island House,D
+5575,Rhode Island House,D
+5576,Rhode Island House,D
+5577,Rhode Island House,D
+5578,Rhode Island House,D
+5579,Rhode Island House,D
+5580,Rhode Island House,D
+5581,Rhode Island House,D
+5582,Rhode Island House,D
+5583,Rhode Island House,D
+5584,Rhode Island House,D
+5585,Rhode Island House,D
+5586,Rhode Island House,D
+5587,Rhode Island House,D
+5588,Rhode Island House,D
+5589,Rhode Island House,D
+5590,Rhode Island House,D
+5591,Rhode Island House,D
+5592,Rhode Island House,D
+5593,Rhode Island House,D
+5594,Rhode Island House,D
+5595,Rhode Island House,D
+5596,Rhode Island House,D
+5597,Rhode Island House,D
+5598,Rhode Island House,D
+5599,Rhode Island House,D
+5600,Rhode Island House,D
+5601,Rhode Island House,D
+5602,Rhode Island House,D
+5603,Rhode Island House,D
+5604,Rhode Island House,D
+5605,Rhode Island House,D
+5606,Rhode Island House,D
+5607,Rhode Island House,D
+5608,Rhode Island House,D
+5609,Rhode Island House,D
+5610,Rhode Island House,D
+5611,Rhode Island House,D
+5612,Rhode Island House,D
+5613,Rhode Island House,D
+5614,Rhode Island House,D
+5615,Rhode Island House,D
+5616,Rhode Island House,D
+5617,Rhode Island House,D
+5618,Rhode Island House,D
+5619,Rhode Island House,D
+5620,Rhode Island House,D
+5621,Rhode Island House,D
+5622,Rhode Island House,D
+5623,Rhode Island House,D
+5624,Rhode Island House,D
+5625,Rhode Island House,D
+5626,Rhode Island House,D
+5627,Rhode Island House,D
+5628,Rhode Island House,D
+5629,Rhode Island House,D
+5630,Rhode Island House,D
+5631,Rhode Island House,D
+5632,Rhode Island House,D
+5633,Rhode Island House,D
+5634,Rhode Island House,D
+5635,Rhode Island House,D
+5636,Rhode Island House,D
+5637,Rhode Island House,D
+5638,Rhode Island House,D
+5639,Rhode Island House,D
+5640,Rhode Island House,D
+5641,Rhode Island House,D
+5642,Rhode Island Senate,D
+5643,Rhode Island Senate,D
+5644,Rhode Island Senate,D
+5645,Rhode Island Senate,D
+5646,Rhode Island Senate,D
+5647,Rhode Island Senate,D
+5648,Rhode Island Senate,D
+5649,Rhode Island Senate,D
+5650,Rhode Island Senate,D
+5651,Rhode Island Senate,D
+5652,Rhode Island Senate,D
+5653,Rhode Island Senate,D
+5654,Rhode Island Senate,D
+5655,Rhode Island Senate,D
+5656,Rhode Island Senate,D
+5657,Rhode Island Senate,D
+5658,Rhode Island Senate,R
+5659,Rhode Island Senate,D
+5660,Rhode Island Senate,D
+5661,Rhode Island Senate,D
+5662,Rhode Island Senate,R
+5663,Rhode Island Senate,D
+5664,Rhode Island Senate,R
+5665,Rhode Island Senate,D
+5666,Rhode Island Senate,D
+5667,Rhode Island Senate,D
+5668,Rhode Island Senate,D
+5669,Rhode Island Senate,D
+5670,Rhode Island Senate,D
+5671,Rhode Island Senate,D
+5672,Rhode Island Senate,D
+5673,Rhode Island Senate,D
+5674,Rhode Island Senate,D
+5675,Rhode Island Senate,R
+5676,Rhode Island Senate,D
+5677,Rhode Island Senate,D
+5678,Rhode Island Senate,D
+5679,Rhode Island Senate,R
+5680,South Carolina House,R
+5681,South Carolina House,R
+5682,South Carolina House,R
+5683,South Carolina House,R
+5684,South Carolina House,R
+5685,South Carolina House,R
+5686,South Carolina House,R
+5687,South Carolina House,R
+5688,South Carolina House,R
+5689,South Carolina House,R
+5690,South Carolina House,R
+5691,South Carolina House,D
+5692,South Carolina House,R
+5693,South Carolina House,R
+5694,South Carolina House,D
+5695,South Carolina House,R
+5696,South Carolina House,R
+5697,South Carolina House,R
+5698,South Carolina House,R
+5699,South Carolina House,R
+5700,South Carolina House,R
+5701,South Carolina House,R
+5702,South Carolina House,D
+5703,South Carolina House,R
+5704,South Carolina House,D
+5705,South Carolina House,R
+5706,South Carolina House,R
+5707,South Carolina House,R
+5708,South Carolina House,R
+5709,South Carolina House,R
+5710,South Carolina House,D
+5711,South Carolina House,R
+5712,South Carolina House,R
+5713,South Carolina House,R
+5714,South Carolina House,R
+5715,South Carolina House,R
+5716,South Carolina House,R
+5717,South Carolina House,R
+5718,South Carolina House,R
+5719,South Carolina House,R
+5720,South Carolina House,D
+5721,South Carolina House,R
+5722,South Carolina House,R
+5723,South Carolina House,D
+5724,South Carolina House,R
+5725,South Carolina House,R
+5726,South Carolina House,R
+5727,South Carolina House,R
+5728,South Carolina House,D
+5729,South Carolina House,D
+5730,South Carolina House,D
+5731,South Carolina House,D
+5732,South Carolina House,R
+5733,South Carolina House,D
+5734,South Carolina House,D
+5735,South Carolina House,R
+5736,South Carolina House,D
+5737,South Carolina House,R
+5738,South Carolina House,D
+5739,South Carolina House,R
+5740,South Carolina House,D
+5741,South Carolina House,D
+5742,South Carolina House,R
+5743,South Carolina House,D
+5744,South Carolina House,R
+5745,South Carolina House,D
+5746,South Carolina House,R
+5747,South Carolina House,R
+5748,South Carolina House,R
+5749,South Carolina House,D
+5750,South Carolina House,R
+5751,South Carolina House,D
+5752,South Carolina House,D
+5753,South Carolina House,D
+5754,South Carolina House,R
+5755,South Carolina House,D
+5756,South Carolina House,D
+5757,South Carolina House,D
+5758,South Carolina House,D
+5759,South Carolina House,D
+5760,South Carolina House,R
+5761,South Carolina House,D
+5762,South Carolina House,R
+5763,South Carolina House,R
+5764,South Carolina House,R
+5765,South Carolina House,R
+5766,South Carolina House,R
+5767,South Carolina House,R
+5768,South Carolina House,R
+5769,South Carolina House,D
+5770,South Carolina House,D
+5771,South Carolina House,R
+5772,South Carolina House,D
+5773,South Carolina House,R
+5774,South Carolina House,D
+5775,South Carolina House,R
+5776,South Carolina House,R
+5777,South Carolina House,R
+5778,South Carolina House,R
+5779,South Carolina House,R
+5780,South Carolina House,D
+5781,South Carolina House,D
+5782,South Carolina House,D
+5783,South Carolina House,R
+5784,South Carolina House,R
+5785,South Carolina House,R
+5786,South Carolina House,R
+5787,South Carolina House,R
+5788,South Carolina House,D
+5789,South Carolina House,R
+5790,South Carolina House,D
+5791,South Carolina House,R
+5792,South Carolina House,D
+5793,South Carolina House,R
+5794,South Carolina House,D
+5795,South Carolina House,D
+5796,South Carolina House,R
+5797,South Carolina House,D
+5798,South Carolina House,R
+5799,South Carolina House,D
+5800,South Carolina House,D
+5801,South Carolina House,R
+5802,South Carolina House,R
+5803,South Carolina Senate,R
+5804,South Carolina Senate,R
+5805,South Carolina Senate,R
+5806,South Carolina Senate,R
+5807,South Carolina Senate,R
+5808,South Carolina Senate,R
+5809,South Carolina Senate,D
+5810,South Carolina Senate,R
+5811,South Carolina Senate,R
+5812,South Carolina Senate,D
+5813,South Carolina Senate,D
+5814,South Carolina Senate,R
+5815,South Carolina Senate,R
+5816,South Carolina Senate,R
+5817,South Carolina Senate,R
+5818,South Carolina Senate,R
+5819,South Carolina Senate,D
+5820,South Carolina Senate,R
+5821,South Carolina Senate,D
+5822,South Carolina Senate,D
+5823,South Carolina Senate,D
+5824,South Carolina Senate,D
+5825,South Carolina Senate,R
+5826,South Carolina Senate,R
+5827,South Carolina Senate,R
+5828,South Carolina Senate,D
+5829,South Carolina Senate,D
+5830,South Carolina Senate,R
+5831,South Carolina Senate,D
+5832,South Carolina Senate,D
+5833,South Carolina Senate,R
+5834,South Carolina Senate,D
+5835,South Carolina Senate,R
+5836,South Carolina Senate,R
+5837,South Carolina Senate,D
+5838,South Carolina Senate,D
+5839,South Carolina Senate,R
+5840,South Carolina Senate,R
+5841,South Carolina Senate,D
+5842,South Carolina Senate,D
+5843,South Carolina Senate,R
+5844,South Carolina Senate,D
+5845,South Carolina Senate,R
+5846,South Carolina Senate,R
+5847,South Carolina Senate,D
+5848,South Carolina Senate,R
+5849,South Dakota House,D
+5850,South Dakota House,R
+5851,South Dakota House,R
+5852,South Dakota House,R
+5853,South Dakota House,R
+5854,South Dakota House,R
+5855,South Dakota House,R
+5856,South Dakota House,R
+5857,South Dakota House,R
+5858,South Dakota House,R
+5859,South Dakota House,R
+5860,South Dakota House,R
+5861,South Dakota House,R
+5862,South Dakota House,R
+5863,South Dakota House,R
+5864,South Dakota House,R
+5865,South Dakota House,D
+5866,South Dakota House,R
+5867,South Dakota House,R
+5868,South Dakota House,R
+5869,South Dakota House,R
+5870,South Dakota House,R
+5871,South Dakota House,R
+5872,South Dakota House,R
+5873,South Dakota House,D
+5874,South Dakota House,R
+5875,South Dakota House,D
+5876,South Dakota House,R
+5877,South Dakota House,D
+5878,South Dakota House,D
+5879,South Dakota House,R
+5880,South Dakota House,R
+5881,South Dakota House,R
+5882,South Dakota House,D
+5883,South Dakota House,R
+5884,South Dakota House,D
+5885,South Dakota House,R
+5886,South Dakota House,R
+5887,South Dakota House,R
+5888,South Dakota House,R
+5889,South Dakota House,R
+5890,South Dakota House,R
+5891,South Dakota House,R
+5892,South Dakota House,R
+5893,South Dakota House,R
+5894,South Dakota House,R
+5895,South Dakota House,R
+5896,South Dakota House,R
+5897,South Dakota House,R
+5898,South Dakota House,R
+5899,South Dakota House,D
+5900,South Dakota House,R
+5901,South Dakota House,D
+5902,South Dakota House,R
+5903,South Dakota House,D
+5904,South Dakota House,R
+5905,South Dakota House,R
+5906,South Dakota House,R
+5907,South Dakota House,R
+5908,South Dakota House,R
+5909,South Dakota House,R
+5910,South Dakota House,R
+5911,South Dakota House,R
+5912,South Dakota House,R
+5913,South Dakota House,R
+5914,South Dakota House,R
+5915,South Dakota House,R
+5916,South Dakota House,R
+5917,South Dakota House,R
+5918,South Dakota House,R
+5919,South Dakota Senate,D
+5920,South Dakota Senate,R
+5921,South Dakota Senate,R
+5922,South Dakota Senate,R
+5923,South Dakota Senate,R
+5924,South Dakota Senate,R
+5925,South Dakota Senate,R
+5926,South Dakota Senate,R
+5927,South Dakota Senate,R
+5928,South Dakota Senate,R
+5929,South Dakota Senate,R
+5930,South Dakota Senate,R
+5931,South Dakota Senate,R
+5932,South Dakota Senate,R
+5933,South Dakota Senate,D
+5934,South Dakota Senate,R
+5935,South Dakota Senate,R
+5936,South Dakota Senate,D
+5937,South Dakota Senate,R
+5938,South Dakota Senate,R
+5939,South Dakota Senate,R
+5940,South Dakota Senate,R
+5941,South Dakota Senate,R
+5942,South Dakota Senate,R
+5943,South Dakota Senate,R
+5944,South Dakota Senate,D
+5945,South Dakota Senate,D
+5946,South Dakota Senate,R
+5947,South Dakota Senate,R
+5948,South Dakota Senate,R
+5949,South Dakota Senate,R
+5950,South Dakota Senate,R
+5951,South Dakota Senate,R
+5952,South Dakota Senate,R
+5953,South Dakota Senate,R
+5954,Tennessee House,R
+5955,Tennessee House,R
+5956,Tennessee House,R
+5957,Tennessee House,R
+5958,Tennessee House,R
+5959,Tennessee House,R
+5960,Tennessee House,R
+5961,Tennessee House,R
+5962,Tennessee House,R
+5963,Tennessee House,R
+5964,Tennessee House,R
+5965,Tennessee House,R
+5966,Tennessee House,D
+5967,Tennessee House,R
+5968,Tennessee House,D
+5969,Tennessee House,R
+5970,Tennessee House,R
+5971,Tennessee House,R
+5972,Tennessee House,R
+5973,Tennessee House,R
+5974,Tennessee House,R
+5975,Tennessee House,R
+5976,Tennessee House,R
+5977,Tennessee House,R
+5978,Tennessee House,R
+5979,Tennessee House,R
+5980,Tennessee House,R
+5981,Tennessee House,D
+5982,Tennessee House,R
+5983,Tennessee House,R
+5984,Tennessee House,R
+5985,Tennessee House,R
+5986,Tennessee House,R
+5987,Tennessee House,R
+5988,Tennessee House,R
+5989,Tennessee House,R
+5990,Tennessee House,R
+5991,Tennessee House,R
+5992,Tennessee House,R
+5993,Tennessee House,R
+5994,Tennessee House,D
+5995,Tennessee House,R
+5996,Tennessee House,R
+5997,Tennessee House,R
+5998,Tennessee House,R
+5999,Tennessee House,R
+6000,Tennessee House,R
+6001,Tennessee House,R
+6002,Tennessee House,R
+6003,Tennessee House,D
+6004,Tennessee House,D
+6005,Tennessee House,D
+6006,Tennessee House,D
+6007,Tennessee House,D
+6008,Tennessee House,D
+6009,Tennessee House,D
+6010,Tennessee House,R
+6011,Tennessee House,D
+6012,Tennessee House,D
+6013,Tennessee House,D
+6014,Tennessee House,R
+6015,Tennessee House,R
+6016,Tennessee House,R
+6017,Tennessee House,R
+6018,Tennessee House,R
+6019,Tennessee House,R
+6020,Tennessee House,D
+6021,Tennessee House,R
+6022,Tennessee House,R
+6023,Tennessee House,R
+6024,Tennessee House,R
+6025,Tennessee House,R
+6026,Tennessee House,R
+6027,Tennessee House,R
+6028,Tennessee House,R
+6029,Tennessee House,R
+6030,Tennessee House,R
+6031,Tennessee House,R
+6032,Tennessee House,R
+6033,Tennessee House,D
+6034,Tennessee House,R
+6035,Tennessee House,R
+6036,Tennessee House,R
+6037,Tennessee House,D
+6038,Tennessee House,D
+6039,Tennessee House,D
+6040,Tennessee House,D
+6041,Tennessee House,D
+6042,Tennessee House,R
+6043,Tennessee House,D
+6044,Tennessee House,D
+6045,Tennessee House,R
+6046,Tennessee House,D
+6047,Tennessee House,R
+6048,Tennessee House,R
+6049,Tennessee House,D
+6050,Tennessee House,R
+6051,Tennessee House,D
+6052,Tennessee House,R
+6053,Tennessee Senate,R
+6054,Tennessee Senate,R
+6055,Tennessee Senate,R
+6056,Tennessee Senate,R
+6057,Tennessee Senate,R
+6058,Tennessee Senate,R
+6059,Tennessee Senate,R
+6060,Tennessee Senate,R
+6061,Tennessee Senate,R
+6062,Tennessee Senate,R
+6063,Tennessee Senate,R
+6064,Tennessee Senate,R
+6065,Tennessee Senate,R
+6066,Tennessee Senate,R
+6067,Tennessee Senate,R
+6068,Tennessee Senate,R
+6069,Tennessee Senate,R
+6070,Tennessee Senate,R
+6071,Tennessee Senate,D
+6072,Tennessee Senate,R
+6073,Tennessee Senate,D
+6074,Tennessee Senate,R
+6075,Tennessee Senate,R
+6076,Tennessee Senate,R
+6077,Tennessee Senate,R
+6078,Tennessee Senate,R
+6079,Tennessee Senate,R
+6080,Tennessee Senate,R
+6081,Tennessee Senate,D
+6082,Tennessee Senate,D
+6083,Tennessee Senate,R
+6084,Tennessee Senate,R
+6085,Tennessee Senate,D
+6086,Texas House,R
+6087,Texas House,R
+6088,Texas House,R
+6089,Texas House,R
+6090,Texas House,R
+6091,Texas House,R
+6092,Texas House,R
+6093,Texas House,R
+6094,Texas House,R
+6095,Texas House,R
+6096,Texas House,R
+6097,Texas House,R
+6098,Texas House,R
+6099,Texas House,R
+6100,Texas House,R
+6101,Texas House,R
+6102,Texas House,R
+6103,Texas House,R
+6104,Texas House,R
+6105,Texas House,R
+6106,Texas House,R
+6107,Texas House,R
+6108,Texas House,R
+6109,Texas House,R
+6110,Texas House,R
+6111,Texas House,R
+6112,Texas House,R
+6113,Texas House,R
+6114,Texas House,R
+6115,Texas House,R
+6116,Texas House,R
+6117,Texas House,R
+6118,Texas House,R
+6119,Texas House,R
+6120,Texas House,R
+6121,Texas House,R
+6122,Texas House,R
+6123,Texas House,R
+6124,Texas House,R
+6125,Texas House,R
+6126,Texas House,R
+6127,Texas House,R
+6128,Texas House,R
+6129,Texas House,R
+6130,Texas House,R
+6131,Texas House,R
+6132,Texas House,R
+6133,Texas House,R
+6134,Texas House,R
+6135,Texas House,R
+6136,Texas House,R
+6137,Texas House,R
+6138,Texas House,R
+6139,Texas House,R
+6140,Texas House,R
+6141,Texas House,R
+6142,Texas House,R
+6143,Texas House,R
+6144,Texas House,R
+6145,Texas House,R
+6146,Texas House,R
+6147,Texas House,R
+6148,Texas House,R
+6149,Texas House,R
+6150,Texas House,R
+6151,Texas House,R
+6152,Texas House,R
+6153,Texas House,R
+6154,Texas House,R
+6155,Texas House,R
+6156,Texas House,R
+6157,Texas House,R
+6158,Texas House,R
+6159,Texas House,R
+6160,Texas House,R
+6161,Texas House,R
+6162,Texas House,R
+6163,Texas House,R
+6164,Texas House,R
+6165,Texas House,R
+6166,Texas House,R
+6167,Texas House,R
+6168,Texas House,R
+6169,Texas House,R
+6170,Texas House,R
+6171,Texas House,R
+6172,Texas House,R
+6173,Texas House,R
+6174,Texas House,R
+6175,Texas House,R
+6176,Texas House,R
+6177,Texas House,R
+6178,Texas House,R
+6179,Texas House,R
+6180,Texas House,R
+6181,Texas House,R
+6182,Texas House,R
+6183,Texas House,R
+6184,Texas House,R
+6185,Texas House,R
+6186,Texas House,R
+6187,Texas House,R
+6188,Texas House,R
+6189,Texas House,R
+6190,Texas House,R
+6191,Texas House,R
+6192,Texas House,R
+6193,Texas House,R
+6194,Texas House,R
+6195,Texas House,R
+6196,Texas House,R
+6197,Texas House,R
+6198,Texas House,R
+6199,Texas House,R
+6200,Texas House,R
+6201,Texas House,R
+6202,Texas House,R
+6203,Texas House,R
+6204,Texas House,R
+6205,Texas House,R
+6206,Texas House,R
+6207,Texas House,R
+6208,Texas House,R
+6209,Texas House,R
+6210,Texas House,R
+6211,Texas House,R
+6212,Texas House,R
+6213,Texas House,R
+6214,Texas House,R
+6215,Texas House,R
+6216,Texas House,R
+6217,Texas House,R
+6218,Texas House,R
+6219,Texas House,R
+6220,Texas House,R
+6221,Texas House,R
+6222,Texas House,R
+6223,Texas House,R
+6224,Texas House,R
+6225,Texas House,R
+6226,Texas House,R
+6227,Texas House,R
+6228,Texas House,R
+6229,Texas House,R
+6230,Texas House,R
+6231,Texas House,R
+6232,Texas House,R
+6233,Texas House,R
+6234,Texas House,R
+6235,Texas House,R
+6236,Texas Senate,R
+6237,Texas Senate,R
+6238,Texas Senate,R
+6239,Texas Senate,R
+6240,Texas Senate,R
+6241,Texas Senate,D
+6242,Texas Senate,R
+6243,Texas Senate,R
+6244,Texas Senate,R
+6245,Texas Senate,D
+6246,Texas Senate,R
+6247,Texas Senate,R
+6248,Texas Senate,D
+6249,Texas Senate,D
+6250,Texas Senate,D
+6251,Texas Senate,R
+6252,Texas Senate,R
+6253,Texas Senate,R
+6254,Texas Senate,D
+6255,Texas Senate,D
+6256,Texas Senate,R
+6257,Texas Senate,D
+6258,Texas Senate,R
+6259,Texas Senate,R
+6260,Texas Senate,D
+6261,Texas Senate,D
+6262,Texas Senate,R
+6263,Texas Senate,D
+6264,Texas Senate,R
+6265,Texas Senate,R
+6266,Utah House,R
+6267,Utah House,R
+6268,Utah House,R
+6269,Utah House,D
+6270,Utah House,R
+6271,Utah House,R
+6272,Utah House,R
+6273,Utah House,D
+6274,Utah House,R
+6275,Utah House,R
+6276,Utah House,R
+6277,Utah House,R
+6278,Utah House,R
+6279,Utah House,D
+6280,Utah House,R
+6281,Utah House,D
+6282,Utah House,R
+6283,Utah House,R
+6284,Utah House,R
+6285,Utah House,R
+6286,Utah House,R
+6287,Utah House,R
+6288,Utah House,D
+6289,Utah House,R
+6290,Utah House,R
+6291,Utah House,D
+6292,Utah House,R
+6293,Utah House,R
+6294,Utah House,R
+6295,Utah House,D
+6296,Utah House,D
+6297,Utah House,R
+6298,Utah House,R
+6299,Utah House,R
+6300,Utah House,R
+6301,Utah House,R
+6302,Utah House,R
+6303,Utah House,D
+6304,Utah House,R
+6305,Utah House,R
+6306,Utah House,R
+6307,Utah House,R
+6308,Utah House,R
+6309,Utah House,R
+6310,Utah House,R
+6311,Utah House,D
+6312,Utah House,R
+6313,Utah House,D
+6314,Utah House,R
+6315,Utah House,R
+6316,Utah House,R
+6317,Utah House,R
+6318,Utah House,R
+6319,Utah House,D
+6320,Utah House,R
+6321,Utah House,R
+6322,Utah House,R
+6323,Utah House,R
+6324,Utah House,D
+6325,Utah House,R
+6326,Utah House,R
+6327,Utah House,R
+6328,Utah House,R
+6329,Utah House,D
+6330,Utah House,R
+6331,Utah House,R
+6332,Utah House,R
+6333,Utah House,R
+6334,Utah House,R
+6335,Utah House,R
+6336,Utah House,D
+6337,Utah House,D
+6338,Utah House,R
+6339,Utah House,R
+6340,Utah House,R
+6341,Utah Senate,D
+6342,Utah Senate,D
+6343,Utah Senate,D
+6344,Utah Senate,D
+6345,Utah Senate,D
+6346,Utah Senate,R
+6347,Utah Senate,R
+6348,Utah Senate,D
+6349,Utah Senate,R
+6350,Utah Senate,R
+6351,Utah Senate,R
+6352,Utah Senate,R
+6353,Utah Senate,R
+6354,Utah Senate,R
+6355,Utah Senate,R
+6356,Utah Senate,R
+6357,Utah Senate,R
+6358,Utah Senate,R
+6359,Utah Senate,R
+6360,Utah Senate,R
+6361,Utah Senate,R
+6362,Utah Senate,R
+6363,Utah Senate,R
+6364,Utah Senate,R
+6365,Utah Senate,R
+6366,Utah Senate,R
+6367,Utah Senate,R
+6368,Utah Senate,R
+6369,Utah Senate,R
+6370,Vermont House,D
+6371,Vermont House,D
+6372,Vermont House,D
+6373,Vermont House,D
+6374,Vermont House,D
+6375,Vermont House,D
+6376,Vermont House,D
+6377,Vermont House,D
+6378,Vermont House,I
+6379,Vermont House,D
+6380,Vermont House,D
+6381,Vermont House,D
+6382,Vermont House,D
+6383,Vermont House,D
+6384,Vermont House,D
+6385,Vermont House,D
+6386,Vermont House,D
+6387,Vermont House,D
+6388,Vermont House,D
+6389,Vermont House,D
+6390,Vermont House,D
+6391,Vermont House,D
+6392,Vermont House,D
+6393,Vermont House,D
+6394,Vermont House,D
+6395,Vermont House,D
+6396,Vermont House,D
+6397,Vermont House,D
+6398,Vermont House,D
+6399,Vermont House,D
+6400,Vermont House,D
+6401,Vermont House,D
+6402,Vermont House,D
+6403,Vermont House,D
+6404,Vermont House,D
+6405,Vermont House,D
+6406,Vermont House,D
+6407,Vermont House,D
+6408,Vermont House,D
+6409,Vermont House,V.P.
+6410,Vermont House,V.P.
+6411,Vermont House,D
+6412,Vermont House,D
+6413,Vermont House,D
+6414,Vermont House,V.P.
+6415,Vermont House,D
+6416,Vermont House,D
+6417,Vermont House,D
+6418,Vermont House,D
+6419,Vermont House,D
+6420,Vermont House,D
+6421,Vermont House,D
+6422,Vermont House,D
+6423,Vermont House,D
+6424,Vermont House,D
+6425,Vermont House,D
+6426,Vermont House,D
+6427,Vermont House,D
+6428,Vermont House,D
+6429,Vermont House,D
+6430,Vermont House,D
+6431,Vermont House,D
+6432,Vermont House,D
+6433,Vermont House,D
+6434,Vermont House,I
+6435,Vermont House,D
+6436,Vermont House,D
+6437,Vermont House,D
+6438,Vermont House,D
+6439,Vermont House,D
+6440,Vermont House,D
+6441,Vermont House,D
+6442,Vermont House,D
+6443,Vermont House,D
+6444,Vermont House,D
+6445,Vermont House,D
+6446,Vermont House,D
+6447,Vermont House,D
+6448,Vermont House,D
+6449,Vermont House,D
+6450,Vermont House,D
+6451,Vermont House,D
+6452,Vermont House,D
+6453,Vermont House,D
+6454,Vermont House,D
+6455,Vermont House,D
+6456,Vermont House,D
+6457,Vermont House,I
+6458,Vermont House,D
+6459,Vermont House,D
+6460,Vermont House,D
+6461,Vermont House,D
+6462,Vermont House,D
+6463,Vermont House,D
+6464,Vermont House,D
+6465,Vermont House,D
+6466,Vermont House,D
+6467,Vermont House,D
+6468,Vermont House,D
+6469,Vermont House,D
+6470,Vermont House,D
+6471,Vermont House,D
+6472,Vermont House,D
+6473,Vermont House,D
+6474,Vermont House,D
+6475,Vermont House,D
+6476,Vermont House,D
+6477,Vermont House,V.P.
+6478,Vermont House,D
+6479,Vermont House,D
+6480,Vermont House,D
+6481,Vermont House,D
+6482,Vermont House,D
+6483,Vermont House,D
+6484,Vermont House,D
+6485,Vermont House,D
+6486,Vermont House,D
+6487,Vermont House,D
+6488,Vermont House,D
+6489,Vermont House,D
+6490,Vermont House,D
+6491,Vermont House,D
+6492,Vermont House,D
+6493,Vermont House,D
+6494,Vermont House,D
+6495,Vermont House,D
+6496,Vermont House,V.P.
+6497,Vermont House,D
+6498,Vermont House,D
+6499,Vermont House,D
+6500,Vermont House,D
+6501,Vermont House,D
+6502,Vermont House,D
+6503,Vermont House,D
+6504,Vermont House,I
+6505,Vermont House,I
+6506,Vermont House,D
+6507,Vermont House,V.P.
+6508,Vermont House,D
+6509,Vermont House,D
+6510,Vermont House,D
+6511,Vermont House,D
+6512,Vermont House,D
+6513,Vermont House,D
+6514,Vermont House,D
+6515,Vermont House,D
+6516,Vermont House,D
+6517,Vermont House,D
+6518,Vermont House,D
+6519,Vermont House,V.P.
+6520,Vermont Senate,D
+6521,Vermont Senate,D
+6522,Vermont Senate,D
+6523,Vermont Senate,D
+6524,Vermont Senate,D
+6525,Vermont Senate,R
+6526,Vermont Senate,V.P.
+6527,Vermont Senate,D
+6528,Vermont Senate,D
+6529,Vermont Senate,D
+6530,Vermont Senate,D
+6531,Vermont Senate,D
+6532,Vermont Senate,D
+6533,Vermont Senate,D
+6534,Vermont Senate,R
+6535,Vermont Senate,R
+6536,Vermont Senate,D
+6537,Vermont Senate,R
+6538,Vermont Senate,D
+6539,Vermont Senate,R
+6540,Vermont Senate,D
+6541,Vermont Senate,R
+6542,Vermont Senate,D
+6543,Vermont Senate,D
+6544,Vermont Senate,V.P.
+6545,Vermont Senate,D
+6546,Vermont Senate,D
+6547,Vermont Senate,D
+6548,Vermont Senate,D
+6549,Vermont Senate,D
+6550,Virginia House,D
+6551,Virginia House,R
+6552,Virginia House,D
+6553,Virginia House,D
+6554,Virginia House,R
+6555,Virginia House,R
+6556,Virginia House,D
+6557,Virginia House,D
+6558,Virginia House,R
+6559,Virginia House,R
+6560,Virginia House,R
+6561,Virginia House,D
+6562,Virginia House,R
+6563,Virginia House,D
+6564,Virginia House,R
+6565,Virginia House,R
+6566,Virginia House,R
+6567,Virginia House,D
+6568,Virginia House,D
+6569,Virginia House,D
+6570,Virginia House,D
+6571,Virginia House,R
+6572,Virginia House,D
+6573,Virginia House,R
+6574,Virginia House,R
+6575,Virginia House,R
+6576,Virginia House,D
+6577,Virginia House,R
+6578,Virginia House,R
+6579,Virginia House,D
+6580,Virginia House,R
+6581,Virginia House,R
+6582,Virginia House,R
+6583,Virginia House,D
+6584,Virginia House,D
+6585,Virginia House,D
+6586,Virginia House,D
+6587,Virginia House,R
+6588,Virginia House,D
+6589,Virginia House,D
+6590,Virginia House,D
+6591,Virginia House,R
+6592,Virginia House,D
+6593,Virginia House,D
+6594,Virginia House,D
+6595,Virginia House,D
+6596,Virginia House,D
+6597,Virginia House,D
+6598,Virginia House,R
+6599,Virginia House,R
+6600,Virginia House,D
+6601,Virginia House,D
+6602,Virginia House,R
+6603,Virginia House,R
+6604,Virginia House,D
+6605,Virginia House,D
+6606,Virginia House,D
+6607,Virginia House,R
+6608,Virginia House,R
+6609,Virginia House,R
+6610,Virginia House,D
+6611,Virginia House,R
+6612,Virginia House,R
+6613,Virginia House,D
+6614,Virginia House,D
+6615,Virginia House,D
+6616,Virginia House,R
+6617,Virginia House,R
+6618,Virginia House,D
+6619,Virginia House,R
+6620,Virginia House,D
+6621,Virginia House,R
+6622,Virginia House,D
+6623,Virginia House,D
+6624,Virginia House,R
+6625,Virginia House,D
+6626,Virginia House,R
+6627,Virginia House,R
+6628,Virginia House,D
+6629,Virginia House,D
+6630,Virginia House,D
+6631,Virginia House,D
+6632,Virginia House,D
+6633,Virginia House,D
+6634,Virginia House,D
+6635,Virginia House,D
+6636,Virginia House,D
+6637,Virginia House,D
+6638,Virginia House,D
+6639,Virginia House,R
+6640,Virginia House,R
+6641,Virginia House,D
+6642,Virginia House,R
+6643,Virginia House,D
+6644,Virginia House,R
+6645,Virginia House,D
+6646,Virginia House,R
+6647,Virginia House,R
+6648,Virginia House,R
+6649,Virginia Senate,D
+6650,Virginia Senate,D
+6651,Virginia Senate,D
+6652,Virginia Senate,R
+6653,Virginia Senate,R
+6654,Virginia Senate,R
+6655,Virginia Senate,R
+6656,Virginia Senate,D
+6657,Virginia Senate,R
+6658,Virginia Senate,D
+6659,Virginia Senate,D
+6660,Virginia Senate,D
+6661,Virginia Senate,R
+6662,Virginia Senate,D
+6663,Virginia Senate,D
+6664,Virginia Senate,R
+6665,Virginia Senate,D
+6666,Virginia Senate,D
+6667,Virginia Senate,D
+6668,Virginia Senate,D
+6669,Virginia Senate,D
+6670,Virginia Senate,D
+6671,Virginia Senate,R
+6672,Virginia Senate,D
+6673,Virginia Senate,D
+6674,Virginia Senate,R
+6675,Virginia Senate,R
+6676,Virginia Senate,R
+6677,Virginia Senate,R
+6678,Virginia Senate,D
+6679,Virginia Senate,R
+6680,Virginia Senate,R
+6681,Virginia Senate,R
+6682,Virginia Senate,D
+6683,Virginia Senate,D
+6684,Virginia Senate,R
+6685,Virginia Senate,R
+6686,Virginia Senate,R
+6687,Virginia Senate,D
+6688,Virginia Senate,R
+6689,Washington House,D
+6690,Washington House,R
+6691,Washington House,D
+6692,Washington House,R
+6693,Washington House,D
+6694,Washington House,R
+6695,Washington House,D
+6696,Washington House,R
+6697,Washington House,R
+6698,Washington House,R
+6699,Washington House,D
+6700,Washington House,R
+6701,Washington House,R
+6702,Washington House,R
+6703,Washington House,R
+6704,Washington House,D
+6705,Washington House,D
+6706,Washington House,R
+6707,Washington House,D
+6708,Washington House,D
+6709,Washington House,D
+6710,Washington House,D
+6711,Washington House,D
+6712,Washington House,R
+6713,Washington House,R
+6714,Washington House,R
+6715,Washington House,D
+6716,Washington House,D
+6717,Washington House,D
+6718,Washington House,D
+6719,Washington House,D
+6720,Washington House,D
+6721,Washington House,R
+6722,Washington House,R
+6723,Washington House,R
+6724,Washington House,D
+6725,Washington House,D
+6726,Washington House,D
+6727,Washington House,R
+6728,Washington House,R
+6729,Washington House,D
+6730,Washington House,R
+6731,Washington House,R
+6732,Washington House,D
+6733,Washington House,R
+6734,Washington House,R
+6735,Washington House,D
+6736,Washington House,R
+6737,Washington House,R
+6738,Washington House,R
+6739,Washington House,D
+6740,Washington House,D
+6741,Washington House,D
+6742,Washington House,D
+6743,Washington House,D
+6744,Washington House,D
+6745,Washington House,R
+6746,Washington House,D
+6747,Washington House,D
+6748,Washington House,R
+6749,Washington House,R
+6750,Washington House,R
+6751,Washington House,D
+6752,Washington House,D
+6753,Washington House,R
+6754,Washington House,D
+6755,Washington House,D
+6756,Washington House,D
+6757,Washington House,R
+6758,Washington House,R
+6759,Washington House,D
+6760,Washington House,R
+6761,Washington House,D
+6762,Washington House,D
+6763,Washington House,D
+6764,Washington House,R
+6765,Washington House,D
+6766,Washington House,R
+6767,Washington House,R
+6768,Washington House,R
+6769,Washington House,D
+6770,Washington House,D
+6771,Washington House,D
+6772,Washington House,D
+6773,Washington House,D
+6774,Washington House,D
+6775,Washington House,R
+6776,Washington House,D
+6777,Washington House,D
+6778,Washington House,D
+6779,Washington House,D
+6780,Washington House,D
+6781,Washington House,D
+6782,Washington House,D
+6783,Washington House,R
+6784,Washington House,D
+6785,Washington House,R
+6786,Washington House,D
+6787,Washington Senate,D
+6788,Washington Senate,R
+6789,Washington Senate,D
+6790,Washington Senate,D
+6791,Washington Senate,R
+6792,Washington Senate,D
+6793,Washington Senate,D
+6794,Washington Senate,R
+6795,Washington Senate,D
+6796,Washington Senate,D
+6797,Washington Senate,D
+6798,Washington Senate,R
+6799,Washington Senate,D
+6800,Washington Senate,R
+6801,Washington Senate,D
+6802,Washington Senate,D
+6803,Washington Senate,R
+6804,Washington Senate,D
+6805,Washington Senate,R
+6806,Washington Senate,D
+6807,Washington Senate,R
+6808,Washington Senate,R
+6809,Washington Senate,D
+6810,Washington Senate,D
+6811,Washington Senate,R
+6812,Washington Senate,D
+6813,Washington Senate,D
+6814,Washington Senate,D
+6815,Washington Senate,R
+6816,Washington Senate,D
+6817,Washington Senate,D
+6818,Washington Senate,R
+6819,Washington Senate,D
+6820,Washington Senate,R
+6821,Washington Senate,R
+6822,Washington Senate,D
+6823,Washington Senate,D
+6824,Washington Senate,R
+6825,Washington Senate,R
+6826,Washington Senate,D
+6827,Washington Senate,D
+6828,Washington Senate,R
+6829,Washington Senate,D
+6830,Washington Senate,R
+6831,Washington Senate,R
+6832,Washington Senate,D
+6833,Washington Senate,D
+6834,Washington Senate,R
+6835,Washington Senate,D
+6836,West Virginia House,R
+6837,West Virginia House,D
+6838,West Virginia House,R
+6839,West Virginia House,R
+6840,West Virginia House,R
+6841,West Virginia House,D
+6842,West Virginia House,R
+6843,West Virginia House,D
+6844,West Virginia House,R
+6845,West Virginia House,D
+6846,West Virginia House,D
+6847,West Virginia House,D
+6848,West Virginia House,R
+6849,West Virginia House,D
+6850,West Virginia House,R
+6851,West Virginia House,D
+6852,West Virginia House,D
+6853,West Virginia House,R
+6854,West Virginia House,D
+6855,West Virginia House,R
+6856,West Virginia House,R
+6857,West Virginia House,R
+6858,West Virginia House,R
+6859,West Virginia House,D
+6860,West Virginia House,D
+6861,West Virginia House,R
+6862,West Virginia House,R
+6863,West Virginia House,D
+6864,West Virginia House,D
+6865,West Virginia House,R
+6866,West Virginia House,D
+6867,West Virginia House,D
+6868,West Virginia House,R
+6869,West Virginia House,R
+6870,West Virginia House,R
+6871,West Virginia House,R
+6872,West Virginia House,D
+6873,West Virginia House,R
+6874,West Virginia House,R
+6875,West Virginia House,D
+6876,West Virginia House,D
+6877,West Virginia House,R
+6878,West Virginia House,D
+6879,West Virginia House,R
+6880,West Virginia House,R
+6881,West Virginia House,R
+6882,West Virginia House,R
+6883,West Virginia House,R
+6884,West Virginia House,R
+6885,West Virginia House,R
+6886,West Virginia House,R
+6887,West Virginia House,R
+6888,West Virginia House,R
+6889,West Virginia House,D
+6890,West Virginia House,R
+6891,West Virginia House,R
+6892,West Virginia House,D
+6893,West Virginia House,D
+6894,West Virginia House,R
+6895,West Virginia House,R
+6896,West Virginia House,R
+6897,West Virginia House,R
+6898,West Virginia House,R
+6899,West Virginia House,D
+6900,West Virginia House,D
+6901,West Virginia House,R
+6902,West Virginia House,R
+6903,West Virginia House,R
+6904,West Virginia House,D
+6905,West Virginia House,R
+6906,West Virginia House,R
+6907,West Virginia House,D
+6908,West Virginia House,D
+6909,West Virginia House,R
+6910,West Virginia House,D
+6911,West Virginia House,D
+6912,West Virginia House,R
+6913,West Virginia House,R
+6914,West Virginia House,D
+6915,West Virginia House,R
+6916,West Virginia House,D
+6917,West Virginia House,D
+6918,West Virginia House,D
+6919,West Virginia House,R
+6920,West Virginia House,R
+6921,West Virginia House,R
+6922,West Virginia House,D
+6923,West Virginia House,R
+6924,West Virginia House,D
+6925,West Virginia House,D
+6926,West Virginia House,D
+6927,West Virginia House,R
+6928,West Virginia House,R
+6929,West Virginia House,D
+6930,West Virginia House,R
+6931,West Virginia House,R
+6932,West Virginia House,D
+6933,West Virginia House,I
+6934,West Virginia House,R
+6935,West Virginia House,D
+6936,West Virginia Senate,R
+6937,West Virginia Senate,D
+6938,West Virginia Senate,D
+6939,West Virginia Senate,R
+6940,West Virginia Senate,R
+6941,West Virginia Senate,R
+6942,West Virginia Senate,R
+6943,West Virginia Senate,R
+6944,West Virginia Senate,D
+6945,West Virginia Senate,R
+6946,West Virginia Senate,D
+6947,West Virginia Senate,D
+6948,West Virginia Senate,D
+6949,West Virginia Senate,D
+6950,West Virginia Senate,R
+6951,West Virginia Senate,R
+6952,West Virginia Senate,R
+6953,West Virginia Senate,D
+6954,West Virginia Senate,R
+6955,West Virginia Senate,D
+6956,West Virginia Senate,D
+6957,West Virginia Senate,R
+6958,West Virginia Senate,D
+6959,West Virginia Senate,R
+6960,West Virginia Senate,R
+6961,West Virginia Senate,D
+6962,West Virginia Senate,R
+6963,West Virginia Senate,R
+6964,West Virginia Senate,R
+6965,West Virginia Senate,R
+6966,West Virginia Senate,R
+6967,West Virginia Senate,D
+6968,West Virginia Senate,R
+6969,West Virginia Senate,D
+6970,Wisconsin Senate,R
+6971,Wisconsin Senate,R
+6972,Wisconsin Senate,D
+6973,Wisconsin Senate,D
+6974,Wisconsin Senate,R
+6975,Wisconsin Senate,D
+6976,Wisconsin Senate,D
+6977,Wisconsin Senate,R
+6978,Wisconsin Senate,R
+6979,Wisconsin Senate,D
+6980,Wisconsin Senate,R
+6981,Wisconsin Senate,R
+6982,Wisconsin Senate,R
+6983,Wisconsin Senate,D
+6984,Wisconsin Senate,D
+6985,Wisconsin Senate,R
+6986,Wisconsin Senate,R
+6987,Wisconsin Senate,R
+6988,Wisconsin Senate,R
+6989,Wisconsin Senate,R
+6990,Wisconsin Senate,D
+6991,Wisconsin Senate,R
+6992,Wisconsin Senate,R
+6993,Wisconsin Senate,D
+6994,Wisconsin Senate,D
+6995,Wisconsin Senate,D
+6996,Wisconsin Senate,R
+6997,Wisconsin Senate,R
+6998,Wisconsin Senate,D
+6999,Wisconsin Senate,D
+7000,Wisconsin Senate,R
+7001,Wisconsin State Assembly,R
+7002,Wisconsin State Assembly,R
+7003,Wisconsin State Assembly,R
+7004,Wisconsin State Assembly,R
+7005,Wisconsin State Assembly,R
+7006,Wisconsin State Assembly,R
+7007,Wisconsin State Assembly,D
+7008,Wisconsin State Assembly,D
+7009,Wisconsin State Assembly,D
+7010,Wisconsin State Assembly,D
+7011,Wisconsin State Assembly,D
+7012,Wisconsin State Assembly,D
+7013,Wisconsin State Assembly,R
+7014,Wisconsin State Assembly,D
+7015,Wisconsin State Assembly,R
+7016,Wisconsin State Assembly,D
+7017,Wisconsin State Assembly,D
+7018,Wisconsin State Assembly,D
+7019,Wisconsin State Assembly,D
+7020,Wisconsin State Assembly,R
+7021,Wisconsin State Assembly,R
+7022,Wisconsin State Assembly,R
+7023,Wisconsin State Assembly,R
+7024,Wisconsin State Assembly,R
+7025,Wisconsin State Assembly,R
+7026,Wisconsin State Assembly,R
+7027,Wisconsin State Assembly,R
+7028,Wisconsin State Assembly,R
+7029,Wisconsin State Assembly,R
+7030,Wisconsin State Assembly,R
+7031,Wisconsin State Assembly,R
+7032,Wisconsin State Assembly,R
+7033,Wisconsin State Assembly,R
+7034,Wisconsin State Assembly,R
+7035,Wisconsin State Assembly,R
+7036,Wisconsin State Assembly,R
+7037,Wisconsin State Assembly,R
+7038,Wisconsin State Assembly,R
+7039,Wisconsin State Assembly,R
+7040,Wisconsin State Assembly,R
+7041,Wisconsin State Assembly,R
+7042,Wisconsin State Assembly,D
+7043,Wisconsin State Assembly,D
+7044,Wisconsin State Assembly,D
+7045,Wisconsin State Assembly,D
+7046,Wisconsin State Assembly,D
+7047,Wisconsin State Assembly,D
+7048,Wisconsin State Assembly,R
+7049,Wisconsin State Assembly,R
+7050,Wisconsin State Assembly,R
+7051,Wisconsin State Assembly,R
+7052,Wisconsin State Assembly,R
+7053,Wisconsin State Assembly,D
+7054,Wisconsin State Assembly,R
+7055,Wisconsin State Assembly,R
+7056,Wisconsin State Assembly,D
+7057,Wisconsin State Assembly,R
+7058,Wisconsin State Assembly,R
+7059,Wisconsin State Assembly,R
+7060,Wisconsin State Assembly,R
+7061,Wisconsin State Assembly,R
+7062,Wisconsin State Assembly,R
+7063,Wisconsin State Assembly,D
+7064,Wisconsin State Assembly,D
+7065,Wisconsin State Assembly,D
+7066,Wisconsin State Assembly,R
+7067,Wisconsin State Assembly,R
+7068,Wisconsin State Assembly,R
+7069,Wisconsin State Assembly,R
+7070,Wisconsin State Assembly,D
+7071,Wisconsin State Assembly,R
+7072,Wisconsin State Assembly,D
+7073,Wisconsin State Assembly,D
+7074,Wisconsin State Assembly,R
+7075,Wisconsin State Assembly,D
+7076,Wisconsin State Assembly,D
+7077,Wisconsin State Assembly,D
+7078,Wisconsin State Assembly,D
+7079,Wisconsin State Assembly,D
+7080,Wisconsin State Assembly,D
+7081,Wisconsin State Assembly,R
+7082,Wisconsin State Assembly,R
+7083,Wisconsin State Assembly,R
+7084,Wisconsin State Assembly,R
+7085,Wisconsin State Assembly,R
+7086,Wisconsin State Assembly,R
+7087,Wisconsin State Assembly,R
+7088,Wisconsin State Assembly,R
+7089,Wisconsin State Assembly,D
+7090,Wisconsin State Assembly,D
+7091,Wisconsin State Assembly,R
+7092,Wisconsin State Assembly,R
+7093,Wisconsin State Assembly,D
+7094,Wisconsin State Assembly,D
+7095,Wisconsin State Assembly,R
+7096,Wisconsin State Assembly,R
+7097,Wisconsin State Assembly,R
+7098,Wisconsin State Assembly,R
+7099,Wyoming House,R
+7100,Wyoming House,R
+7101,Wyoming House,D
+7102,Wyoming House,R
+7103,Wyoming House,R
+7104,Wyoming House,D
+7105,Wyoming House,R
+7106,Wyoming House,R
+7107,Wyoming House,D
+7108,Wyoming House,D
+7109,Wyoming House,R
+7110,Wyoming House,D
+7111,Wyoming House,R
+7112,Wyoming House,R
+7113,Wyoming House,R
+7114,Wyoming House,R
+7115,Wyoming House,R
+7116,Wyoming House,D
+7117,Wyoming House,R
+7118,Wyoming House,R
+7119,Wyoming House,R
+7120,Wyoming House,R
+7121,Wyoming House,R
+7122,Wyoming House,R
+7123,Wyoming House,R
+7124,Wyoming House,R
+7125,Wyoming House,R
+7126,Wyoming House,R
+7127,Wyoming House,R
+7128,Wyoming House,R
+7129,Wyoming House,R
+7130,Wyoming House,R
+7131,Wyoming House,R
+7132,Wyoming House,R
+7133,Wyoming House,R
+7134,Wyoming House,R
+7135,Wyoming House,R
+7136,Wyoming House,R
+7137,Wyoming House,R
+7138,Wyoming House,R
+7139,Wyoming House,D
+7140,Wyoming House,R
+7141,Wyoming House,R
+7142,Wyoming House,I
+7143,Wyoming House,R
+7144,Wyoming House,D
+7145,Wyoming House,R
+7146,Wyoming House,R
+7147,Wyoming House,R
+7148,Wyoming House,R
+7149,Wyoming House,R
+7150,Wyoming House,R
+7151,Wyoming House,R
+7152,Wyoming House,R
+7153,Wyoming House,R
+7154,Wyoming House,R
+7155,Wyoming House,R
+7156,Wyoming House,D
+7157,Wyoming House,R
+7158,Wyoming Senate,R
+7159,Wyoming Senate,R
+7160,Wyoming Senate,D
+7161,Wyoming Senate,R
+7162,Wyoming Senate,R
+7163,Wyoming Senate,R
+7164,Wyoming Senate,R
+7165,Wyoming Senate,R
+7166,Wyoming Senate,R
+7167,Wyoming Senate,R
+7168,Wyoming Senate,R
+7169,Wyoming Senate,R
+7170,Wyoming Senate,R
+7171,Wyoming Senate,D
+7172,Wyoming Senate,R
+7173,Wyoming Senate,R
+7174,Wyoming Senate,R
+7175,Wyoming Senate,R
+7176,Wyoming Senate,R
+7177,Wyoming Senate,R
+7178,Wyoming Senate,R
+7179,Wyoming Senate,R
+7180,Wyoming Senate,R
+7181,Wyoming Senate,R
+7182,Wyoming Senate,D
+7183,Wyoming Senate,R
+7184,Wyoming Senate,R
+7185,Wyoming Senate,R
+7186,Wyoming Senate,R
+7187,Wyoming Senate,R
