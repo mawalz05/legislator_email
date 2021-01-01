@@ -702,7 +702,7 @@ def logit_output(df):
     X = X.drop(['Human','General','D', 'Left-Wing'], axis = 1)
 
     # Interacting Rightwing and Republican
-    X['interaction'] = X['Right-Wing']*X['R']
+    X['Right_Wing * R'] = X['Right-Wing']*X['R']
 
     # Running Logistic Regression
     from sklearn.linear_model import LogisticRegression
