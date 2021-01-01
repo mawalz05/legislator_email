@@ -369,7 +369,7 @@ def analysis(df_final):
     to_csv_timestamp = datetime.today().strftime('%Y%m%d_%H%M%S')
     
     # Create a Pandas Excel writer using XlsxWriter as the engine.
-    writer = pd.ExcelWriter(cwd + to_csv_timestamp + "_analysis.xlsx", engine='xlsxwriter')
+    writer = pd.ExcelWriter(cwd + '\\' + to_csv_timestamp + "_analysis.xlsx", engine='xlsxwriter')
 
     # Write each dataframe to a different worksheet.
     topics.to_excel(writer, sheet_name='topics')
@@ -441,7 +441,7 @@ def comp_tests(df, group1, group2):
     to_csv_timestamp = datetime.today().strftime('%Y%m%d_%H%M%S')
     
     # Create a Pandas Excel writer using XlsxWriter as the engine.
-    writer = pd.ExcelWriter(cwd + to_csv_timestamp + "ttest.xlsx", engine='xlsxwriter')
+    writer = pd.ExcelWriter(cwd + '\\' + to_csv_timestamp + "ttest.xlsx", engine='xlsxwriter')
 
     stats.to_excel(writer, sheet_name='ttest')
     writer.save()
