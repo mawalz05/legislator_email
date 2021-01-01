@@ -54,7 +54,7 @@ def preprocess_text(df_final):
     # Merging in the legislator party Id's
     # Merging in the legislator Id's
     import pandas as pd
-    leg = pd.read_csv(r"C:\Users\mawal\OneDrive - Binghamton University\Desktop\Desktop_Folders\Upwork\NLP\legislator_list.csv")
+    leg = pd.read_csv('https://raw.githubusercontent.com/mawalz05/legislator_email/main/legislator_list.csv')
     df_final = pd.merge(df_final, leg, on = ['legislator_id'], how = 'left')
     
     # Start by importing stopwords and tokenize from nltk
