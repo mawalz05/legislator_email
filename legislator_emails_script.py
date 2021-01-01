@@ -362,12 +362,14 @@ def analysis(df_final):
 
     ##############################################################################################  
     from datetime import datetime
+    import os
+    cwd = os.getcwd()
     
     # Obtain timestamp in a readable format
     to_csv_timestamp = datetime.today().strftime('%Y%m%d_%H%M%S')
     
     # Create a Pandas Excel writer using XlsxWriter as the engine.
-    writer = pd.ExcelWriter("C:\\Users\\mawal\\OneDrive - Binghamton University\\Desktop\\Desktop_Folders\\Upwork\\NLP\\Analysis\\" + to_csv_timestamp + "_analysis.xlsx", engine='xlsxwriter')
+    writer = pd.ExcelWriter(cwd + to_csv_timestamp + "_analysis.xlsx", engine='xlsxwriter')
 
     # Write each dataframe to a different worksheet.
     topics.to_excel(writer, sheet_name='topics')
@@ -388,7 +390,7 @@ def analysis(df_final):
     # Close the Pandas Excel writer and output the Excel file.
     writer.save()
     
-    df_final.to_csv(r'C:\Users\mawal\OneDrive - Binghamton University\Desktop\Desktop_Folders\Upwork\NLP\df_final.csv', index=False)
+    return authors
 
 def comp_tests(df, group1, group2):
     import pandas as pd
@@ -432,12 +434,14 @@ def comp_tests(df, group1, group2):
     print(stats)
     
     from datetime import datetime
+    import os
+    cwd = os.getcwd()
     
     # Obtain timestamp in a readable format
     to_csv_timestamp = datetime.today().strftime('%Y%m%d_%H%M%S')
     
     # Create a Pandas Excel writer using XlsxWriter as the engine.
-    writer = pd.ExcelWriter("C:\\Users\\mawal\\OneDrive - Binghamton University\\Desktop\\Desktop_Folders\\Upwork\\NLP\\Analysis\\ttests\\" + to_csv_timestamp + "ttest.xlsx", engine='xlsxwriter')
+    writer = pd.ExcelWriter(cwd + to_csv_timestamp + "ttest.xlsx", engine='xlsxwriter')
 
     stats.to_excel(writer, sheet_name='ttest')
     writer.save()
@@ -464,6 +468,8 @@ def clean_analysis(df):
             df.loc[[i],['party']] = 'R'
         if df.loc[i]['party'] != 'D' and df.loc[i]['party'] != 'R':
             df.loc[[i], ['party']] = 'Third-Party'
+            
+    return df
 
 
 def merged_analysis(df):
