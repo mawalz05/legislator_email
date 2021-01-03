@@ -215,13 +215,13 @@ def analysis(df_final):
     ##################################################################################################
     # Repeating the steps above but this time grouping by both topics and slants
     topic_slants = df.groupby(['topic', 'slant'])['topic'].count()
-    per_sal_top_slant = df.groupby(['topic', 'slant'])['pers_salutation'].sum()
+    pers_sal_top_slant = df.groupby(['topic', 'slant'])['pers_salutation'].sum()
     response_top_slant = df.groupby(['topic', 'slant'])['response_checks'].sum()
     assistant_top_slant = df.groupby(['topic', 'slant'])['assistant'].sum()
     stem_top_slant = df.groupby(['topic', 'slant'])['stem_length'].mean()
     stem_top_slant_sd = df.groupby(['topic', 'slant'])['stem_length'].std()
 
-    topics_slants = pd.DataFrame(pd.concat([topic_slants, per_sal_top_slant, response_top_slant,  
+    topics_slants = pd.DataFrame(pd.concat([topic_slants, pers_sal_top_slant, response_top_slant,  
                                             assistant_top_slant, stem_top_slant, stem_top_slant_sd], axis = 1))
     
     topics_slants.columns = ['count', 'pers_salutation', 'response_checks', 'assistant','stem_length_mean','stem_length_sd']
@@ -244,7 +244,7 @@ def analysis(df_final):
     
     topics_authors.columns = ['count', 'pers_salutation', 'response_checks', 'assistant','stem_length_mean','stem_length_sd']
 
-    topics_authors['per_sal_prop'] = topics_authors['pers_salutation']/topics_authors['count']
+    topics_authors['pers_sal_prop'] = topics_authors['pers_salutation']/topics_authors['count']
     topics_authors['response_prop'] = topics_authors['response_checks']/topics_authors['count']
     topics_authors['assistant_prop'] = topics_authors['assistant']/topics_authors['count']
     
@@ -262,7 +262,7 @@ def analysis(df_final):
     
     slants_authors.columns = ['count', 'pers_salutation', 'response_checks', 'assistant','stem_length_mean','stem_length_sd']
 
-    slants_authors['per_sal_prop'] = slants_authors['pers_salutation']/slants_authors['count']
+    slants_authors['pers_sal_prop'] = slants_authors['pers_salutation']/slants_authors['count']
     slants_authors['response_prop'] = slants_authors['response_checks']/slants_authors['count']
     slants_authors['assistant_prop'] = slants_authors['assistant']/slants_authors['count']
     
@@ -280,7 +280,7 @@ def analysis(df_final):
     
     slants_party.columns = ['count', 'pers_salutation', 'response_checks', 'assistant','stem_length_mean','stem_length_sd']
 
-    slants_party['per_sal_prop'] = slants_party['pers_salutation']/slants_party['count']
+    slants_party['pers_sal_prop'] = slants_party['pers_salutation']/slants_party['count']
     slants_party['response_prop'] = slants_party['response_checks']/slants_party['count']
     slants_party['assistant_prop'] = slants_party['assistant']/slants_party['count']
 
@@ -299,7 +299,7 @@ def analysis(df_final):
     
     topics_slants_authors.columns = ['count', 'pers_salutation', 'response_checks', 'assistant','stem_length_mean','stem_length_sd']
     
-    topics_slants_authors['per_sal_prop'] = topics_slants_authors['pers_salutation']/topics_slants_authors['count']
+    topics_slants_authors['pers_sal_prop'] = topics_slants_authors['pers_salutation']/topics_slants_authors['count']
     topics_slants_authors['response_prop'] = topics_slants_authors['response_checks']/topics_slants_authors['count']
     topics_slants_authors['assistant_prop'] = topics_slants_authors['assistant']/topics_slants_authors['count']
     
@@ -318,7 +318,7 @@ def analysis(df_final):
     
     topics_slants_party.columns = ['count', 'pers_salutation', 'response_checks', 'assistant','stem_length_mean','stem_length_sd']
     
-    topics_slants_party['per_sal_prop'] = topics_slants_party['pers_salutation']/topics_slants_party['count']
+    topics_slants_party['pers_sal_prop'] = topics_slants_party['pers_salutation']/topics_slants_party['count']
     topics_slants_party['response_prop'] = topics_slants_party['response_checks']/topics_slants_party['count']
     topics_slants_party['assistant_prop'] = topics_slants_party['assistant']/topics_slants_party['count']
 
@@ -337,7 +337,7 @@ def analysis(df_final):
     
     auth_slants_party.columns = ['count', 'pers_salutation', 'response_checks', 'assistant','stem_length_mean','stem_length_sd']
     
-    auth_slants_party['per_sal_prop'] = auth_slants_party['pers_salutation']/auth_slants_party['count']
+    auth_slants_party['pers_sal_prop'] = auth_slants_party['pers_salutation']/auth_slants_party['count']
     auth_slants_party['response_prop'] = auth_slants_party['response_checks']/auth_slants_party['count']
     auth_slants_party['assistant_prop'] = auth_slants_party['assistant']/auth_slants_party['count']
 
@@ -356,7 +356,7 @@ def analysis(df_final):
     
     topics_slants_auth_party.columns = ['count', 'pers_salutation', 'response_checks', 'assistant','stem_length_mean','stem_length_sd']
     
-    topics_slants_auth_party['per_sal_prop'] = topics_slants_auth_party['pers_salutation']/topics_slants_auth_party['count']
+    topics_slants_auth_party['pers_sal_prop'] = topics_slants_auth_party['pers_salutation']/topics_slants_auth_party['count']
     topics_slants_auth_party['response_prop'] = topics_slants_auth_party['response_checks']/topics_slants_auth_party['count']
     topics_slants_auth_party['assistant_prop'] = topics_slants_auth_party['assistant']/topics_slants_auth_party['count']
 
