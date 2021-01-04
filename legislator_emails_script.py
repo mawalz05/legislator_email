@@ -657,6 +657,9 @@ def logit_output(df):
     import statsmodels.api as sm
     import pandas as pd
     from sklearn.preprocessing import LabelBinarizer, MultiLabelBinarizer
+    
+    # Filtering out for automated responses
+    df = df[df['auto_labels'] == 0]
 
     # One-hot encoding
     author = df['author']
@@ -694,7 +697,7 @@ def logit_output(df):
     # Creating a new dataframe with the dummy vectors
     X = pd.concat([author, slant, topic, party], axis = 1)
     # Creating a vector for the dv
-    y = df['response']
+    y = list(df['response'])
 
     # Dropping one category from each column for comparison
     X = X.drop(['Human','General','D', 'Left-Wing'], axis = 1)
