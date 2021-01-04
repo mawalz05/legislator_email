@@ -657,9 +657,6 @@ def logit_output(df):
     import statsmodels.api as sm
     import pandas as pd
     from sklearn.preprocessing import LabelBinarizer, MultiLabelBinarizer
-    
-    # Filtering for automated responses
-    df = df[df['auto_labels'] == 0]
 
     # One-hot encoding
     author = df['author']
