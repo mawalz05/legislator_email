@@ -695,6 +695,8 @@ def logit_output(df):
     party.columns = party_names
     
     # Extracting the squire score
+    df['squire_score2015'] = df['squire_score2015'].astype(str)
+    df['squire'] = df['squire_score2015'].astype(float)
     squire = df['squire']
     
     # Creating a new dataframe with the dummy vectors
