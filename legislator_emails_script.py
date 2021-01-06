@@ -693,9 +693,12 @@ def logit_output(df):
     party_names = one_hot.classes_
     party = pd.DataFrame(party)
     party.columns = party_names
-
+    
+    # Extracting the squire score
+    squire = df['squire_score2015']
+    
     # Creating a new dataframe with the dummy vectors
-    X = pd.concat([author, slant, topic, party], axis = 1)
+    X = pd.concat([author, slant, topic, party, squire], axis = 1)
     # Creating a vector for the dv
     y = list(df['response'])
 
