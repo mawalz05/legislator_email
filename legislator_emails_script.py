@@ -694,14 +694,12 @@ def logit_output(df):
     party = pd.DataFrame(party)
     party.columns = party_names
     
-    # Extracting the squire score
-    #df['squire_score2015'] = df['squire_score2015'].astype(str)
-    #df['squire'] = df['squire_score2015'].astype(float)
-    #squire = round(df['squire'], 2)
-    #squire = pd.DataFrame(squire)
+    squire = df['squire_score2015']
+    squire = np.nan_to_num(squire) # This fixes the error with Nan or infinity values
+    squire = pd.DataFrame(squire)
     
     # Creating a new dataframe with the dummy vectors
-    X = pd.concat([author, slant, topic, party], axis = 1)
+    X = pd.concat([author, slant, topic, party, squire], axis = 1)
     # Creating a vector for the dv
     y = list(df['response'])
 
