@@ -697,7 +697,8 @@ def logit_output(df):
     # Extracting the squire score
     df['squire_score2015'] = df['squire_score2015'].astype(str)
     df['squire'] = df['squire_score2015'].astype(float)
-    squire = df['squire']
+    squire = round(df['squire'], 2)
+    squire = pd.DataFrame(squire)
     
     # Creating a new dataframe with the dummy vectors
     X = pd.concat([author, slant, topic, party, squire], axis = 1)
