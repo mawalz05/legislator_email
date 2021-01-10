@@ -740,8 +740,8 @@ def logit_output(df):
     to_text_timestamp = datetime.today().strftime('%Y%m%d_%H%M%S')
     
     with open(cwd + '\\' + to_text_timestamp + '_logit_regression.txt', 'w' , encoding='utf-8') as text_file:
-    text_file.write(result.summary().as_text())
-    text_file.close()
+        text_file.write(result.summary().as_text())
+        text_file.close()
     ######################################################
     
     # Merging the dataframes to create a regression_df csv
