@@ -724,6 +724,33 @@ def logit_output(df):
     # Obtain timestamp in a readable format
     to_text_timestamp = datetime.today().strftime('%Y%m%d_%H%M%S')    
 
-    with open(cwd + '\\' + to_text_timestamp + '_logit_regression.txt', 'w' , encoding='utf-8') as text_file:
+    with open(cwd + '\\' + to_text_timestamp + '_logit_regression_squire.txt', 'w' , encoding='utf-8') as text_file:
         text_file.write(result.summary().as_text())
         text_file.close()
+   
+    # Dropping squire
+    X = X.drop(['squire_score'], axis = 1)
+    
+    # Re-running the regression and removing the 
+    logreg = LogisticRegression().fit(X,y)
+    logit_model = sm.Logit(y, X)
+    result = logit_model.fit()
+    print(result.summary())
+    
+    to_text_timestamp = datetime.today().strftime('%Y%m%d_%H%M%S')
+    
+    with open(cwd + '\\' + to_text_timestamp + '_logit_regression.txt', 'w' , encoding='utf-8') as text_file:
+    text_file.write(result.summary().as_text())
+    text_file.close()
+    ######################################################
+    
+    # Merging the dataframes to create a regression_df csv
+    y.reset_index(drop=True, inplace=True)
+    X.reset_index(drop=True, inplace=True)
+    df_new = pd.concat([y,X], axis = 1) # Merge
+    
+    to_csv_timestamp = datetime.today().strftime('%Y%m%d_%H%M%S')
+    
+    df_new.to_csv(cwd + '\\' + to_csv_timestamp + '_regreession_df.csv')
+    
+    
