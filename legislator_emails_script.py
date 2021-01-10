@@ -745,6 +745,7 @@ def logit_output(df):
     ######################################################
     
     # Merging the dataframes to create a regression_df csv
+    y = df['response']
     y.reset_index(drop=True, inplace=True)
     X.reset_index(drop=True, inplace=True)
     df_new = pd.concat([y,X], axis = 1) # Merge
