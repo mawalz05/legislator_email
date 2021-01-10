@@ -727,6 +727,16 @@ def logit_output(df):
     with open(cwd + '\\' + to_text_timestamp + '_logit_regression_squire.txt', 'w' , encoding='utf-8') as text_file:
         text_file.write(result.summary().as_text())
         text_file.close()
+        
+    # Merging the dataframes to create a regression_df csv
+    y = df['response']
+    y.reset_index(drop=True, inplace=True)
+    X.reset_index(drop=True, inplace=True)
+    df_new = pd.concat([y,X], axis = 1) # Merge
+    
+    to_csv_timestamp = datetime.today().strftime('%Y%m%d_%H%M%S')
+    
+    df_new.to_csv(cwd + '\\' + to_csv_timestamp + '_regreession_df.csv')
    
     # Dropping squire
     X = X.drop(['squire_score'], axis = 1)
@@ -742,16 +752,5 @@ def logit_output(df):
     with open(cwd + '\\' + to_text_timestamp + '_logit_regression.txt', 'w' , encoding='utf-8') as text_file:
         text_file.write(result.summary().as_text())
         text_file.close()
-    ######################################################
-    
-    # Merging the dataframes to create a regression_df csv
-    y = df['response']
-    y.reset_index(drop=True, inplace=True)
-    X.reset_index(drop=True, inplace=True)
-    df_new = pd.concat([y,X], axis = 1) # Merge
-    
-    to_csv_timestamp = datetime.today().strftime('%Y%m%d_%H%M%S')
-    
-    df_new.to_csv(cwd + '\\' + to_csv_timestamp + '_regreession_df.csv')
     
     
