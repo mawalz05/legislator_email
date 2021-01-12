@@ -108,8 +108,65 @@ def preprocess_text(df_final):
         if df_final.loc[i]['message_type'] == 'null':
             df_final.loc[[i],['topic']] = 'General'
             df_final.loc[[i], ['slant']] = 'Non-Partisan'
-            df_final.loc[[i],['author']] = 'Other'            
+            df_final.loc[[i],['author']] = 'Other' 
+    
+    #########################################################################################################
+    # Creating word frequencies and proportions for different categories  
+    df = df_final[df_final['auto_labels'] == 0]
+    
+    # Creating various dataframes for each group
+    df_general = df[df['topic'] == 'General']
+    df_taxes = df[df['topic'] == 'Taxes']
+    df_schools = df[df['topic'] == 'Schools']
+    df_healthcare = df[df['topic'] == 'Health Care']
+    df_guncontrol = df[df['topic'] == 'Gun Control']
+    df_policing = df[df['topic'] == 'Policing']
+    df_reproductiverights = df[df['topic'] == 'Reproductive Rights']
 
+    df_GPT3 = df[df['author'] == 'GPT-3']
+    df_human = df[df['author'] == 'Human']
+
+    df_rightwing = df[df['slant'] == 'Right-Wing']
+    df_leftwing = df[df['slant'] == 'Left-Wing']
+
+    # Combining the dataframes into a list
+    dataframes = [df_general, df_taxes, df_schools, df_healthcare, df_guncontrol, df_policing, df_reproductiverights,
+                 df_GPT3, df_human, df_rightwing, df_leftwing]
+
+    # Taking the names to use to label the sheets
+    names = ['General', 'Taxes', 'Schools', 'Health Care', 'Gun Control', 'Policing', 'Reproductive Rights', 
+            'GPT-3', 'Human', 'Right-Wing', 'Left-Wing']
+    
+    # Getting the current working directoy to save the file
+    import os
+    cwd = os.getcwd()    
+    from datetime import datetime
+
+    # Obtain timestamp in a readable format
+    to_csv_timestamp = datetime.today().strftime('%Y%m%d_%H%M%S')
+
+    # Create a Pandas Excel writer using XlsxWriter as the engine.
+    writer = pd.ExcelWriter(cwd + '\\' + to_csv_timestamp + "_word_counts.xlsx", engine='xlsxwriter')
+
+    counter = 0 # Need a counter to go through the Names
+    for dataframe in dataframes:
+        counts = dataframe['stem_tokens'].apply(pd.value_counts).sum()
+        counts2 = counts.sort_values(ascending = False)[0:20]
+        counts2.reset_index()
+        test = []
+        for i in counts2:
+            prop = i/sum(counts)
+            test.append(prop)
+        test = pd.Series(test)
+        counts2 = pd.DataFrame(counts2, columns = ['counts'])
+        counts2.reset_index(level=0, inplace=True)
+        new = pd.concat([counts2, test], axis = 1)
+        new.rename(columns = {0: 'proportion'} , inplace = True)
+        new.to_excel(writer, sheet_name = names[counter])
+        counter +=1
+    writer.save()
+
+    ########################################################################################################
     return df_final
 
 def pre_analysis(df_final):
