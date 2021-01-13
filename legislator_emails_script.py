@@ -460,13 +460,13 @@ def comp_tests(df, group1, group2):
 
     se = [np.sqrt((df['pers_salutation'][group1]+ df['pers_salutation'][group2])/(df['count'][group1] + df['count'][group2])*
                             (1 - (df['pers_salutation'][group1]+ df['pers_salutation'][group2])/(df['count'][group1] + df['count'][group2]))*
-                            (1/df['pers_salutation'][group1] + 1/df['pers_salutation'][group2])),
+                            (1/df['count'][group1] + 1/df['count'][group2])),
          np.sqrt((df['response_checks'][group1]+ df['response_checks'][group2])/(df['count'][group1] + df['count'][group2])*
                             (1 - (df['response_checks'][group1]+ df['response_checks'][group2])/(df['count'][group1] + df['count'][group2]))*
-                            (1/df['response_checks'][group1] + 1/df['response_checks'][group2])),
+                            (1/df['count'][group1] + 1/df['count'][group2])),
           np.sqrt((df['assistant'][group1]+ df['assistant'][group2])/(df['count'][group1] + df['count'][group2])*
                             (1 - (df['assistant'][group1]+ df['assistant'][group2])/(df['count'][group1] + df['count'][group2]))*
-                            (1/df['assistant'][group1] + 1/df['assistant'][group2])),
+                            (1/df['count'][group1] + 1/df['count'][group2])),
          np.sqrt(df['stem_length_sd'][group1]**2/df['count'][group1] + df['stem_length_sd'][group2]**2/df['count'][group2])]
 
     z = [(df['pers_sal_prop'][group1] - df['pers_sal_prop'][group2])/se[0],
@@ -678,7 +678,7 @@ def comp_tests_merge(df, group1, group2):
 
     se = np.sqrt((df['response'][group1]+ df['response'][group2])/(df['count'][group1] + df['count'][group2])*
                             (1 - (df['response'][group1]+ df['response'][group2])/(df['count'][group1] + df['count'][group2]))*
-                            (1/df['response'][group1] + 1/df['response'][group2]))
+                            (1/df['count'][group1] + 1/df['count'][group2]))
 
     z = (df['response_prop'][group1] - df['response_prop'][group2])/se
 
