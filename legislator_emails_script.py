@@ -447,6 +447,77 @@ def analysis(df_final):
     # Close the Pandas Excel writer and output the Excel file.
     writer.save()
     
+    ###############################################################################################################
+    # Generating some figures
+    import matplotlib.pyplot as plt
+    import seaborn as sns
+    
+    for i in range(len(df)):
+        if df.iloc[i][23] == 'D':
+            df.iloc[[i],[23]] = 'Democrat'
+        elif df.iloc[i][23] == 'R':
+            df.iloc[[i],[23]] = 'Republican'
+    
+    # Topics
+    ax = sns.catplot(x = 'stem_length', y = 'topic', data = df, kind = 'box', sym = '', orient = 'h', color = 'gray', ci = 90)
+    ax.set(xlabel='Number of Tokens', ylabel='')
+
+    ax.savefig("plot_topic_stem.pdf")
+
+    ax = sns.catplot(x = 'pers_salutation', y = 'topic', data = df, kind = 'bar', orient = 'h', color = 'gray', ci = 90)
+    ax.set(xlabel='Proportion Personalized Salutation', ylabel='')
+
+    ax.savefig("plot_topic_sal.pdf")
+
+    ax = sns.catplot(x = 'response_checks', y = 'topic', data = df, kind = 'bar', orient = 'h', color = 'gray', ci = 90)
+    ax.set(xlabel='Proportion Constituent Verifcation Request', ylabel='')
+
+    ax.savefig("plot_topic_ver.pdf")
+
+    ax = sns.catplot(x = 'assistant', y = 'topic', data = df, kind = 'bar', orient = 'h', color = 'gray', ci = 90)
+    ax.set(xlabel='Proportion Legislate Aide Responses', ylabel='')
+
+    ax.savefig("plot_topic_aide.pdf")
+
+
+    df2 = df[df['party'] != 'Third-Party']
+
+
+    ax = sns.catplot(x = 'stem_length', y = 'topic', hue = 'slant', data = df2, kind = 'box', sym = '', orient = 'h', color = 'gray')
+    ax.set(xlabel='Number of Tokens', ylabel='')
+    ax.savefig("plot_topic_party_stem.pdf")
+
+    ax = sns.catplot(x = 'pers_salutation', y = 'topic', hue = 'slant', kind = 'bar', data = df2, orient = 'h', color = 'gray', ci = 90)
+    ax.set(xlabel='Proportion Personalized Salutation', ylabel='')
+    ax.savefig("plot_topic_party_sal.pdf")
+
+    ax = sns.catplot(x = 'response_checks', y = 'topic', hue = 'slant', kind = 'bar', data = df2, orient = 'h', color = 'gray', ci = 90)
+    ax.set(xlabel='Proportion Constituent Verifcation Request', ylabel='')
+    ax.savefig("plot_topic_party_ver.pdf")
+
+    ax = sns.catplot(x = 'assistant', y = 'topic', hue = 'slant', kind = 'bar', data = df2, orient = 'h', color = 'gray', ci = 90)
+    ax.set(xlabel='Proportion Legislate Aide Responses', ylabel='')
+    ax.savefig("plot_topic_party_aide.pdf")
+
+
+
+    ax = sns.catplot(x = 'stem_length', y = 'topic', hue = 'slant', col = 'party', kind = 'box', sym = '', data = df2, orient = 'h', color = 'gray')
+    ax.set(xlabel='Number of Tokens', ylabel='')
+    ax.savefig("plot_topic_party_slant_stem.pdf")
+
+    ax = sns.catplot(x = 'pers_salutation', y = 'topic', hue = 'slant', col = 'party', kind = 'bar', data = df2, orient = 'h', color = 'gray', ci = 90)
+    ax.set(xlabel='Proportion Personalized Salutation', ylabel='')
+    ax.savefig("plot_topic_party_slant_sal.pdf")
+
+    ax = sns.catplot(x = 'pers_salutation', y = 'topic', hue = 'slant', col = 'party', kind = 'bar', data = df2, orient = 'h', color = 'gray', ci = 90)
+    ax.set(xlabel='Proportion Constituent Verifcation Request', ylabel='')
+    ax.savefig("plot_topic_party_slant_ver.pdf")
+
+    ax = sns.catplot(x = 'pers_salutation', y = 'topic', hue = 'slant', col = 'party', kind = 'bar', data = df2, orient = 'h', color = 'gray', ci = 90)
+    ax.set(xlabel='Proportion Legislate Aide Responses', ylabel='')
+    ax.savefig("plot_topic_party_slant_aide.pdf")
+    ##########################################################################################
+    
     return authors
 
 def comp_tests(df, group1, group2):
